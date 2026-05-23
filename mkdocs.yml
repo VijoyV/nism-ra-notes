@@ -1,14 +1,11 @@
-site_name: NISM-RA Study Portal
-site_url: https://VijoyV.github.io/nism-ra-notes/
+site_name: NISM-Series-XV Study Guide
+site_url: https://vijoyv.github.io/nism-ra-notes/
 
 theme:
   name: material
   palette:
     primary: indigo
     accent: blue
-  features:
-    - navigation.tabs
-    - navigation.sections
 
 plugins:
   - search
@@ -20,10 +17,16 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-md-chtml.js
 
+# Ensure these filenames match the EXACT spelling in your /docs folder
 nav:
-  - Home: index.md
-  - Study Material:
-      - Chapter 3: Market Terminology: chapter-03.md
-      - Chapter 4: Another Chapter: chapter-04.md
-  - Interactive Practice:
-      - Online Quizzes: quiz.md
+  - "Home": index.md
+  - "Study Material":
+      - "Chapter 1: Research Profession": chapter-01.md
+      - "Chapter 2: Securities Market": chapter-02.md
+      - "Chapter 3: Market Terminology": chapter-03.md
+      - "Chapter 4: Fundamentals of Research": chapter-04.md
+      - "Chapter 5: Economic Analysis": chapter-05.md
+      - "Chapter 6: Industry Analysis": chapter-06.md
+      - "Chapter 7: Company Analysis": chapter-07.md
+  - "Interactive Practice":
+      - "Online Quizzes": quiz.md
