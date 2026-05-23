@@ -1,4 +1,4 @@
-# Chapter 3: Key Vocabulary & Market Terminology
+# Key Vocabulary & Market Terminology
 
 For a candidate from a non-financial background, Chapter 3 is arguably the most critical "vocabulary" chapter in the entire workbook. While it only accounts for 2 marks on its own, the terminology introduced here forms the essential language required to understand Chapter 8 (Financial Analysis) and Chapter 10 (Valuation Principles), which together represent 24% of the exam weightage.
 

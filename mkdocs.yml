@@ -27,6 +27,8 @@ nav:
       - "Chapter 4: Fundamentals of Research": chapter-04.md
       - "Chapter 5: Economic Analysis": chapter-05.md
       - "Chapter 6: Industry Analysis": chapter-06.md
-      - "Chapter 7: Company Analysis": chapter-07.md
+      - "Chapter 7: Company Analysis – Business and Governance": chapter-07.md
+      - "Chapter 8: Company Analysis – Financial Analysis": chapter-08.md
+      - "Vocabulary and Terminology": vocab-and-terminology.md
   - "Interactive Practice":
       - "Online Quizzes": quiz.md
