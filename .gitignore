@@ -1,0 +1,20 @@
+# MkDocs build directory
+# This folder is created when you run 'mkdocs build' or 'serve'
+# We don't need this on 'main' because gh-pages branch handles it.
+site/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
