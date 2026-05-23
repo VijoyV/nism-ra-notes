@@ -14,6 +14,9 @@ __pycache__/
 env/
 venv/
 ENV/
+private/
+pdf/
+xlsx/
 
 # OS generated files
 .DS_Store
