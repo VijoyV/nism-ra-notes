@@ -1,0 +1,29 @@
+site_name: NISM-RA Study Portal
+site_url: https://VijoyV.github.io/nism-ra-notes/
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-md-chtml.js
+
+nav:
+  - Home: index.md
+  - Study Material:
+      - Chapter 3: Market Terminology: chapter-03.md
+      - Chapter 4: Another Chapter: chapter-04.md
+  - Interactive Practice:
+      - Online Quizzes: quiz.md
