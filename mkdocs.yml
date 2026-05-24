@@ -25,7 +25,6 @@ extra_javascript:
 
 # Ensure these filenames match the EXACT spelling in your /docs folder
 nav:
-  - "Home": index.md
   - "Study Material":
       - "Chapter 1: Research Profession": chapter-01.md
       - "Chapter 2: Securities Market": chapter-02.md
@@ -36,5 +35,4 @@ nav:
       - "Chapter 7: Company Analysis – Business and Governance": chapter-07.md
       - "Chapter 8: Company Analysis – Financial Analysis": chapter-08.md
       - "Vocabulary and Terminology": vocab-and-terminology.md
-  - "Interactive Practice":
-      - "Online Quizzes": quiz.md
+  - "Interactive Practice": quiz.md
