@@ -10,11 +10,11 @@ The core function of an RA involves two distinct stages: **Research** (the colle
 
 Analysts require information at three levels to evaluate an investment:
 
-*   **Economic Information:** Sourced from government statistics, the **Reserve Bank of India (RBI)**, and international agencies like the **IMF**, **World Bank**, and **Asian Development Bank**.
+- **Economic Information:** Sourced from government statistics, the **Reserve Bank of India (RBI)**, and international agencies like the **IMF**, **World Bank**, and **Asian Development Bank**.
 
-*   **Industry Information:** Sourced from industry-specific journals and professional publications.
+- **Industry Information:** Sourced from industry-specific journals and professional publications.
 
-*   **Company-specific Information:** Sourced from financial statements, annual reports, regulatory filings, management Authorizations, plant visits, and stakeholder interviews.
+- **Company-specific Information:** Sourced from financial statements, annual reports, regulatory filings, management Authorizations, plant visits, and stakeholder interviews.
 
 ### B. Types of Research Analysts
 
@@ -35,10 +35,10 @@ The primary responsibility is to evaluate the growth of economies, industries, a
 ### I. Understanding the Economy
 
 Following Keynesian principles, analysts monitor how government spending and tax rates affect industries. Focus areas include:
-*   **Macro-economic factors:** National income, inflation, interest rates, and unemployment.
-*   **Policy Impacts:** Fiscal and Monetary policies.
-*   **Capital Flows:** Trends in **FDI** (Foreign Direct Investment) and **FPI** (Foreign Portfolio Investors).
-*   **Global Factors:** Export/import transactions and their impact on GDP.
+- **Macro-economic factors:** National income, inflation, interest rates, and unemployment.
+- **Policy Impacts:** Fiscal and Monetary policies.
+- **Capital Flows:** Trends in **FDI** (Foreign Direct Investment) and **FPI** (Foreign Portfolio Investors).
+- **Global Factors:** Export/import transactions and their impact on GDP.
 
 ### II. Understanding the Industry
 
@@ -59,16 +59,16 @@ Companies are evaluated through two primary lenses: Qualitative and Quantitative
 
 Direct interaction with company management provides insights into a firm's vision and strategy. However, analysts must **cross-verify** management claims to avoid being misled by "rosy pictures" designed to influence market prices.
 
-*   **Pre-meeting Research:** Analysts must be thoroughly familiar with the company's products, industry, competitors, and past annual reports before meeting management.
-*   **Independence:** Opinions must be based on factual information and remain unbiased.
-*   **Non-public Information:** Analysts must explicitly instruct management **not to reveal** any information that is not available in the public domain.
-*   **Broad Network:** Meaningful inputs should be gathered not just from management, but also from suppliers, distributors, retailers, and customers.
+- **Pre-meeting Research:** Analysts must be thoroughly familiar with the company's products, industry, competitors, and past annual reports before meeting management.
+- **Independence:** Opinions must be based on factual information and remain unbiased.
+- **Non-public Information:** Analysts must explicitly instruct management **not to reveal** any information that is not available in the public domain.
+- **Broad Network:** Meaningful inputs should be gathered not just from management, but also from suppliers, distributors, retailers, and customers.
 
 ### Guidelines for Client Communication
 
-*   **Realistic View:** Suggestions must be based on facts, avoiding overly optimistic or pessimistic bias.
-*   **Simplicity:** Reports should be clear and concise, explaining any jargons or abbreviations.
-*   **Disclosures:** Any **conflicts of interest** (e.g., if the RA holds shares in the company being researched) must be disclosed beforehand.
+- **Realistic View:** Suggestions must be based on facts, avoiding overly optimistic or pessimistic bias.
+- **Simplicity:** Reports should be clear and concise, explaining any jargons or abbreviations.
+- **Disclosures:** Any **conflicts of interest** (e.g., if the RA holds shares in the company being researched) must be disclosed beforehand.
 
 ---
 
@@ -78,23 +78,18 @@ Success in this profession requires a blend of technical skills and specific per
 
 **Core Competencies:**
 
-*   **Technical:** Proficiency in Excel, data analytical tools, and a high degree of comfort with numbers.
-*   **Conceptual:** Clarity in financial concepts and the ability to comprehend complex financial reports.
-*   **Inquisitive:** An enquiring mind capable of asking pertinent questions and paying attention to minute details.
-*   **Communicative:** Strong written and verbal communication skills for presenting recommendations.
+- **Technical:** Proficiency in Excel, data analytical tools, and a high degree of comfort with numbers.
+- **Conceptual:** Clarity in financial concepts and the ability to comprehend complex financial reports.
+- **Inquisitive:** An enquiring mind capable of asking pertinent questions and paying attention to minute details.
+- **Communicative:** Strong written and verbal communication skills for presenting recommendations.
 
 ---
 
 ### **Quick Facts for Revision**
 
-*   **Key Distinction:** Research is the *collection* of data; Analysis is the *processing* of data for decision-making.
-*   **Economic Barometers:** National income, inflation, and interest rates are critical variables for an RA.
-*   **Agency Risk:** RAs help reduce agency risk (the gap between management and ownership) by evaluating "sweat equity" and ESOP impacts.
-*   **Ethics:** SEBI mandates that RAs perform their roles with utmost sincerity, honesty, and ethics.
-*   **Documentation:** It is recommended to use recording devices during management interviews, provided consent is obtained.
+- **Key Distinction:** Research is the *collection* of data; Analysis is the *processing* of data for decision-making.
+- **Economic Barometers:** National income, inflation, and interest rates are critical variables for an RA.
+- **Agency Risk:** RAs help reduce agency risk (the gap between management and ownership) by evaluating "sweat equity" and ESOP impacts.
+- **Ethics:** SEBI mandates that RAs perform their roles with utmost sincerity, honesty, and ethics.
+- **Documentation:** It is recommended to use recording devices during management interviews, provided consent is obtained.
 
-## Questions
-
-1. What is the difference between Sell-side and Buy-side analysts?
-2. Explain the difference between Qualitative and Quantitative company analysis.
-3. How do Macro-economic factors like inflation impact a Research Analyst's work?

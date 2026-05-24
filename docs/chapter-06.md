@@ -6,11 +6,11 @@ Industry analysis acts as the critical bridge between macro-economic analysis an
 
 ## 6.1 Role of Industry Analysis in Fundamental Research
 Industry analysis evaluates the specific external factors that influence a group of similar businesses. Analysts must address several key questions:
-*   **Industry Definition:** What exactly is the industry scope?
-*   **Cyclicality:** How sensitive is the sector to economic booms and busts?
-*   **Market Sizing:** What is the potential for growth versus current penetration?
-*   **Competitive Landscape:** What is the level of rivalry and pricing power?
-*   **Value Migration:** Are secular trends shifting profit from one sector to another?
+- **Industry Definition:** What exactly is the industry scope?
+- **Cyclicality:** How sensitive is the sector to economic booms and busts?
+- **Market Sizing:** What is the potential for growth versus current penetration?
+- **Competitive Landscape:** What is the level of rivalry and pricing power?
+- **Value Migration:** Are secular trends shifting profit from one sector to another?
 
 ---
 
@@ -39,8 +39,8 @@ Industries are categorized by their "income elasticity," or how much demand chan
 
 ## 6.4 Market Sizing and Trend Analysis
 Analysts use two primary approaches to measure an industry's potential:
-*   **Top-Down Approach:** Starts with macro-factors (e.g., total population) and narrows down to potential users and average expenditure.
-*   **Bottom-Up Approach:** Aggregates the reported data of all individual companies in the sector to arrive at total industry revenue.
+- **Top-Down Approach:** Starts with macro-factors (e.g., total population) and narrows down to potential users and average expenditure.
+- **Bottom-Up Approach:** Aggregates the reported data of all individual companies in the sector to arrive at total industry revenue.
 
 ---
 
@@ -48,15 +48,15 @@ Analysts use two primary approaches to measure an industry's potential:
 **Secular trends** are long-term shifts (occurring once every 7–10 years) that permanently change how goods are produced or consumed.
 
 **Drivers of Secular Trends:**
-*   **Technology:** e.g., Digital cameras making film obsolete; Shale gas drilling lowering energy costs.
-*   **Demographics:** e.g., An aging population in Japan reducing beer consumption.
-*   **Culture:** e.g., Shift toward western clothing in Asia or organic foods.
+- **Technology:** e.g., Digital cameras making film obsolete; Shale gas drilling lowering energy costs.
+- **Demographics:** e.g., An aging population in Japan reducing beer consumption.
+- **Culture:** e.g., Shift toward western clothing in Asia or organic foods.
 
 **Value Migration:**
 This happens when a phenomenon creates a long-term advantage for one entity at the cost of others.
-*   **Geographic:** Value shifting to low-cost hubs like China.
-*   **Cross-Industry:** e.g., Digital photography destroying the film roll industry (Kodak).
-*   **Across Value Chain:** e.g., High competition in Indian telecom reducing carrier profits but benefiting digital content providers.
+- **Geographic:** Value shifting to low-cost hubs like China.
+- **Cross-Industry:** e.g., Digital photography destroying the film roll industry (Kodak).
+- **Across Value Chain:** e.g., High competition in Indian telecom reducing carrier profits but benefiting digital content providers.
 
 ---
 
@@ -75,19 +75,19 @@ This model determines an industry's attractiveness and long-term profitability.
 
 ### II. PESTLE Analysis
 Evaluates the external macro-environmental factors.
-*   **Political:** Stability, corruption levels, and fiscal policy.
-*   **Economic:** GDP contributors, inflation, interest rates, and trade balance.
-*   **Socio-Cultural:** Demographics, lifestyle factors, and education.
-*   **Technological:** R&D activity and digital infrastructure.
-*   **Legal:** Transparency in legal architecture and enforcement of laws.
-*   **Environmental:** Pollution control, waste disposal, and ESG compliance.
+- **Political:** Stability, corruption levels, and fiscal policy.
+- **Economic:** GDP contributors, inflation, interest rates, and trade balance.
+- **Socio-Cultural:** Demographics, lifestyle factors, and education.
+- **Technological:** R&D activity and digital infrastructure.
+- **Legal:** Transparency in legal architecture and enforcement of laws.
+- **Environmental:** Pollution control, waste disposal, and ESG compliance.
 
 ### III. BCG Matrix
 Classifies business segments based on **Market Growth** and **Market Share**.
-*   **Stars:** High growth, high share. Require investment but generate high cash.
-*   **Cash Cows:** Low growth, high share. Stable, steady cash generators (e.g., **Colgate, Navneet Publications**).
-*   **Question Marks:** High growth, low share. Risky; require strategy to become Stars.
-*   **Dogs:** Low growth, low share. Low cash generation.
+- **Stars:** High growth, high share. Require investment but generate high cash.
+- **Cash Cows:** Low growth, high share. Stable, steady cash generators (e.g., **Colgate, Navneet Publications**).
+- **Question Marks:** High growth, low share. Risky; require strategy to become Stars.
+- **Dogs:** Low growth, low share. Low cash generation.
 
 ---
 
@@ -106,20 +106,20 @@ Classifies business segments based on **Market Growth** and **Market Share**.
 ## 6.8 Taxation in India
 
 ### Direct Taxes
-*   **Corporate Income Tax:** Standard rate is **30%** (or **25%** for turnover below ₹400 cr).
-*   **MAT (Minimum Alternate Tax):** Payable if income tax is less than **15%** of book profits.
-*   **Surcharge:** 12% if income is above ₹10 cr; 7% if between ₹1 cr and ₹10 cr.
-*   **Cess:** 4% Health and Education cess.
+- **Corporate Income Tax:** Standard rate is **30%** (or **25%** for turnover below ₹400 cr).
+- **MAT (Minimum Alternate Tax):** Payable if income tax is less than **15%** of book profits.
+- **Surcharge:** 12% if income is above ₹10 cr; 7% if between ₹1 cr and ₹10 cr.
+- **Cess:** 4% Health and Education cess.
 
 ### Indirect Taxes
-*   **GST:** Most goods are taxed at **18%**.
-*   **Excise & VAT:** Still applicable to **liquor, petrol, and diesel**.
-*   **STT (Securities Transaction Tax):** Paid at the time of selling securities.
+- **GST:** Most goods are taxed at **18%**.
+- **Excise & VAT:** Still applicable to **liquor, petrol, and diesel**.
+- **STT (Securities Transaction Tax):** Paid at the time of selling securities.
 
 ---
 
 ### **Quick Facts for Revision**
-*   **The "Moat":** A term popularized by Warren Buffett referring to high barriers to entry that protect a business from competitors.
-*   **Role Reversal:** In SCP analysis, **Structure** determines **Conduct**, which in turn results in **Performance** (RoE, RoIC).
-*   **Road Tax:** A lifetime tax paid upfront by automobile purchasers that can impact downstream auto-ancillary demand.
-*   **Going Concern:** If a company is loss-making and a turnaround is unlikely, it is valued at **liquidation value** rather than EV/Sales.
+- **The "Moat":** A term popularized by Warren Buffett referring to high barriers to entry that protect a business from competitors.
+- **Role Reversal:** In SCP analysis, **Structure** determines **Conduct**, which in turn results in **Performance** (RoE, RoIC).
+- **Road Tax:** A lifetime tax paid upfront by automobile purchasers that can impact downstream auto-ancillary demand.
+- **Going Concern:** If a company is loss-making and a turnaround is unlikely, it is valued at **liquidation value** rather than EV/Sales.

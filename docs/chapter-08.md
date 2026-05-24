@@ -6,18 +6,18 @@ Financial analysis translates qualitative business assessments into numerical ex
 
 ## 8.1 Introduction to Financial Statements
 Financial statements are prepared under **accrual accounting**, where income is recognized when earned and expenses when incurred, regardless of when cash changes hands. Under IndAS 1, a complete set includes:
-*   **Balance Sheet:** Financial position at a specific point in time.
-*   **Profit and Loss (P/L) Statement:** Financial performance over a period.
-*   **Statement of Changes in Equity:** Movements in shareholder funds.
-*   **Cash Flow Statement:** Sources and uses of cash.
-*   **Notes to Accounts:** Detailed explanations of accounting policies and breakdowns of line items.
+- **Balance Sheet:** Financial position at a specific point in time.
+- **Profit and Loss (P/L) Statement:** Financial performance over a period.
+- **Statement of Changes in Equity:** Movements in shareholder funds.
+- **Cash Flow Statement:** Sources and uses of cash.
+- **Notes to Accounts:** Detailed explanations of accounting policies and breakdowns of line items.
 
 ---
 
 ## 8.2 Consolidated vs. Stand-alone Results
-*   **Stand-alone Financials:** Represent the financial position of the parent entity alone.
-*   **Consolidated Financials:** Treat a parent company and all its controlled subsidiaries as a single economic unit.
-*   **Key Insight:** Analysts generally prefer **consolidated statements** as they provide a holistic view of the entire business group's performance.
+- **Stand-alone Financials:** Represent the financial position of the parent entity alone.
+- **Consolidated Financials:** Treat a parent company and all its controlled subsidiaries as a single economic unit.
+- **Key Insight:** Analysts generally prefer **consolidated statements** as they provide a holistic view of the entire business group's performance.
 
 ---
 
@@ -31,14 +31,14 @@ The balance sheet follows the equation: $\text{Assets} = \text{Equity} + \text{L
 | **Current Assets** | Benefits expected within one operating cycle (typically one year). | Inventory, Trade Receivables, Cash & Cash Equivalents, Short-term Investments. |
 
 ### II. Equity and Liabilities
-*   **Equity:** Represents residual interest belonging to owners (Share Capital + Reserves).
-*   **Non-Current Liabilities:** Long-term obligations like term loans and bonds due beyond one year.
-*   **Current Liabilities:** Obligations due within one year, such as Trade Payables, short-term debt, and the current portion of long-term debt.
+- **Equity:** Represents residual interest belonging to owners (Share Capital + Reserves).
+- **Non-Current Liabilities:** Long-term obligations like term loans and bonds due beyond one year.
+- **Current Liabilities:** Obligations due within one year, such as Trade Payables, short-term debt, and the current portion of long-term debt.
 
 ### III. Balance Sheet Metrics
-*   **Total Debt:** Sum of long-term debt, short-term debt, lease obligations, and current maturities.
-*   **Working Capital:** $\text{Current Assets} - \text{Current Liabilities}$.
-*   **Core Working Capital:** $\text{Inventory} + \text{Trade Receivables} - \text{Trade Payables}$. This measures the capital required to sustain core operations.
+- **Total Debt:** Sum of long-term debt, short-term debt, lease obligations, and current maturities.
+- **Working Capital:** $\text{Current Assets} - \text{Current Liabilities}$.
+- **Core Working Capital:** $\text{Inventory} + \text{Trade Receivables} - \text{Trade Payables}$. This measures the capital required to sustain core operations.
 
 ---
 
@@ -46,9 +46,9 @@ The balance sheet follows the equation: $\text{Assets} = \text{Equity} + \text{L
 The P/L account reveals a company's ability to generate value from its operations.
 
 ### I. Key Profit Metrics
-*   **EBITDA:** Earning Before Interest, Tax, Depreciation, and Amortization. It measures operating efficiency without the impact of capital structure or non-cash charges.
-*   **EBIT (Operating Profit):** EBITDA minus Depreciation and Amortization. Used to measure the ability to service interest.
-*   **PAT (Net Profit):** Final profit available to shareholders after all expenses and taxes.
+- **EBITDA:** Earning Before Interest, Tax, Depreciation, and Amortization. It measures operating efficiency without the impact of capital structure or non-cash charges.
+- **EBIT (Operating Profit):** EBITDA minus Depreciation and Amortization. Used to measure the ability to service interest.
+- **PAT (Net Profit):** Final profit available to shareholders after all expenses and taxes.
 
 ### II. Adjusted Profit after Tax
 Analysts calculate **Adjusted PAT** by removing the impact of **Exceptional Items** (one-time, non-recurring events) to understand the company's true sustainable earning power.
@@ -65,9 +65,9 @@ Cash flows are segregated into three distinct streams:
 
 ## 8.6 Quality of Accounting: Audit Reports
 An auditor reviews the financial statements and provides one of three opinions:
-*   **Clean Report:** No issues found; reflects a "true and fair" view.
-*   **Qualified Report:** The auditor has specific reservations about certain accounting treatments.
-*   **Disclaimer:** The auditor is unable to verify parts of the financials due to a lack of information.
+- **Clean Report:** No issues found; reflects a "true and fair" view.
+- **Qualified Report:** The auditor has specific reservations about certain accounting treatments.
+- **Disclaimer:** The auditor is unable to verify parts of the financials due to a lack of information.
 
 ---
 
@@ -93,13 +93,13 @@ An auditor reviews the financial statements and provides one of three opinions:
 ## 8.8 Dupont Analysis
 Dupont Analysis decomposes ROE into three drivers to identify **how** a company is generating returns:
 $$\text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}$$
-*   **Insight:** If ROE increases due to higher leverage rather than margin or efficiency, it signals higher risk.
+- **Insight:** If ROE increases due to higher leverage rather than margin or efficiency, it signals higher risk.
 
 ---
 
 ### **Quick Facts for Revision**
-*   **Accrual Basis:** Profits in the P/L do not equal cash in the bank.
-*   **Goodwill:** Arises when an acquisition price exceeds the fair value of net assets.
-*   **Contingent Liabilities:** Potential obligations recorded in notes (e.g., lawsuits) but not on the balance sheet.
-*   **Inventory Turnover:** Higher is better; it indicates how fast stock is converted into sales.
-*   **Insider Activity:** If insiders are buying, it is often a strong signal of future profit potential.
+- **Accrual Basis:** Profits in the P/L do not equal cash in the bank.
+- **Goodwill:** Arises when an acquisition price exceeds the fair value of net assets.
+- **Contingent Liabilities:** Potential obligations recorded in notes (e.g., lawsuits) but not on the balance sheet.
+- **Inventory Turnover:** Higher is better; it indicates how fast stock is converted into sales.
+- **Insider Activity:** If insiders are buying, it is often a strong signal of future profit potential.

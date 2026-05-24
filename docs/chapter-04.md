@@ -18,8 +18,8 @@ The workbook distinguishes between these three activities based on the participa
 | **Key Driver** | Fundamental value and risk reduction. | Price anomalies and statistical patterns. | Calculated guesses and incomplete information. |
 
 ### II. Active vs. Passive Investing
-*   **Active Investing:** This strategy involves identifying specific securities priced below their **intrinsic value** to outperform the broader asset class. It requires constant evaluation and typically involves a higher volume of transactions.
-*   **Passive Investing:** This approach aims to match the performance of a specific asset class, often by tracking a market index like the Nifty 50. Analysis is limited to the asset class level rather than individual stocks.
+- **Active Investing:** This strategy involves identifying specific securities priced below their **intrinsic value** to outperform the broader asset class. It requires constant evaluation and typically involves a higher volume of transactions.
+- **Passive Investing:** This approach aims to match the performance of a specific asset class, often by tracking a market index like the Nifty 50. Analysis is limited to the asset class level rather than individual stocks.
 
 ---
 
@@ -28,8 +28,8 @@ The fundamental research process is divided into two parts: **Research** (obtain
 
 ### I. Insider Information vs. Mosaic Analysis
 Analysts must navigate the ethical boundary between gaining a competitive edge and using illegal information.
-*   **Insider Information:** This is material, non-public information that would immediately affect an investor's decision if it were made public. Trading on such information is illegal.
-*   **Mosaic Analysis:** This is the **legal practice** of collecting multiple pieces of public information and non-material, non-public information to form a critical insight. The "mosaic" is the final picture created by piecing together these smaller, individually insignificant bits of data.
+- **Insider Information:** This is material, non-public information that would immediately affect an investor's decision if it were made public. Trading on such information is illegal.
+- **Mosaic Analysis:** This is the **legal practice** of collecting multiple pieces of public information and non-material, non-public information to form a critical insight. The "mosaic" is the final picture created by piecing together these smaller, individually insignificant bits of data.
 
 ---
 
@@ -42,9 +42,9 @@ Technical analysis assumes that **all relevant information is already reflected 
 3.  **Time Span:** The period over which price and volume reflect the impact of market factors.
 
 **Key Tools:**
-*   **Price Charts:** Line, bar, and candlestick charts are used to visualize patterns.
-*   **Support and Resistance:** Psychological levels where buying or selling interest is concentrated.
-*   **Trends:** Identifying whether the market is moving upwards, downwards, or sideways.
+- **Price Charts:** Line, bar, and candlestick charts are used to visualize patterns.
+- **Support and Resistance:** Psychological levels where buying or selling interest is concentrated.
+- **Trends:** Identifying whether the market is moving upwards, downwards, or sideways.
 
 ---
 
@@ -60,8 +60,8 @@ Comprehensive fundamental research is organized into three analytical baskets:
 ---
 
 ## 4.5 Quantitative and Behavioural Approaches
-*   **Quantitative Research:** Uses mathematical and statistical models (econometrics) to analyze financial and operational metrics. A major limitation is that frequent changes in accounting standards make historical data difficult to compare with the present.
-*   **Behavioural Approach:** This philosophy suggests that security prices deviate from their fair value because of the **fear and greed** of participants. Decisions are often influenced by psychological biases rather than pure logic.
+- **Quantitative Research:** Uses mathematical and statistical models (econometrics) to analyze financial and operational metrics. A major limitation is that frequent changes in accounting standards make historical data difficult to compare with the present.
+- **Behavioural Approach:** This philosophy suggests that security prices deviate from their fair value because of the **fear and greed** of participants. Decisions are often influenced by psychological biases rather than pure logic.
 
 ---
 
@@ -78,8 +78,8 @@ Commodity research focuses on the economic, political, and natural factors influ
 
 ## 4.7 Case Studies and Historical Market Impact
 ### I. Gold and Crude Oil
-*   **Gold:** Viewed as an inflation hedge and a "safe-haven" asset. It typically has an **inverse relationship** with stocks, bonds, and currencies. Major demand sectors include Jewelry (47%), Investment (24%), and Central Bank Reserves (23%).
-*   **Crude Oil:** Often called "Black Gold," its quality is determined by **density (API gravity)** and **sulphur content**. **WTI** is a high-quality US-traded oil, while **Brent** is the benchmark for Europe and Africa.
+- **Gold:** Viewed as an inflation hedge and a "safe-haven" asset. It typically has an **inverse relationship** with stocks, bonds, and currencies. Major demand sectors include Jewelry (47%), Investment (24%), and Central Bank Reserves (23%).
+- **Crude Oil:** Often called "Black Gold," its quality is determined by **density (API gravity)** and **sulphur content**. **WTI** is a high-quality US-traded oil, while **Brent** is the benchmark for Europe and Africa.
 
 ### II. Negative Oil Prices (April 20, 2020)
 WTI crude oil prices briefly turned negative because a global COVID-19 lockdown eliminated demand. Since the WTI contract was deliverable at Cushing, Oklahoma, and storage capacity reached its limit, buyers were not ready to take physical delivery, resulting in a selling spree that pushed prices below zero.
@@ -87,8 +87,8 @@ WTI crude oil prices briefly turned negative because a global COVID-19 lockdown 
 ---
 
 ### **Quick Facts for Revision**
-*   **Investing Principle:** Profits come from identifying a good investment *and* making that investment at the right price.
-*   **Efficient Market Hypothesis (EMH):** Fundamental analysis contradicts EMH, which claims prices already reflect all relevant info.
-*   **Technical Philosophy:** "Price moves in trends" and "History repeats itself".
-*   **Mosaic Analysis Rule:** It is legal to piece together small bits of non-material info to gain a "big picture" insight.
-*   **Commodity Indicator:** A fall in copper prices often signals a global slowdown in industrial demand.
+- **Investing Principle:** Profits come from identifying a good investment *and* making that investment at the right price.
+- **Efficient Market Hypothesis (EMH):** Fundamental analysis contradicts EMH, which claims prices already reflect all relevant info.
+- **Technical Philosophy:** "Price moves in trends" and "History repeats itself".
+- **Mosaic Analysis Rule:** It is legal to piece together small bits of non-material info to gain a "big picture" insight.
+- **Commodity Indicator:** A fall in copper prices often signals a global slowdown in industrial demand.
