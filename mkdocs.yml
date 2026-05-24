@@ -6,6 +6,9 @@ theme:
   palette:
     primary: indigo
     accent: blue
+  features:
+    - navigation.footer  # This enables the "Next" and "Prev" area
+    - navigation.tracking # Optional: Updates the URL as you scroll
 
 plugins:
   - search
