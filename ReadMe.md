@@ -1,10 +1,10 @@
-This is a perfect way to document the process so you don't have to remember these technical hurdles later. You can save this as `README.md` in your root folder.
+This updated `README.md` now includes the **MathJax** setup (so your AI-generated formulas render correctly) and the **Sequential Workflow** to ensure your code and your website stay in sync.
 
 ---
 
 # NISM-RA Study Guide: Maintenance & Deployment
 
-This guide explains how to add new study material, test it locally, and deploy it to the live website.
+This guide explains how to add new study material, test it locally, and deploy it to the live website using the **Local Build** method.
 
 ## 1. Project Structure
 
@@ -12,24 +12,24 @@ To ensure the site builds correctly, keep the files in this layout:
 
 ```text
 nism-ra-notes/
-├── mkdocs.yml          # Core configuration and Sidebar (LHS) setup
-├── docs/               # All content goes here
+├── mkdocs.yml          # Configuration & MathJax settings
+├── .gitignore          # Keeps build files out of GitHub
+├── docs/               # ALL content goes here
 │   ├── index.md        # The Homepage
 │   ├── chapter-01.md   # Study notes
-│   └── data/           # Folder for quiz JSON files
-└── .github/            # (Optional) GitHub automation files
+│   ├── data/           # Folder for quiz JSON files
+│   └── javascripts/    # Contains mathjax.js for formulas
+└── .github/            # (Optional)
 
 ```
 
 ---
 
-## 2. Local Development (Testing before Pushing)
+## 2. Local Development (Testing)
 
-Use this to see changes instantly and test the Quiz functionality (fetching JSON) without security errors.
+Always test locally to check if your **Math formulas ($)** and **Quiz JSON** work before going live.
 
 ### One-Time Setup
-
-If you haven't installed the theme yet:
 
 ```powershell
 pip install mkdocs-material
@@ -38,7 +38,7 @@ pip install mkdocs-material
 
 ### Launch Local Server
 
-Run this command from the root `nism-ra-notes` folder:
+Run this from the root `nism-ra-notes` folder:
 
 ```powershell
 python -m mkdocs serve
@@ -46,52 +46,57 @@ python -m mkdocs serve
 ```
 
 * **View at:** `http://127.0.0.1:8000`
-* **Note:** The browser will refresh automatically every time you save a file in VS Code.
+* **Live Preview:** The browser refreshes automatically as you save files in VS Code.
 
 ---
 
-## 3. Adding New Content
+## 3. The "Golden Loop" Workflow (Commit & Deploy)
 
-1. Create a new `.md` file inside the `docs/` folder.
-2. Add the new file to the `nav` section in `mkdocs.yml`:
-```yaml
-nav:
-  - "Chapter 8: Company Analysis": chapter-08.md
+To keep your GitHub code and the Live Site in sync, follow these three steps in order:
+
+### Step A: Save Source to GitHub (`main` branch)
+
+This saves your `.md` and `.yml` files.
+
+```powershell
+git add .
+git commit -m "Update notes and math config"
+git push origin main
 
 ```
 
+### Step B: Publish to the Web (`gh-pages` branch)
 
-*Note: Always use double quotes if the title contains a colon (`:`).*
-
----
-
-## 4. Deployment to GitHub Pages
-
-Once your local test looks good, follow these steps to go live.
-
-### The Deployment Command
-
-Run this in your terminal to compile the HTML and push it to the live branch:
+This converts the Markdown to HTML and pushes it to the live site.
 
 ```powershell
 python -m mkdocs gh-deploy
 
 ```
 
-### Critical GitHub Settings (Must be Noted)
+---
 
-If the site shows a 404, verify these settings at:
-`GitHub Repo > Settings > Pages`
+## 4. Formula & Math Rendering
 
-* **Build and Deployment > Source:** Must be set to **"Deploy from a branch"**.
-* **Branch:** Must be set to **`gh-pages`** and the folder to **`/(root)`**.
-* **Custom Domain:** Leave blank unless using a private domain.
-* **Enforce HTTPS:** Should be **Checked**.
+The AI-generated math formulas (using `$`) require **Arithmatex**.
+
+1. **`mkdocs.yml`** must include `pymdownx.arithmatex` in the extensions.
+2. **`docs/javascripts/mathjax.js`** must exist to tell the browser to recognize the `$` sign.
 
 ---
 
-## 5. Troubleshooting 404 Errors
+## 5. Critical GitHub Settings
 
-* **Empty Site:** Ensure all `.md` files are inside the `docs/` folder.
-* **URL Case:** The URL is case-sensitive. Use `https://vijoyv.github.io/nism-ra-notes/`.
-* **Refresh:** If you just deployed, wait 2–3 minutes for GitHub's servers to sync. Use an Incognito window to bypass browser cache.
+If the site shows a 404, verify these settings at: `GitHub Repo > Settings > Pages`
+
+* **Source:** Must be set to **"Deploy from a branch"** (Do NOT use GitHub Actions).
+* **Branch:** Must be set to **`gh-pages`** and the folder to **`/(root)`**.
+* **Enforce HTTPS:** Must be **Checked**.
+
+---
+
+## 6. Troubleshooting
+
+* **Formula not showing?** Check if `python -m mkdocs serve` shows any errors in the terminal.
+* **404 Error?** GitHub takes ~2 minutes to sync. Try an **Incognito Window** to bypass the browser cache.
+* **Command not recognized?** Always use `python -m mkdocs` instead of just `mkdocs`.
