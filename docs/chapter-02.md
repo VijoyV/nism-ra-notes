@@ -103,7 +103,7 @@ Facilitates the trading of already-issued securities, providing liquidity to inv
 
 ---
 
-### **Quick Facts for Revision**
+## **Quick Facts for Revision**
 
 - **Agency Risk:** The risk that management might not act in the best interest of owners; instruments like ESOPs and Sweat Equity help reduce this.
 

@@ -10,15 +10,15 @@ Equity represents ownership and carries higher risks and potentially higher rewa
 
 ### I. Values and Prices
 
-- **Face Value (FV):** The nominal price of a share. It is used to calculate dividends (e.g., a 30% dividend on a ₹10 FV share is ₹3).
+**Face Value (FV):** The nominal price of a share. It is used to calculate dividends (e.g., a 30% dividend on a ₹10 FV share is ₹3).
 
-- **Book Value (BV):** The "accounting value" or net-worth per share. It is the theoretical amount each share would get if the company wound up today.
+**Book Value (BV):** The "accounting value" or net-worth per share. It is the theoretical amount each share would get if the company wound up today.
 
-- **Market Value:** The current price at which a share trades in the stock market.
+**Market Value:** The current price at which a share trades in the stock market.
 
-- **Intrinsic Value:** The estimated "true" value of a share based on future earning potential. Investors buy when Intrinsic Value > Market Value (undervalued).
+**Intrinsic Value:** The estimated "true" value of a share based on future earning potential. Investors buy when Intrinsic Value > Market Value (undervalued).
 
-- **Replacement Value:** The cost to set up an identical company with similar infrastructure today.
+**Replacement Value:** The cost to set up an identical company with similar infrastructure today.
 
 ### II. Valuation Metrics and Ratios
 
@@ -40,9 +40,14 @@ These metrics help analysts determine if a stock is cheap or expensive relative 
 Debt represents a loan to an issuer. The primary risks are **Interest Rate Risk** (price volatility) and **Credit Risk** (default risk).
 
 ### I. Key Definitions
-- **Coupon Rate:** The fixed interest rate paid as a percentage of the Face Value.
-- **Yield to Maturity (YTM):** The total return expected if the bond is held until maturity, equating future cash flows to the current market price.
-- **Duration:** A measure of a bond's price sensitivity to interest rate changes. **Rule:** If interest rates rise, bond prices fall; bonds with higher duration fall more.
+
+**Coupon Rate:** The fixed interest rate paid as a percentage of the Face Value.
+
+**Yield to Maturity (YTM):** The total return expected if the bond is held until maturity, equating future cash flows to the current market price.
+
+**Duration:** A measure of a bond's price sensitivity to interest rate changes. 
+
+> **Rule:** If interest rates rise, bond prices fall; bonds with higher duration fall more.
 
 ### II. Yield Comparisons
 
@@ -71,17 +76,28 @@ Companies and governments modify bond features to attract different types of inv
 
 ## 3.4 Terminology in Commodity Markets
 
-- **Spot Price:** The current market price for immediate delivery.
-- **Basis:** The difference between the spot price and the futures price ($\text{Basis} = \text{Spot} - \text{Futures}$).
-- **Contango:** A situation where futures prices are **higher** than spot prices.
-- **Backwardation:** A situation where futures prices are **lower** than spot prices.
-- **Cost of Carry:** The cost of storing, insuring, and financing a physical commodity until delivery.
+**Spot Price:** The current market price for immediate delivery.
+
+**Basis:** The difference between the spot price and the futures price.
+
+> $\text{Basis} = \text{Spot} - \text{Futures}$).
+
+**Contango:** A situation where futures prices are **higher** than spot prices.
+
+**Backwardation:** A situation where futures prices are **lower** than spot prices.
+
+**Cost of Carry:** The cost of storing, insuring, and financing a physical commodity until delivery.
 
 ---
 
-### **Quick Facts for Revision**
-- **Inverse Relationship:** Market interest rates and bond prices move in opposite directions.
-- **Agency Risk Reduction:** ESOPs and Sweat Equity align management interests with shareholders.
-- **DVRs:** Shares with Differential Voting Rights usually trade at a discount to common shares.
-- **TTM:** "Trailing Twelve Months" refers to the immediate previous 12 months used for current earnings analysis.
-- **Capital Protection:** PPNs (Principal-Protected Notes) aim to protect the initial investment but are still subject to the **credit risk** of the issuer.
+## **Quick Facts for Revision**
+
+**Inverse Relationship:** Market interest rates and bond prices move in opposite directions.
+
+**Agency Risk Reduction:** ESOPs and Sweat Equity align management interests with shareholders.
+
+**DVRs:** Shares with Differential Voting Rights usually trade at a discount to common shares.
+
+**TTM:** "Trailing Twelve Months" refers to the immediate previous 12 months used for current earnings analysis.
+
+**Capital Protection:** PPNs (Principal-Protected Notes) aim to protect the initial investment but are still subject to the **credit risk** of the issuer.

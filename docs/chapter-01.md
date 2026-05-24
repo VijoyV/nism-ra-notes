@@ -97,7 +97,7 @@ Success in this profession requires a blend of technical skills and specific per
 
 ---
 
-### **Quick Facts for Revision**
+## **Quick Facts for Revision**
 
 - **Key Distinction:** Research is the *collection* of data; Analysis is the *processing* of data for decision-making.
 
