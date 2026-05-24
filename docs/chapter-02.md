@@ -5,10 +5,15 @@ Securities are transferable financial claims or contracts that evidence debt (li
 ## 2.1 Definition of "Securities"
 
 Under Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)**, the term "Securities" is broad and includes:
+
 - Shares, scrips, stocks, bonds, and debentures.
+
 - **Derivatives.**
+
 - Units issued by collective investment schemes or **Mutual Funds.**
+
 - Government securities (G-Secs).
+
 - Rights or interests in securities, such as **Electronic Gold Receipts (EGRs)**.
 
 ---
@@ -17,8 +22,10 @@ Under Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)**
 The market offers a wide variety of instruments categorized by their risk and return profiles.
 
 ### I. Equity and Debt
+
 - **Equity Shares:** 
     * Represent fractional ownership in a business. Shareholders bear the highest risk but enjoy ownership rewards.
+
 - **Debt Instruments:** 
     - Includes Debentures, Bonds, and Notes. These represent a loan to the issuer.
     - **Convertible Debentures:** Can be converted into equity at a later date (Fully, Partly, or Optionally).
@@ -33,26 +40,39 @@ The market offers a wide variety of instruments categorized by their risk and re
 | **Masala Bond** | Indian Entity | Outside India | Indian Rupees (INR) |
 
 ### III. Hybrids and Other Instruments
+
 - **Warrants:** Rights (not obligations) to buy equity at a pre-determined price later.
+
 - **Depository Receipts (DRs):** Represent shares of a foreign company (e.g., ADRs in USA, GDRs in Europe, IDRs in India).
+
 - **REITs and InvITs:** Trust-based vehicles pooling money to invest in rent-generating real estate or infrastructure projects.
+
 - **ETFs (Exchange Traded Funds):** Passively managed funds tracking an index or commodity, traded like regular shares on an exchange.
 
 ---
 
 ## 2.3 Structure of the Securities Market
+
 The market is divided into two inseparable segments: the Primary and Secondary markets.
 
 ### I. Primary Market (New Issue Market)
+
 Where issuers raise fresh capital from investors.
+
 - **Initial Public Offer (IPO):** The first sale of a company's shares to the public.
+
 - **Follow on Public Offer (FPO):** Subsequent public issuance by an already listed company.
+
 - **Rights Issue:** Offering new shares to existing shareholders in proportion to their holding.
+
 - **Bonus Issue:** Additional shares given to existing shareholders for free, using the company's retained earnings.
 
 ### II. Secondary Market
+
 Facilitates the trading of already-issued securities, providing liquidity to investors.
+
 - **Over-the-Counter (OTC):** Directly negotiated between counterparties.
+
 - **Exchange Traded:** Centralized trading on platforms like NSE or BSE, settled through a **Clearing Corporation** that guarantees the trade.
 
 ---
@@ -70,18 +90,27 @@ Facilitates the trading of already-issued securities, providing liquidity to inv
 ---
 
 ## 2.5 Kinds of Transactions
+
 1.  **Cash/Tom/Spot:** Settlement occurs on T+0 (Cash), T+1 (Tom), or T+2 (Spot) basis.
+
 2.  **Forwards:** Customized, OTC-negotiated contracts for future delivery.
+
 3.  **Futures:** Standardized, exchange-traded forward contracts with settlement guarantees.
+
 4.  **Options:** Contracts giving the **right but not the obligation** to buy (Call) or sell (Put).
+
 5.  **Swaps:** Contracts to exchange future cash flows (e.g., swapping floating interest rates for fixed).
 
 ---
 
 ### **Quick Facts for Revision**
-- **Agency Risk:** The risk that management might not act in the best interest of owners; instruments like ESOPs and Sweat Equity help reduce this.
-- **Anchor Investors:** Qualified institutional buyers who apply for ₹10 crore or more in an IPO, bidding one day before the public.
-- **Demat vs. Remat:** Dematerialization is converting physical shares to electronic; Rematerialization is the reverse.
-- **Pledging:** The act of taking a loan against securities; the investor remains the owner (pledgor) but the shares are blocked.
-- **Arbitrage:** Profit-making by exploiting price differences for the same asset in different markets.
 
+- **Agency Risk:** The risk that management might not act in the best interest of owners; instruments like ESOPs and Sweat Equity help reduce this.
+
+- **Anchor Investors:** Qualified institutional buyers who apply for ₹10 crore or more in an IPO, bidding one day before the public.
+
+- **Demat vs. Remat:** Dematerialization is converting physical shares to electronic; Rematerialization is the reverse.
+
+- **Pledging:** The act of taking a loan against securities; the investor remains the owner (pledgor) but the shares are blocked.
+
+- **Arbitrage:** Profit-making by exploiting price differences for the same asset in different markets.
