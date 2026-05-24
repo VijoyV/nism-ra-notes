@@ -1,0 +1,752 @@
+[
+    {
+        "questionNo": 1,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Primary Role of a Research Analyst",
+        "question": "The work of a Research Analyst primarily involves:",
+        "options": [
+            "Research and analysis to support investment decisions",
+            "Only collecting company financial statements",
+            "Only predicting stock prices",
+            "Executing stock trades on behalf of investors"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Research Analysts collect information and analyze it to help clients make investment decisions."
+    },
+    {
+        "questionNo": 2,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Information Sources",
+        "question": "Economic information useful for Research Analysts may be collected from:",
+        "options": [
+            "Reserve Bank of India",
+            "Only social media platforms",
+            "Only company websites",
+            "Only stock brokers"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Government statistics and RBI data are important sources of economic information."
+    },
+    {
+        "questionNo": 3,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Global Information Sources",
+        "question": "Which organization is mentioned as a source of global information for Research Analysts?",
+        "options": [
+            "International Monetary Fund (IMF)",
+            "Election Commission",
+            "SEBI SCORES",
+            "IRDAI"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Global agencies like IMF, ADB, and World Bank provide useful macroeconomic information."
+    },
+    {
+        "questionNo": 4,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Company Information Sources",
+        "question": "Company-specific information can be collected from:",
+        "options": [
+            "Annual reports and financial statements",
+            "Only television advertisements",
+            "Only employee rumors",
+            "Only stock exchange prices"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Annual reports and regulatory filings are major sources of company information."
+    },
+    {
+        "questionNo": 5,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Qualitative Analysis",
+        "question": "Which of the following is an example of qualitative analysis?",
+        "options": [
+            "Management capability",
+            "Revenue growth percentage",
+            "Profit margin",
+            "Debt-equity ratio"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Management capability is an intangible factor and part of qualitative analysis."
+    },
+    {
+        "questionNo": 6,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Quantitative Analysis",
+        "question": "Which factor is primarily quantitative?",
+        "options": [
+            "Brand reputation",
+            "Customer loyalty",
+            "Cash flow analysis",
+            "Management ethics"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Cash flow is numerical and forms part of quantitative analysis."
+    },
+    {
+        "questionNo": 7,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Sell-side Analysts",
+        "question": "Sell-side analysts generally publish research reports:",
+        "options": [
+            "Only for regulators",
+            "For public consumption",
+            "Only for internal fund managers",
+            "Only for company promoters"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Sell-side reports are usually published publicly with buy/hold/sell recommendations."
+    },
+    {
+        "questionNo": 8,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Buy-side Analysts",
+        "question": "Buy-side analysts typically work for:",
+        "options": [
+            "Mutual funds",
+            "News channels",
+            "Government ministries",
+            "Credit card companies"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Buy-side analysts work with institutions like mutual funds, pension funds, and portfolio managers."
+    },
+    {
+        "questionNo": 9,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Buy-side Research",
+        "question": "Research reports of buy-side analysts are generally:",
+        "options": [
+            "Public documents",
+            "Available on stock exchanges",
+            "Used internally within organizations",
+            "Distributed through newspapers"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Buy-side reports are mainly for internal investment decision-making."
+    },
+    {
+        "questionNo": 10,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Independent Analysts",
+        "question": "Independent Research Analysts commonly provide:",
+        "options": [
+            "Subscription-based research",
+            "Only government audits",
+            "Only brokerage execution",
+            "Only tax filing services"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Independent research firms often provide subscription-based or customized research."
+    },
+    {
+        "questionNo": 11,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Responsibilities of Research Analysts",
+        "question": "A Research Analyst primarily evaluates:",
+        "options": [
+            "Economies, industries and companies",
+            "Only stock prices",
+            "Only commodity markets",
+            "Only investor complaints"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Research Analysts study economies, industries and companies."
+    },
+    {
+        "questionNo": 12,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Macroeconomic Factors",
+        "question": "Which is a macroeconomic factor relevant for Research Analysts?",
+        "options": [
+            "Inflation rate",
+            "Company logo design",
+            "CEO social media followers",
+            "Office furniture quality"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Inflation is a key macroeconomic variable."
+    },
+    {
+        "questionNo": 13,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Macroeconomic Variables",
+        "question": "Which variable affects borrowing costs in the economy?",
+        "options": [
+            "Interest rates",
+            "Weather conditions",
+            "Office rent",
+            "Dividend payout ratio"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Interest rates directly affect borrowing costs."
+    },
+    {
+        "questionNo": 14,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Government Policy",
+        "question": "According to Keynesian thinking mentioned in the workbook, governments influence economic performance through:",
+        "options": [
+            "Tax rates and spending",
+            "Only weather forecasts",
+            "Only foreign exchange reserves",
+            "Only company dividends"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "John Maynard Keynes emphasized government spending and taxation."
+    },
+    {
+        "questionNo": 15,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Industry Analysis",
+        "question": "Industry analysis is important because:",
+        "options": [
+            "All industries grow similarly",
+            "Industries have different opportunities and challenges",
+            "Industry analysis is optional",
+            "Industry analysis only matters for commodities"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Different industries have different growth drivers and risks."
+    },
+    {
+        "questionNo": 16,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Interaction with Companies",
+        "question": "Direct interaction with company management is valuable because it provides insight into:",
+        "options": [
+            "Company vision and strategy",
+            "Employee birthdays",
+            "Brokerage commissions",
+            "Competitor advertising budgets"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Management interaction helps analysts understand business strategy and vision."
+    },
+    {
+        "questionNo": 17,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Management Interaction",
+        "question": "Analysts should be cautious because management may:",
+        "options": [
+            "Paint an overly positive picture",
+            "Always provide negative information",
+            "Only discuss competitors",
+            "Refuse financial discussions"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Management may exaggerate positives; analysts should independently verify information."
+    },
+    {
+        "questionNo": 18,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Pre-meeting Research",
+        "question": "Before meeting management, analysts should study:",
+        "options": [
+            "Products, industry and competitors",
+            "Only stock prices",
+            "Only social media comments",
+            "Only dividend history"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Preparation before management interaction is important."
+    },
+    {
+        "questionNo": 19,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Analyst Ethics",
+        "question": "During research, analysts should maintain:",
+        "options": [
+            "Bias toward management",
+            "Independence and neutrality",
+            "Preference for specific sectors",
+            "Only optimistic views"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Analysts should maintain objectivity and independence."
+    },
+    {
+        "questionNo": 20,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Compliance",
+        "question": "Management should avoid revealing information that is:",
+        "options": [
+            "Publicly available",
+            "Already disclosed in annual reports",
+            "Not available in the public domain",
+            "Published in newspapers"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Analysts should avoid receiving unpublished information."
+    },
+    {
+        "questionNo": 21,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Professional Network",
+        "question": "Analysts may use professional networks to:",
+        "options": [
+            "Obtain meaningful industry insights",
+            "Share confidential information",
+            "Manipulate market prices",
+            "Avoid research work"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Professional networks improve understanding and research quality."
+    },
+    {
+        "questionNo": 22,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Skills",
+        "question": "Which quality is important for communicating effectively with management?",
+        "options": [
+            "Good listening ability",
+            "Ignoring management responses",
+            "Making assumptions",
+            "Avoiding preparation"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Communication skills and listening ability are important."
+    },
+    {
+        "questionNo": 23,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Investment Recommendation",
+        "question": "A Research Analyst may ultimately recommend:",
+        "options": [
+            "Buy, Hold or Sell",
+            "Only Buy",
+            "Only Sell",
+            "Only Hold"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Investment recommendations commonly include Buy, Hold or Sell."
+    },
+    {
+        "questionNo": 24,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Foreign Investments",
+        "question": "Which investment flow is studied by Research Analysts as part of economic analysis?",
+        "options": [
+            "FDI and FPI flows",
+            "Office rental growth",
+            "Employee leave trends",
+            "Courier delivery volumes"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "FDI and FPI flows are important economic indicators."
+    },
+    {
+        "questionNo": 25,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Definition",
+        "question": "As per SEBI Research Analyst Regulations, a Research Analyst is a person engaged in providing research services:",
+        "options": [
+            "For consideration",
+            "Only free of cost",
+            "Only to regulators",
+            "Only to listed companies"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "SEBI regulations define Research Analysts as persons providing research services for consideration."
+    },
+    {
+        "questionNo": 26,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Process",
+        "question": "Which sequence best represents the work process of a Research Analyst?",
+        "options": [
+            "Analysis → Research → Recommendation",
+            "Research → Analysis → Recommendation",
+            "Recommendation → Research → Analysis",
+            "Research → Recommendation → Analysis"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Research Analysts first collect information, then analyze it, and finally arrive at investment recommendations."
+    },
+    {
+        "questionNo": 27,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Information Sources",
+        "question": "Industry-specific information is commonly collected from:",
+        "options": [
+            "Weather reports",
+            "Industry journals and publications",
+            "Election surveys",
+            "Property registration offices"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Industry journals and sector publications are major sources for industry information."
+    },
+    {
+        "questionNo": 28,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Company Information",
+        "question": "Which of the following is NOT a company-specific information source?",
+        "options": [
+            "Plant visits",
+            "Annual reports",
+            "Stakeholder interviews",
+            "IMF global reports"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "IMF reports are global economic information sources, not company-specific sources."
+    },
+    {
+        "questionNo": 29,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Qualitative Analysis",
+        "question": "Operational efficiency is generally considered part of:",
+        "options": [
+            "Technical analysis",
+            "Quantitative analysis",
+            "Qualitative analysis",
+            "Price trend analysis"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Operational efficiency is a qualitative factor affecting business performance."
+    },
+    {
+        "questionNo": 30,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Quantitative Factors",
+        "question": "Which item below is NOT a quantitative factor?",
+        "options": [
+            "Revenue",
+            "Profitability",
+            "Business ethics",
+            "Costs"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Business ethics is qualitative, whereas revenue, profitability and costs are quantitative."
+    },
+    {
+        "questionNo": 31,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Sell-side Analysts",
+        "question": "Sell-side analyst reports commonly include:",
+        "options": [
+            "Price targets",
+            "Only tax calculations",
+            "Government policy drafts",
+            "Employee attendance data"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Sell-side reports often include earnings expectations and future price targets."
+    },
+    {
+        "questionNo": 32,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Sell-side Analysts",
+        "question": "Sell-side analysts commonly work for:",
+        "options": [
+            "Manufacturing factories",
+            "Investment banking and brokerage firms",
+            "Schools and colleges",
+            "Insurance surveyors"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Sell-side analysts usually work in brokerage firms and investment banking organizations."
+    },
+    {
+        "questionNo": 33,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Buy-side Analysts",
+        "question": "Which institution is LEAST likely to employ buy-side analysts?",
+        "options": [
+            "Mutual Fund",
+            "Pension Fund",
+            "Portfolio Manager",
+            "Television Media Company"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Buy-side analysts generally work for investment institutions rather than media companies."
+    },
+    {
+        "questionNo": 34,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Independent Research Analysts",
+        "question": "Independent research analysts may provide customized research reports for:",
+        "options": [
+            "Only stock exchanges",
+            "Only regulators",
+            "Only investment bankers",
+            "Various stakeholders including investors and institutions"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Independent analysts serve multiple stakeholders including institutions and investors."
+    },
+    {
+        "questionNo": 35,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Objective",
+        "question": "A Research Analyst acts primarily as a:",
+        "options": [
+            "Stock exchange operator",
+            "Selector of investment opportunities",
+            "Government regulator",
+            "Trade settlement officer"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Research Analysts comprehensively evaluate companies and select investment opportunities."
+    },
+    {
+        "questionNo": 36,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Economy Analysis",
+        "question": "Foreign Direct Investment (FDI) is analyzed primarily as part of:",
+        "options": [
+            "Industry analysis",
+            "Economic analysis",
+            "Technical analysis",
+            "Balance sheet analysis"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "FDI flows are important macroeconomic variables."
+    },
+    {
+        "questionNo": 37,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Economy Analysis",
+        "question": "Which policy is controlled primarily by the central bank?",
+        "options": [
+            "Fiscal Policy",
+            "Monetary Policy",
+            "Trade Policy",
+            "Labor Policy"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Monetary policy is generally managed by the central bank."
+    },
+    {
+        "questionNo": 38,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Economic Indicators",
+        "question": "Savings and investment patterns are studied because they affect:",
+        "options": [
+            "Economic growth",
+            "Only company logos",
+            "Office administration",
+            "Broker commission rates"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Savings and investments significantly influence economic growth."
+    },
+    {
+        "questionNo": 39,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Industry Analysis",
+        "question": "Industry analysis primarily helps analysts understand:",
+        "options": [
+            "Election results",
+            "Company office layouts",
+            "Growth drivers and industry challenges",
+            "Salary structures"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Industry analysis focuses on opportunities, risks and growth drivers."
+    },
+    {
+        "questionNo": 40,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Company Analysis",
+        "question": "Which company aspect is qualitative?",
+        "options": [
+            "Cash flow",
+            "Brand power",
+            "Profit margin",
+            "Revenue growth"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Brand power is an intangible qualitative characteristic."
+    },
+    {
+        "questionNo": 41,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Company Analysis",
+        "question": "Capacity utilization is generally considered:",
+        "options": [
+            "Quantitative information",
+            "Qualitative information",
+            "Technical indicator",
+            "Macroeconomic indicator"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Capacity utilization is measurable operational data."
+    },
+    {
+        "questionNo": 42,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Interaction with Management",
+        "question": "The primary purpose of meeting company management is to understand:",
+        "options": [
+            "Political preferences",
+            "Vision and strategy",
+            "Employee leave plans",
+            "Broker commission policies"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Management interactions provide insight into company vision and strategy."
+    },
+    {
+        "questionNo": 43,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Interaction Principles",
+        "question": "Analysts should verify management claims primarily to maintain:",
+        "options": [
+            "Objectivity",
+            "Advertising reach",
+            "Sales targets",
+            "Media visibility"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Cross-verification helps maintain objectivity and accuracy."
+    },
+    {
+        "questionNo": 44,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Pre-meeting Preparation",
+        "question": "Reviewing previous annual reports before management meetings helps analysts understand:",
+        "options": [
+            "Company direction and goal achievement",
+            "Employee attendance",
+            "Brokerage fees",
+            "Social media marketing"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Annual reports reveal company objectives and progress."
+    },
+    {
+        "questionNo": 45,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Analyst Independence",
+        "question": "Research conclusions should primarily be based on:",
+        "options": [
+            "Personal preferences",
+            "Market rumors",
+            "Factual information",
+            "Competitor opinions only"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Analysts should maintain independence and rely on facts."
+    },
+    {
+        "questionNo": 46,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Networking",
+        "question": "Which professional group can analysts approach to gain additional insights?",
+        "options": [
+            "Domain experts",
+            "Only competitors",
+            "Only shareholders",
+            "Only auditors"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Professional experts and industry participants provide useful insights."
+    },
+    {
+        "questionNo": 47,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Skills",
+        "question": "Which skill is especially important during company interactions?",
+        "options": [
+            "Good listening ability",
+            "Graphic design",
+            "Video editing",
+            "Programming only"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Listening carefully helps analysts gather meaningful information."
+    },
+    {
+        "questionNo": 48,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Qualities",
+        "question": "A good Research Analyst should primarily demonstrate:",
+        "options": [
+            "Bias toward management",
+            "Attention to detail",
+            "Dependence on rumors",
+            "Preference for only one sector"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Attention to detail is a critical quality for Research Analysts."
+    },
+    {
+        "questionNo": 49,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Qualities",
+        "question": "Which quality improves an analyst's ability to identify useful information?",
+        "options": [
+            "Curiosity and enquiry mindset",
+            "Overconfidence",
+            "Blind optimism",
+            "Ignoring details"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "A questioning mindset helps analysts identify meaningful insights."
+    },
+    {
+        "questionNo": 50,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Research Analyst Profession",
+        "topic": "Research Analyst Profession",
+        "question": "The final output of Research Analyst activities generally results in:",
+        "options": [
+            "Investment recommendations",
+            "Tax audits",
+            "Government regulations",
+            "Trade settlement reports"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Research activities ultimately lead to investment recommendations like Buy, Hold or Sell."
+    }
+]
