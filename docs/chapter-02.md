@@ -1,107 +1,625 @@
 # Chapter 2: Introduction to Securities Market
-Securities are transferable financial claims or contracts that evidence debt (like bonds) or ownership interest in an incorporated entity (like shares). The securities market provides a channel for the conversion of savings into productive investments by bringing together those with surplus funds and those who need them.
 
-## 2.1 Definition of "Securities"
-Under Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)**, the term "Securities" is broad and includes:
+## 2.1 Introduction to Securities and Securities Market
 
-- Shares, scrips, stocks, bonds, and debentures.
-- **Derivatives.**
-- Units issued by collective investment schemes or **Mutual Funds.**
-- Government securities (G-Secs).
-- Rights or interests in securities, such as **Electronic Gold Receipts (EGRs)**.
+### 2.1.1 Meaning of Securities
 
-## 2.2 Product Definitions and Terminology
-The market offers a wide variety of instruments categorized by their risk and return profiles.
+Securities are transferable financial claims or contracts that represent:
 
-### 2.2.1 Equity and Debt
+* Ownership interest in an entity, or
+* A debt obligation owed by the issuer to the investor.
 
-- **Equity Shares:** 
-    * Represent fractional ownership in a business. Shareholders bear the highest risk but enjoy ownership rewards.
+These include:
 
-- **Debt Instruments:** 
-    - Includes Debentures, Bonds, and Notes. These represent a loan to the issuer.
-    - **Convertible Debentures:** Can be converted into equity at a later date (Fully, Partly, or Optionally).
-    - **Short-term Debt:** Includes Treasury Bills (T-Bills), Commercial Papers (CPs), and Certificates of Deposit (CDs).
+* Equity shares
+* Preference shares
+* Debentures
+* Bonds
+* Derivatives
+* Mutual fund units
+* Government securities
 
-### 2.2.2 International Bond Classifications
-| Bond Type | Issued By | Issued In | Currency Used |
-| :--- | :--- | :--- | :--- |
-| **Domestic Bond** | Local Entity | Home Country | Home Currency |
-| **Foreign Bond** | Foreign Entity | Foreign Country | Local Currency of that country |
-| **Euro Bond** | Any Entity | Foreign Country | Different from that country's currency |
-| **Masala Bond** | Indian Entity | Outside India | Indian Rupees (INR) |
+Securities are issued by:
 
-### 2.2.3 Hybrids and Other Instruments
+* Companies
+* Financial institutions
+* Government bodies
 
-- **Warrants:** Rights (not obligations) to buy equity at a pre-determined price later.
-
-- **Depository Receipts (DRs):** Represent shares of a foreign company (e.g., ADRs in USA, GDRs in Europe, IDRs in India).
-
-- **REITs and InvITs:** Trust-based vehicles pooling money to invest in rent-generating real estate or infrastructure projects.
-
-- **ETFs (Exchange Traded Funds):** Passively managed funds tracking an index or commodity, traded like regular shares on an exchange.
-
-
-## 2.3 Structure of the Securities Market
-
-The market is divided into two inseparable segments: the Primary and Secondary markets.
-
-### 2.3.1 Primary Market (New Issue Market)
-
-Where issuers raise fresh capital from investors.
-
-- **Initial Public Offer (IPO):** The first sale of a company's shares to the public.
-
-- **Follow on Public Offer (FPO):** Subsequent public issuance by an already listed company.
-
-- **Rights Issue:** Offering new shares to existing shareholders in proportion to their holding.
-
-- **Bonus Issue:** Additional shares given to existing shareholders for free, using the company's retained earnings.
-
-### 2.3.2 Secondary Market
-
-Facilitates the trading of already-issued securities, providing liquidity to investors.
-
-- **Over-the-Counter (OTC):** Directly negotiated between counterparties.
-
-- **Exchange Traded:** Centralized trading on platforms like NSE or BSE, settled through a **Clearing Corporation** that guarantees the trade.
+Investors purchase these securities to convert savings into financial assets that generate returns. 
 
 ---
 
-## 2.4 Market Participants and Their Activities
-| Participant | Role |
-| :--- | :--- |
-| **Stock Exchanges** | Provide the platform for buying and selling. |
-| **Depositories** | Institutions (NSDL, CDSL) holding securities in electronic form. |
-| **DPs** | Agents of the depository that interface with investors. |
-| **Custodians** | Entities (typically for institutions) that safeguard funds and securities. |
-| **Merchant Bankers** | Lead managers who help companies structure and price new issues. |
-| **Underwriters** | Intermediaries who agree to buy any unsubscribed portion of a public issue. |
+### 2.1.2 Purpose of Securities Market
+
+The securities market performs the important function of channelizing savings into productive investments.
+
+It enables:
+
+* Issuers to raise long-term capital
+* Investors to buy and sell securities
+* Liquidity through secondary market trading
+* Efficient allocation of financial resources
+
+A developed securities market ensures that investors can easily enter or exit investments without disturbing the issuer. 
+
+---
+
+### 2.1.3 Components of Financial Market
+
+Broadly, the financial market consists of:
+
+#### 2.1.3.1 Investors / Providers of Funds
+
+These are individuals or institutions that invest surplus money.
+
+Examples:
+
+* Retail investors
+* Mutual funds
+* Insurance companies
+* Pension funds
+
+---
+
+#### 2.1.3.2 Borrowers / Seekers of Funds
+
+Entities that raise money through securities issuance.
+
+Examples:
+
+* Corporates
+* Governments
+* Financial institutions
+
+---
+
+#### 2.1.3.3 Intermediaries
+
+Entities that facilitate transfer of funds and securities.
+
+Examples:
+
+* Stock exchanges
+* Depositories
+* Brokers
+* Merchant bankers
+
+---
+
+#### 2.1.3.4 Regulatory Bodies
+
+Authorities responsible for regulation and orderly development of markets.
+
+Examples:
+
+* SEBI
+* RBI
+* Ministry of Finance
+
+
+
+---
+
+### 2.1.4 Definition of Securities under SCRA, 1956
+
+Section 2(h) of the Securities Contracts (Regulation) Act, 1956 defines securities to include:
+
+1. Shares, stocks, bonds, debentures, debenture stock and other marketable securities
+2. Derivatives
+3. Units issued by collective investment schemes
+4. Security receipts
+5. Mutual fund units
+6. Government securities
+7. Rights or interest in securities
+
+
+
+---
+
+### 2.1.5 Functions of Securities Market
+
+The securities market performs several key functions:
+
+#### 2.1.5.1 Mobilization of Savings
+
+Transfers idle savings into productive economic activity.
+
+---
+
+#### 2.1.5.2 Capital Formation
+
+Helps businesses and governments raise long-term funds.
+
+---
+
+#### 2.1.5.3 Liquidity Creation
+
+Provides investors the ability to buy and sell securities quickly.
+
+---
+
+#### 2.1.5.4 Price Discovery
+
+Market forces determine fair prices of securities.
+
+---
+
+#### 2.1.5.5 Risk Sharing
+
+Allows distribution of financial risks among investors.
+
+---
+
+## 2.2 Product Definitions / Terminology
+
+### 2.2.1 Equity Shares
+
+Equity shares represent ownership in a company.
+
+Features:
+
+* Voting rights
+* Residual ownership
+* Dividend entitlement
+* High risk and high return potential
+
+Shareholders are owners of the company.
+
+---
+
+### 2.2.2 Preference Shares
+
+Preference shares combine features of equity and debt.
+
+Features:
+
+* Fixed dividend
+* Preference over equity shareholders during dividend payment
+* Preference during liquidation
+* Usually no voting rights
+
+---
+
+### 2.2.3 Debentures
+
+Debentures are debt instruments issued by companies to borrow money.
+
+Features:
+
+* Fixed interest payment
+* Repayment at maturity
+* Debenture holders are creditors, not owners
+
+---
+
+### 2.2.4 Bonds
+
+Bonds are long-term debt securities issued by:
+
+* Governments
+* Corporates
+* Financial institutions
+
+Features:
+
+* Fixed coupon payment
+* Defined maturity period
+* Tradable in market
+
+---
+
+### 2.2.5 Derivatives
+
+Derivatives derive value from an underlying asset.
+
+Underlying assets may include:
+
+* Shares
+* Commodities
+* Interest rates
+* Currency
+
+Types:
+
+* Futures
+* Options
+* Swaps
+* Forwards
+
+---
+
+### 2.2.6 Mutual Funds
+
+Mutual funds pool money from investors and invest in diversified securities portfolios.
+
+Managed by:
+
+* Asset Management Companies (AMCs)
+
+Benefits:
+
+* Diversification
+* Professional management
+* Liquidity
+
+---
+
+### 2.2.7 Government Securities (G-Secs)
+
+Debt instruments issued by Government of India.
+
+Characteristics:
+
+* Sovereign guarantee
+* Lower risk
+* Fixed returns
+
+Examples:
+
+* Treasury Bills
+* Government Bonds
+
+---
+
+### 2.2.8 Hybrid Instruments
+
+Securities having features of both debt and equity.
+
+Examples:
+
+* Convertible debentures
+* Preference shares
+
+---
+
+### 2.2.9 Convertible Debentures
+
+Debentures convertible into equity shares after a specified period.
+
+Types:
+
+#### 2.2.9.1 Fully Convertible Debentures (FCDs)
+
+Entire debenture amount converts into equity.
+
+#### 2.2.9.2 Partly Convertible Debentures (PCDs)
+
+Only a portion converts into equity.
+
+#### 2.2.9.3 Optionally Convertible Debentures (OCDs)
+
+Conversion depends on investor or issuer option.
+
+
+
+---
+
+## 2.3 Structure of Securities Market
+
+The securities market is broadly divided into:
+
+### 2.3.1 Primary Market
+
+Market where new securities are issued for the first time.
+
+Purpose:
+
+* Capital raising
+
+Methods:
+
+* IPO
+* FPO
+* Rights issue
+* Private placement
+
+---
+
+### 2.3.2 Secondary Market
+
+Market where existing securities are traded among investors.
+
+Functions:
+
+* Liquidity
+* Price discovery
+* Continuous trading
+
+Examples:
+
+* NSE
+* BSE
+
+---
+
+### 2.3.3 Money Market
+
+Deals in short-term instruments with maturity less than one year.
+
+Examples:
+
+* Treasury Bills
+* Commercial Papers
+* Certificates of Deposit
+
+---
+
+### 2.3.4 Capital Market
+
+Deals in long-term securities.
+
+Examples:
+
+* Shares
+* Bonds
+* Debentures
+
+---
+
+### 2.3.5 Debt Market
+
+Market for fixed income securities.
+
+Participants:
+
+* Governments
+* Banks
+* Institutions
+* Corporates
+
+---
+
+### 2.3.6 Equity Market
+
+Market for trading equity shares.
+
+Characteristics:
+
+* Ownership participation
+* Higher volatility
+* Growth-oriented investment
+
+---
+
+## 2.4 Various Market Participants and Their Activities
+
+### 2.4.1 Investors
+
+Invest surplus funds to earn returns.
+
+Categories:
+
+* Retail investors
+* Institutional investors
+* Foreign Portfolio Investors (FPIs)
+
+---
+
+### 2.4.2 Issuers
+
+Entities issuing securities to raise funds.
+
+Examples:
+
+* Corporates
+* Governments
+
+---
+
+### 2.4.3 Stock Exchanges
+
+Provide trading platform for securities.
+
+Functions:
+
+* Trading
+* Price discovery
+* Market surveillance
+
+Examples:
+
+* NSE
+* BSE
+
+---
+
+### 2.4.4 Brokers
+
+Registered intermediaries executing trades on behalf of investors.
+
+Functions:
+
+* Order execution
+* Advisory services
+* Client account maintenance
+
+---
+
+### 2.4.5 Depositories
+
+Hold securities in electronic form.
+
+Examples:
+
+* NSDL
+* CDSL
+
+Functions:
+
+* Dematerialization
+* Settlement facilitation
+
+---
+
+### 2.4.6 Depository Participants (DPs)
+
+Agents of depositories providing demat services to investors.
+
+Examples:
+
+* Banks
+* Brokers
+
+---
+
+### 2.4.7 Clearing Corporations
+
+Responsible for settlement and risk management.
+
+Functions:
+
+* Trade confirmation
+* Margin collection
+* Settlement guarantee
+
+---
+
+### 2.4.8 Merchant Bankers
+
+Assist companies in capital raising activities.
+
+Functions:
+
+* IPO management
+* Underwriting
+* Due diligence
+
+---
+
+### 2.4.9 Credit Rating Agencies
+
+Assess creditworthiness of debt issuers.
+
+Examples:
+
+* CRISIL
+* ICRA
+* CARE
+
+---
+
+### 2.4.10 Mutual Funds and AMCs
+
+Pool public funds and invest in securities professionally.
 
 ---
 
 ## 2.5 Kinds of Transactions
 
-1.  **Cash/Tom/Spot:** Settlement occurs on T+0 (Cash), T+1 (Tom), or T+2 (Spot) basis.
+### 2.5.1 Spot Transactions
 
-2.  **Forwards:** Customized, OTC-negotiated contracts for future delivery.
-
-3.  **Futures:** Standardized, exchange-traded forward contracts with settlement guarantees.
-
-4.  **Options:** Contracts giving the **right but not the obligation** to buy (Call) or sell (Put).
-
-5.  **Swaps:** Contracts to exchange future cash flows (e.g., swapping floating interest rates for fixed).
+Settlement occurs immediately or within prescribed settlement cycle.
 
 ---
 
-## **Quick Facts for Revision**
+### 2.5.2 Forward Transactions
 
-- **Agency Risk:** The risk that management might not act in the best interest of owners; instruments like ESOPs and Sweat Equity help reduce this.
+Contracts settled at a future date.
 
-- **Anchor Investors:** Qualified institutional buyers who apply for ₹10 crore or more in an IPO, bidding one day before the public.
+---
 
-- **Demat vs. Remat:** Dematerialization is converting physical shares to electronic; Rematerialization is the reverse.
+### 2.5.3 Margin Trading
 
-- **Pledging:** The act of taking a loan against securities; the investor remains the owner (pledgor) but the shares are blocked.
+Investors trade using borrowed funds.
 
-- **Arbitrage:** Profit-making by exploiting price differences for the same asset in different markets.
+Features:
+
+* Higher exposure
+* Higher risk
+
+---
+
+### 2.5.4 Delivery Transactions
+
+Actual transfer of securities takes place.
+
+---
+
+### 2.5.5 Intraday Transactions
+
+Purchase and sale completed within same trading day.
+
+No delivery occurs.
+
+---
+
+### 2.5.6 Short Selling
+
+Selling securities not owned by seller with intention to buy later at lower price.
+
+---
+
+### 2.5.7 Auction Market Transactions
+
+Used to settle shortages arising from delivery failures.
+
+---
+
+## 2.6 Dematerialization and Rematerialization of Securities
+
+### 2.6.1 Dematerialization
+
+Dematerialization is the process of converting physical securities into electronic form. 
+
+Characteristics:
+
+* Securities held in electronic/book-entry form
+* No certificate numbers or folio numbers
+* Easier transfer and settlement
+
+SEBI mandates companies making public issues to provide demat facility. 
+
+---
+
+### 2.6.2 Benefits of Dematerialization
+
+#### 2.6.2.1 Elimination of Physical Risks
+
+Avoids:
+
+* Theft
+* Loss
+* Forgery
+* Damage
+
+---
+
+#### 2.6.2.2 Faster Settlement
+
+Electronic transfer speeds up settlement process.
+
+---
+
+#### 2.6.2.3 Reduced Paperwork
+
+Eliminates stamp duty and physical documentation.
+
+---
+
+#### 2.6.2.4 Improved Liquidity
+
+Makes trading easier and more efficient.
+
+---
+
+### 2.6.3 Rematerialization
+
+Rematerialization is the reverse process of converting electronic securities into physical certificates. 
+
+In rematerialization:
+
+* Physical certificates are issued
+* Distinctive numbers are allotted
+
+---
+
+## Chapter Summary
+
+* Securities are financial instruments representing ownership or debt.
+* Securities markets facilitate capital raising and investment.
+* Financial markets include investors, issuers, intermediaries and regulators.
+* Major securities include equity shares, bonds, debentures and derivatives.
+* Securities market structure includes primary and secondary markets.
+* Key participants include exchanges, brokers, depositories and clearing corporations.
+* Transactions include delivery, intraday, short selling and margin trading.
+* Dematerialization has modernized securities holding and settlement systems.
