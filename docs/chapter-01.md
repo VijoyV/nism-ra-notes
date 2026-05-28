@@ -1,13 +1,15 @@
 # Chapter 1: Introduction to Research Analyst Profession
 
-## LEARNING OBJECTIVES
+```
+LEARNING OBJECTIVE:
 
 By the end of this chapter, you should understand:
 
-- ✓ Role of a Research Analyst (RA)
-- ✓ Responsibilities of a Research Analyst
-- ✓ Principles for interacting with companies and clients
-- ✓ Essential qualities of a successful Research Analyst 
+- Role of a Research Analyst (RA)
+- Responsibilities of a Research Analyst
+- Principles for interacting with companies and clients
+- Essential qualities of a successful Research Analyst 
+```
 
 ## 1.1 Primary Role of a Research Analyst
 

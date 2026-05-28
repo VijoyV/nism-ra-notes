@@ -26,7 +26,7 @@ extra_javascript:
 # Ensure these filenames match the EXACT spelling in your /docs folder
 nav:
   - "Study Material":
-      - "Chapter 1: Research Profession": chapter-01.md
+      - "Chapter 1: Research Analyst Profession": chapter-01.md
       - "Chapter 2: Securities Market": chapter-02.md
       - "Chapter 3: Market Terminology": chapter-03.md
       - "Chapter 4: Fundamentals of Research": chapter-04.md
