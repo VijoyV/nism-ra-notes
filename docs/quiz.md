@@ -1,31 +1,35 @@
-<div id="quiz-config-bar" style="display: flex; gap: 15px; align-items: flex-end; flex-wrap: wrap; background: #f8f9fa; padding: 20px; border-radius: 12px; margin-bottom: 25px; border: 1px solid #e0e0e0;">
-    <div style="flex: 4; min-width: 300px;">
+<div id="quiz-config-bar" style="background: #f8f9fa; padding: 20px; border-radius: 12px; margin-bottom: 25px; border: 1px solid #e0e0e0;">
+    <!-- Row 1: Full width chapter selector -->
+    <div style="margin-bottom: 20px;">
         <label style="display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 5px;">Select Chapter:</label>
         <select id="chapter-select" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
-            <option value="../data/chapter-01-quiz.json">Chapter 01: Introduction to Research Analyst Profession</option>
-            <option value="../data/chapter-02-quiz.json">Chapter 02: Introduction to Securities Market</option>
-            <option value="../data/chapter-08-quiz.json">Chapter 08: Company Analysis - Fundamentals</option>
+            <option value="../data/chapter-01-quiz.json">Chapter 01 - Introduction to RA Profession</option>
+            <option value="../data/chapter-02-quiz.json">Chapter 02 - Introduction to Securities Market</option>
+            <option value="../data/chapter-08-quiz.json">Chapter 08 - Company Analysis - Fundamentals</option>
         </select>
     </div>
-    <div style="flex: 1; min-width: 100px;">
-        <label style="display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 5px;">Questions:</label>
-        <select id="limit-select" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
-            <option value="10">10</option>
-            <option value="25" selected>25</option>
-            <option value="50">50</option>
-            <option value="999">All</option>
-        </select>
+    <!-- Row 2: Questions, Time, and Submit button in one line -->
+    <div style="display: flex; gap: 15px; align-items: flex-end; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 100px;">
+            <label style="display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 5px;">Questions:</label>
+            <select id="limit-select" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+                <option value="10">10</option>
+                <option value="25" selected>25</option>
+                <option value="50">50</option>
+                <option value="999">All</option>
+            </select>
+        </div>
+        <div style="flex: 1; min-width: 100px;">
+            <label style="display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 5px;">Time:</label>
+            <select id="time-select" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+                <option value="30">30 Mins</option>
+                <option value="60" selected>60 Mins</option>
+                <option value="90">90 Mins</option>
+                <option value="120">120 Mins</option>
+            </select>
+        </div>
+        <button onclick="startQuiz()" style="flex: 1; min-width: 120px; padding: 10px; background: #0277bd; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Start Exam</button>
     </div>
-    <div style="flex: 1; min-width: 100px;">
-        <label style="display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 5px;">Time:</label>
-        <select id="time-select" style="width: 100%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
-            <option value="30">30 Mins</option>
-            <option value="60" selected>60 Mins</option>
-            <option value="90">90 Mins</option>
-            <option value="120">120 Mins</option>
-        </select>
-    </div>
-    <button onclick="startQuiz()" style="flex: 1.5; min-width: 120px; padding: 11px; background: #0277bd; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold;">Start Exam</button>
 </div>
 
 <div id="quiz-results-banner" style="display:none; padding: 20px; background: #fff; border: 2px solid #2196f3; border-radius: 12px; margin-bottom: 25px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">

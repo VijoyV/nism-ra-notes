@@ -35,4 +35,5 @@ nav:
       - "Chapter 7: Company Analysis – Business and Governance": chapter-07.md
       - "Chapter 8: Company Analysis – Financial Analysis": chapter-08.md
       - "Vocabulary and Terminology": vocab-and-terminology.md
-  - "Interactive Practice": quiz.md
+  - Additional Resources:
+    - "Chapterwise Quiz": quiz.md
