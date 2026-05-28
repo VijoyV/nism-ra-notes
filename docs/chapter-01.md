@@ -1,12 +1,21 @@
 # Chapter 1: Introduction to Research Analyst Profession
 
-The role of a Research Analyst (RA) is primarily that of a **selector**. Much like a consumer researching a new phone by comparing brands and technical specifications, an RA collects information from various sources and processes that data to help clients make informed investment decisions.
+## LEARNING OBJECTIVES
+
+By the end of this chapter, you should understand:
+
+- ✓ Role of a Research Analyst (RA)
+- ✓ Responsibilities of a Research Analyst
+- ✓ Principles for interacting with companies and clients
+- ✓ Essential qualities of a successful Research Analyst 
 
 ## 1.1 Primary Role of a Research Analyst
 
+The role of a Research Analyst (RA) is primarily that of a **selector**. Much like a consumer researching a new phone by comparing brands and technical specifications, an RA collects information from various sources and processes that data to help clients make informed investment decisions.
+
 The core function of an RA involves two distinct stages: **Research** (the collection of pertinent information) and **Analysis** (the processing of that data to arrive at a decision).
 
-### A. Data Collection and Sources
+### 1.1.1 Data Collection and Sources
 
 Analysts require information at three levels to evaluate an investment:
 
@@ -16,7 +25,7 @@ Analysts require information at three levels to evaluate an investment:
 
 - **Company-specific Information:** Sourced from financial statements, annual reports, regulatory filings, management Authorizations, plant visits, and stakeholder interviews.
 
-### B. Types of Research Analysts
+### 1.1.2 Types of Research Analysts
 
 Analysts are defined by the nature of their analysis, their coverage, and who uses their recommendations.
 
@@ -32,7 +41,7 @@ Analysts are defined by the nature of their analysis, their coverage, and who us
 
 The primary responsibility is to evaluate the growth of economies, industries, and specific companies.
 
-### I. Understanding the Economy
+### 1.2.1 Understanding the Economy
 
 Following Keynesian principles, analysts monitor how government spending and tax rates affect industries. Focus areas include:
 
@@ -44,11 +53,11 @@ Following Keynesian principles, analysts monitor how government spending and tax
 
 - **Global Factors:** Export/import transactions and their impact on GDP.
 
-### II. Understanding the Industry
+### 1.2.2 Understanding the Industry
 
 Analysts must understand the unique growth drivers and challenges of different sectors, including their **regulatory environment**, business models, competition intensity, and consumer behavior.
 
-### III. Understanding Companies
+### 1.2.3 Understanding Companies
 
 Companies are evaluated through two primary lenses: Qualitative and Quantitative.
 
@@ -71,7 +80,7 @@ Direct interaction with company management provides insights into a firm's visio
 
 - **Broad Network:** Meaningful inputs should be gathered not just from management, but also from suppliers, distributors, retailers, and customers.
 
-### Guidelines for Client Communication
+### 1.3.1 Guidelines for Client Communication
 
 - **Realistic View:** Suggestions must be based on facts, avoiding overly optimistic or pessimistic bias.
 
@@ -97,7 +106,7 @@ Success in this profession requires a blend of technical skills and specific per
 
 ---
 
-## **Quick Facts for Revision**
+## Quick Facts for Revision
 
 - **Key Distinction:** Research is the *collection* of data; Analysis is the *processing* of data for decision-making.
 

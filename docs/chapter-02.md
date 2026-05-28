@@ -1,27 +1,19 @@
 # Chapter 2: Introduction to Securities Market
-
 Securities are transferable financial claims or contracts that evidence debt (like bonds) or ownership interest in an incorporated entity (like shares). The securities market provides a channel for the conversion of savings into productive investments by bringing together those with surplus funds and those who need them.
 
 ## 2.1 Definition of "Securities"
-
 Under Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)**, the term "Securities" is broad and includes:
 
 - Shares, scrips, stocks, bonds, and debentures.
-
 - **Derivatives.**
-
 - Units issued by collective investment schemes or **Mutual Funds.**
-
 - Government securities (G-Secs).
-
 - Rights or interests in securities, such as **Electronic Gold Receipts (EGRs)**.
-
----
 
 ## 2.2 Product Definitions and Terminology
 The market offers a wide variety of instruments categorized by their risk and return profiles.
 
-### I. Equity and Debt
+### 2.2.1 Equity and Debt
 
 - **Equity Shares:** 
     * Represent fractional ownership in a business. Shareholders bear the highest risk but enjoy ownership rewards.
@@ -31,7 +23,7 @@ The market offers a wide variety of instruments categorized by their risk and re
     - **Convertible Debentures:** Can be converted into equity at a later date (Fully, Partly, or Optionally).
     - **Short-term Debt:** Includes Treasury Bills (T-Bills), Commercial Papers (CPs), and Certificates of Deposit (CDs).
 
-### II. International Bond Classifications
+### 2.2.2 International Bond Classifications
 | Bond Type | Issued By | Issued In | Currency Used |
 | :--- | :--- | :--- | :--- |
 | **Domestic Bond** | Local Entity | Home Country | Home Currency |
@@ -39,7 +31,7 @@ The market offers a wide variety of instruments categorized by their risk and re
 | **Euro Bond** | Any Entity | Foreign Country | Different from that country's currency |
 | **Masala Bond** | Indian Entity | Outside India | Indian Rupees (INR) |
 
-### III. Hybrids and Other Instruments
+### 2.2.3 Hybrids and Other Instruments
 
 - **Warrants:** Rights (not obligations) to buy equity at a pre-determined price later.
 
@@ -49,13 +41,12 @@ The market offers a wide variety of instruments categorized by their risk and re
 
 - **ETFs (Exchange Traded Funds):** Passively managed funds tracking an index or commodity, traded like regular shares on an exchange.
 
----
 
 ## 2.3 Structure of the Securities Market
 
 The market is divided into two inseparable segments: the Primary and Secondary markets.
 
-### I. Primary Market (New Issue Market)
+### 2.3.1 Primary Market (New Issue Market)
 
 Where issuers raise fresh capital from investors.
 
@@ -67,7 +58,7 @@ Where issuers raise fresh capital from investors.
 
 - **Bonus Issue:** Additional shares given to existing shareholders for free, using the company's retained earnings.
 
-### II. Secondary Market
+### 2.3.2 Secondary Market
 
 Facilitates the trading of already-issued securities, providing liquidity to investors.
 
