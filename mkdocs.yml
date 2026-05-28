@@ -24,10 +24,27 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Ensure these filenames match the EXACT spelling in your /docs folder
-nav:
-  - "Study Material":
+nav: 
+  - Home: index.md
+  - "Study Material": 
       - "Chapter 1: Research Analyst Profession": chapter-01.md
-      - "Chapter 2: Securities Market": chapter-02.md
+      - "Chapter 2: Securities Market": 
+        - "2.0 Securities Market Overview": chapter-02.md
+        - "2.1 Introduction to Securities and Securities Market": ./parts/chapter-02-part-01.md
+        - "2.2 Product Definitions / Terminology": 
+          - "2.2.0 Product Definitions Overview": ./parts/chapter-02-part-02.md
+          - "2.2.1 Equity Shares": ./parts/sections/chapter-02-part-02-section-1.md
+          - "2.2.2 Debentures/Bonds/Notes": ./parts/sections/chapter-02-part-02-section-2.md
+          - "2.2.3 Warrants": ./parts/sections/chapter-02-part-02-section-3.md
+          - "2.2.4 Indices": ./parts/sections/chapter-02-part-02-section-4.md
+          - "2.2.5 Mutual Fund Units": ./parts/sections/chapter-02-part-02-section-5.md
+          - "2.2.6 Exchange Traded Funds (ETFs)": ./parts/sections/chapter-02-part-02-section-6.md
+          - "2.2.7 Hybrids/Structured Products": ./parts/sections/chapter-02-part-02-section-7.md
+          - "2.2.8 Commodities": ./parts/sections/chapter-02-part-02-section-8.md
+        - "2.3 Structure of Securities Market": ./parts/chapter-02-part-03.md
+        - "2.4 Various Market Participants and Their Activities": ./parts/chapter-02-part-04.md
+        - "2.5 Kinds of Transactions": ./parts/chapter-02-part-05.md
+        - "2.6 Dematerialization and Rematerialization of securities": ./parts/chapter-02-part-06.md
       - "Chapter 3: Market Terminology": chapter-03.md
       - "Chapter 4: Fundamentals of Research": chapter-04.md
       - "Chapter 5: Economic Analysis": chapter-05.md
@@ -37,3 +54,4 @@ nav:
       - "Vocabulary and Terminology": vocab-and-terminology.md
   - Additional Resources:
     - "Chapterwise Quiz": quiz.md
+    - "Securtities Market - Products": ./suppliments/chapter-02-part-02-product-quick-reference.md
