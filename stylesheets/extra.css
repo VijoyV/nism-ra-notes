@@ -1,0 +1,170 @@
+/* Force the main container, grid, and content to use 100% of the screen width */
+.md-grid {
+    max-width: 90% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.md-content {
+    max-width: 90% !important;
+}
+
+/* Container to hold cards horizontally */
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1.5rem 0;
+}
+
+/* The Card Style */
+.custom-card {
+    flex: 1 1 300px;
+    /* Responsive: 300px wide, grows to fill space */
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: var(--md-code-bg-color);
+    /* Matches your theme background */
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* Header Section */
+.card-header {
+    padding: 12px 16px;
+    background: var(--md-primary-fg-color);
+    /* Navy Blue/Indigo */
+    color: white;
+    font-weight: bold;
+}
+
+/* Body Section */
+.card-body {
+    padding: 16px;
+    flex-grow: 1;
+}
+
+/* Footer Section */
+.card-footer {
+    padding: 8px 16px;
+    background: rgba(0, 0, 0, 0.05);
+    font-size: 0.8rem;
+    border-top: 1px solid #e0e0e0;
+}
+
+/* ==========================================================
+   HEADING HIERARCHY: 1 > 2 > 3 > 4 > 5
+ ========================================================== */
+
+/* Heading 1: THE MASTER PAGE TITLE */
+h1 {
+    background-color: #ffffff;           /* Clean white background */
+    color: #1a237e;                      /* Deep Navy */
+    font-size: 2.2rem !important;        /* Very Big */
+    font-weight: 900 !important;         /* Maximum Boldness */
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 2rem !important;
+    letter-spacing: -0.02em;
+    
+    /* Double Lines on LHS and RHS */
+    border-left: 10px double #1a237e;
+    border-right: 10px double #1a237e;
+    
+    /* Card Shadow Effect */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    border-radius: 8px;
+    
+    /* Ensure it stands out from the top nav */
+    margin-top: 10px !important;
+}
+
+
+/* Heading 2: THE CHAPTER SECTION (Full Card Style) */
+h2 {
+    background-color: #e3f2fd;    /* Light Blue Card */
+    color: #1a237e;               /* Deep Navy Text */
+    padding: 15px 20px;
+    border-radius: 4px;
+    font-weight: 800;
+    font-size: 1.5rem;
+    margin-top: 2.5rem !important;
+    margin-bottom: 1.5rem;
+    border-left: 8px double #1a237e; /* Double Vertical Lines */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    display: block;
+    clear: both;
+}
+
+/* Heading 3: THE SUB-TOPIC (Full Width Striped Style) */
+h3 {
+    background-color: #f1f8ff;    /* Slightly lighter/less bluish than H2 */
+    color: var(--md-primary-fg-color);
+    padding: 10px 15px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-transform: uppercase;    /* All Caps for predominance */
+    letter-spacing: 0.02em;
+    border-left: 5px solid var(--md-primary-fg-color);
+    margin-top: 2rem !important;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+/* Heading 4: TECHNICAL DETAIL (Title Case with Accent) */
+h4 {
+    font-size: 1.1rem;
+    text-transform: none;         /* Title Case */
+    color: var(--md-primary-fg-color);
+    margin-top: 1.5rem !important;
+    font-weight: 600;
+    border-left: 3px solid var(--md-primary-fg-color); 
+    padding-left: 12px;
+    background: rgba(63, 81, 181, 0.03); /* Very faint background */
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+/* Heading 5: THE MINI-NOTE (Muted Italics) */
+h5 {
+    font-size: 0.95rem;
+    font-style: italic;
+    color: #555;
+    margin-top: 1.2rem !important;
+    border-left: 2px solid #ccc;
+    padding-left: 10px;
+}
+
+/* ==========================================================
+   DARK MODE OVERRIDES (SLATE SCHEME)
+   ========================================================== */
+
+/* Dark mode for H1 */
+[data-md-color-scheme="slate"] h1 {
+    background-color: #1e293b;
+    color: #90caf9;
+    border-left-color: #90caf9;
+    border-right-color: #90caf9;
+}
+
+[data-md-color-scheme="slate"] h2 {
+    background-color: #1e293b;
+    color: #90caf9;
+    border-left-color: #90caf9;
+}
+
+[data-md-color-scheme="slate"] h3 {
+    background-color: #242b38;
+    color: #90caf9;
+    border-left-color: #90caf9;
+}
+
+[data-md-color-scheme="slate"] h4 {
+    background: rgba(144, 202, 249, 0.05);
+    color: #90caf9;
+}
+
+[data-md-color-scheme="slate"] h5 {
+    color: #aaa;
+    border-left-color: #444;
+}
