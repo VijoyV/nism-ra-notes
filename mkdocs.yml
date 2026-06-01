@@ -5,11 +5,9 @@ site_description: Comprehensive Study Guide and MCQ Question Bank for NISM-RA Ex
 
 theme:
   name: material
-  # Professional Font Choice
   font:
     text: Roboto
     code: Roboto Mono
-  # Color Palette with Auto-Switching Dark Mode
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -26,18 +24,17 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  # Advanced UI Features for a "Web App" feel
   features:
-    - navigation.tabs              # Moves main categories to the top bar
-    - navigation.sections          # Groups sidebar items for better hierarchy
-    - navigation.expand            # Sidebar starts expanded
-    - navigation.top               # Floating "Back to Top" button
-    - navigation.footer            # "Next/Prev" buttons at bottom
-    - navigation.tracking          # Updates URL as you scroll
-    - toc.follow                   # Right-hand table of contents follows scroll
-    - content.code.copy            # Adds a copy button to code/JSON blocks
-    - search.suggest               # Live search suggestions
-    - search.highlight             # Highlights search terms in text
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
 
 plugins:
   - search
@@ -56,15 +53,16 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_javascript:
   - javascripts/mathjax.js
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   - stylesheets/extra.css
   
-# Organized Navigation Structure
 nav: 
   - Home: index.md
   - "Study Material": 
