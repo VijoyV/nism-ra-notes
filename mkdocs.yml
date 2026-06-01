@@ -44,26 +44,26 @@ plugins:
 
 markdown_extensions:
   - admonition
-  - attr_list                      # Allows custom CSS styling in markdown
-  
-  - pymdownx.arithmatex:
-      generic: true
-      
-  - pymdownx.details               # Allows collapsible "Spoiler" blocks / hidden rationales
-  
-  - pymdownx.superfences:          # Handles code blocks AND Mermaid graphs cleanly
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format  
-  
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
-      alternate_style: true        # Enables content tabs for side-by-side comparisons
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
+extra_css:
+  - stylesheets/extra.css
+  
 # Organized Navigation Structure
 nav: 
   - Home: index.md
@@ -97,3 +97,4 @@ nav:
     - "Vocabulary": ./references/vocab-and-terminology.md
     - "Financial Market Participants": ./references/participants-of-indian-financial-market.md
     - "Product Reference": ./references/indian-financial-market-products-quick-reference.md
+  - "Test Page": test_page.md

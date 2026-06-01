@@ -1,131 +1,224 @@
-Since you are using the **Material for MkDocs** theme, you already have access to some of the most powerful "content beautification" tools in the static site world. You don't need new tech; you just need to enable the right **Markdown Extensions**.
+# Natural MD Style Beautifier
 
-Here is how to transform your plain text into a professional study portal using **Admonitions**, **Content Tabs**, and **Mermaid Diagrams**.
+Since you are stripping back to what works naturally without fighting the parser or requiring the "Insiders" version of the theme, here are the core Markdown features that work reliably.
 
----
+These utilize the extensions you have already enabled to give you a "Web App" feel while keeping your `.md` files clean and manageable.
 
-### 1. Enable the "Power Tools" in `mkdocs.yml`
+### 1. Admonitions (Callout Blocks)
 
-First, ensure these extensions are in your `markdown_extensions` section:
+These are your bread and butter for "beautification." They create a colored box with an icon. Since you have the Indigo theme, these look very sharp.
 
-```yaml
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.mermaid_format
-  - pymdownx.tabbed:
-      alternate_style: true
-
-```
-
----
-
-### 2. Technique: Admonitions (Beautiful Info Boxes)
-
-These are perfect for "NISM Tips" or "Warning" boxes. You can use types like `note`, `tip`, `danger`, `quote`, or `abstract`.
-
-**Markdown:**
+* **Types:** `note`, `tip`, `info`, `warning`, `danger`, `question`.
+* **Best For:** Key definitions, exam warnings, and shortcuts.
 
 ```markdown
-!!! tip "Exam Strategy"
-    Expect at least 2-3 questions on the difference between Warrants and Call Options. Remember: Warrants are issued by the company!
+!!! info "NISM Definition"
+    An Investment Adviser is defined under SEBI (Investment Advisers) Regulations, 2013.
 
-!!! danger "Negative Marking"
-    Don't guess! A wrong answer costs you **0.25 marks**. If unsure, leave it unattempted for 0 marks.
+!!! tip "Quick Memory Rule"
+    **S**hares = **S**take (Ownership)
+    **B**onds = **B**orrowing (Debt)
 
 ```
 
 ---
 
-### 3. Technique: Mind Maps & Flowcharts (Mermaid.js)
+### 2. Content Tabs
 
-Instead of uploading images, you can "code" your diagrams. This keeps the site fast and the text searchable.
+These are the most effective way to save space on your wide-screen layout. Instead of scrolling down, you click through tabs.
 
-**Markdown:**
+* **Best For:** Comparing two similar concepts or showing "Concept vs. Example."
+
+```markdown
+=== "Theory"
+    Systematic risk affects the entire market.
+=== "Examples"
+    * Interest rate changes
+    * Inflation
+    * Political instability
+
+```
+
+---
+
+### 3. Collapsible "Spoiler" Blocks
+
+These keep your pages from looking "cluttered" with too much text.
+
+* **Best For:** Hiding the answers to your practice questions or long mathematical proofs.
+
+```markdown
+??? question "Click to reveal the Answer"
+    The correct answer is **Option C**. 
+    *Rationale:* Beta measures systematic risk, not unsystematic risk.
+
+```
+
+---
+
+### 4. Footnotes
+
+These are great for adding technical "legal" citations or NISM regulation numbers without breaking the flow of your study notes.
+
+* **Best For:** Referencing specific SEBI circulars or dates.
+
+```markdown
+The lock-in period for an Anchor Investor is 30 days[^1].
+
+[^1]: Per latest SEBI (ICDR) Regulations as of 2024.
+
+```
+
+---
+
+### 5. Inline Icons (Emojis & Material Icons)
+
+Since you enabled the `pymdownx.emoji` extension, you can use icons directly in your text to make it scannable.
+
+* **Best For:** Bullet points and headings.
+
+```markdown
+* :material-check-circle: Registered Investment Adviser (RIA)
+* :material-close-circle: Unregistered Entities
+* :material-clock-outline: 3-Year Record Keeping Requirement
+
+```
+
+---
+
+### 6. Mermaid Charts (The Visual King)
+
+As you decided, this is the most unbreakable way to add "beauty." It converts code directly into clean graphics.
+
+* **Best For:** Organization charts, transaction flows, and market hierarchies.
 
 ```mermaid
-graph TD
-  A[Securities Market] --> B[Primary Market]
-  A --> C[Secondary Market]
-  B --> B1[IPO/FPO]
-  C --> C1[Stock Exchange]
-  C --> C2[OTC Markets]
+graph LR
+  A[Asset] --> B(Tangible)
+  A --> C(Intangible)
+  C --> D[Patents/Brands]
 
 ```
 
 ---
 
-### 4. Technique: Content Tabs (Clean Comparisons)
+### 7. Task Lists
 
-If you want to compare two concepts (like Equity vs. Debt) without taking up the whole page, use tabs.
+These add a nice "Interactive" checklist feel to your study plan.
 
-**Markdown:**
+* **Best For:** Tracking which chapters you have completed.
 
 ```markdown
-=== "Equity Shares"
-    * Represents ownership.
-    * Variable returns (Dividends).
-    * Higher risk, higher reward.
-
-=== "Debentures"
-    * Represents a loan (Debt).
-    * Fixed returns (Interest).
-    * Lower risk, priority in liquidation.
+- [x] Chapter 1: Introduction to Securities
+- [ ] Chapter 2: Secondary Markets
+- [ ] Chapter 3: Technical Analysis
 
 ```
 
----
+### 8. Standard Tables (With Alignment)
 
-### 5. Technique: Collapsible Details (The "Hidden" Answer)
+Tables are great for data, but they only look "beautiful" if you use proper alignment.
 
-Before you build the full quiz, you can use these for "Quick Check" questions within your notes.
-
-**Markdown:**
+* Use `:---` for left-aligned (text)
+* Use `---:` for right-aligned (numbers/math)
+* Use `:---:` for centered (status/yes-no)
 
 ```markdown
-??? question "Quick Check: Who regulates the Mutual Fund industry?"
-    **SEBI** (Securities and Exchange Board of India). 
-    AMFI is a self-regulatory body, not the primary regulator.
+| Instrument | Risk Profile | Settlement Cycle |
+| :--------- | :----------: | ---------------: |
+| Equity     | High         | T+1 Days         |
+| Govt Bond  | Low          | T+1 Days         |
+| Derivatives| Very High    | Daily MTM        |
 
 ```
 
 ---
 
-### 6. Technique: Grid Layouts (Dashboard View)
+### 9. Definition Lists
 
-If you want to show 2 or 3 boxes side-by-side (like a dashboard), you can use the `grid` feature.
+Instead of bullet points, use definition lists for terminology. This gives a much cleaner "dictionary" look where the term is bolded and the definition is slightly indented.
 
-**Markdown:**
+**Markdown Syntax:**
 
 ```markdown
-<div class="grid cards" border style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;">
+Beta
+:   A measure of a stock's volatility in relation to the overall market.
 
--   :material-timer: __Duration__
-    120 Minutes
--   :material-format-list-numbered: __Questions__
-    100 MCQs
--   :material-check-decagram: __Passing Score__
-    60%
-
-</div>
+Alpha
+:   The excess return of an investment relative to the return of a benchmark index.
 
 ```
 
 ---
 
-### Summary Table for your Notes
+### 10. Blockquotes for Legal Clauses
 
-| Feature | Best Use Case |
-| --- | --- |
-| **Admonitions** | Highlighting NISM Exam tips or warnings. |
-| **Mermaid** | Showing the "Hierarchy of Regulators" or "Transaction Cycles." |
-| **Tabs** | Comparing "American vs European Options." |
-| **Details** | Hiding long proofs or math derivations to keep page clean. |
+Since the NISM-RA exam involves specific SEBI regulations, use blockquotes to separate "Direct Law" from your own "Study Notes."
 
-Since you've got the **Navy Blue** (Indigo) theme set up, these boxes and tabs will automatically inherit those colors, making the whole site look like a premium paid course!
+```markdown
+> "No person shall act as an investment adviser unless he has obtained a certificate of registration from the Board under these regulations."
+> 
+> -- *SEBI (Investment Advisers) Regulations, 2013*
 
-Which of these do you think will help most with the "Company Analysis" chapters? (They usually have the most complex flowcharts!)
+```
+
+---
+
+### 11. Horizontal Rules (Separators)
+
+Use three dashes `---` to create a thin line. This is essential for breaking up long chapters into distinct sub-topics without using a new heading.
+
+```markdown
+### Primary Market Types
+Content about IPOs...
+
+---
+
+Content about Rights Issues...
+
+```
+
+---
+
+### 12. Nested Lists (Hierarchies)
+
+Use nested lists to show how different entities are related. This works naturally on your full-width layout.
+
+```markdown
+* **Regulators**
+    * SEBI (Capital Markets)
+    * RBI (Money Markets)
+    * IRDAI (Insurance)
+* **Market Participants**
+    * Stock Brokers
+    * Depository Participants (DP)
+
+```
+
+---
+
+### 13. Code Spans for Technical Terms
+
+Even if you aren't writing code, use the "backtick" ``` to highlight specific technical buttons, paths, or variables so they stand out in your text.
+
+```markdown
+To calculate the **Sharpe Ratio**, you must subtract the `Risk_Free_Rate` from the `Actual_Return`.
+
+```
+
+### 14. Pro-Tip: The "Simple Table" Alternative
+
+If you find standard tables too restrictive, use an **Admonition with a List** inside it. It looks much more like a "Web App Card" than a table does.
+
+```markdown
+!!! note "Quick Comparison"
+    * **Equity:** Ownership | High Risk | T+1
+    * **Debt:** Loan | Low Risk | T+1
+
+```
+
+By sticking to these, you avoid all the HTML/CSS alignment bugs and keep your site 100% stable. Are there any other specific NISM data types (like complex formulas) you need to organize?
+### Summary of "The Look"
+
+By using **Admonitions** for blocks, **Tabs** for comparisons, and **Mermaid** for diagrams, your site will look like a modern documentation portal without a single line of messy HTML.
+
