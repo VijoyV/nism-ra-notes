@@ -9,19 +9,33 @@ After studying this chapter, you should know about:
 • Activities of the securities market participants
 • Various securities market transactions
 • Dematerialization and Rematerialisation of securities
-
 ```
 
 ### PARTS
+#### [2.1 Introduction to Security Market](chapter-02-part-01.md)
 
-[2.1 Introduction to Securities and Securities Market](./parts/chapter-02-part-01.md)
+#### [2.2 Product Definitions]()
 
-[2.2 Product Definitions / Terminology](./parts/chapter-02-part-02.md)
+##### [2.2.1 Equity Shares](chapter-02-part-02-section-1.md)
 
-[2.3 Structure of Securities Market](./parts/chapter-02-part-03.md)
+##### [2.2.2 Bonds & Debentures](chapter-02-part-02-section-2.md)
 
-[2.4 Various Market Participants and Their Activities](./parts/chapter-02-part-04.md)
+##### [2.2.3 Warrants](chapter-02-part-02-section-3.md)
 
-[2.5 Kinds of Transactions](./parts/chapter-02-part-05.md)
+##### [2.2.4 Indices](chapter-02-part-02-section-4.md)
 
-[2.6 Dematerialization and Rematerialization of securities](./parts/chapter-02-part-06.md)
+##### [2.2.5 Mutual Funds](chapter-02-part-02-section-5.md)
+
+##### [2.2.6 ETFs](chapter-02-part-02-section-6.md)
+
+##### [2.2.7 Hybrids](chapter-02-part-02-section-7.md)
+
+##### [2.2.8 Commodities](chapter-02-part-02-section-8.md)
+
+#### [2.3 Market Structure](chapter-02-part-03.md)
+
+#### [2.4 Participants](chapter-02-part-04.md)
+
+#### [2.5 Transactions](chapter-02-part-05.md)
+
+#### [2.6 Demat/Remat"](chapter-02-part-06.md)

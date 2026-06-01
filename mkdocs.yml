@@ -1,56 +1,99 @@
 site_name: NISM-Series-XV Study Guide
 site_url: https://vijoyv.github.io/nism-ra-notes/
+site_author: Vijoy V
+site_description: Comprehensive Study Guide and MCQ Question Bank for NISM-RA Exam 2026.
 
 theme:
   name: material
+  # Professional Font Choice
+  font:
+    text: Roboto
+    code: Roboto Mono
+  # Color Palette with Auto-Switching Dark Mode
   palette:
-    primary: indigo
-    accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # Advanced UI Features for a "Web App" feel
   features:
-    - navigation.footer  # This enables the "Next" and "Prev" area
-    - navigation.tracking # Optional: Updates the URL as you scroll
+    - navigation.tabs              # Moves main categories to the top bar
+    - navigation.sections          # Groups sidebar items for better hierarchy
+    - navigation.expand            # Sidebar starts expanded
+    - navigation.top               # Floating "Back to Top" button
+    - navigation.footer            # "Next/Prev" buttons at bottom
+    - navigation.tracking          # Updates URL as you scroll
+    - toc.follow                   # Right-hand table of contents follows scroll
+    - content.code.copy            # Adds a copy button to code/JSON blocks
+    - search.suggest               # Live search suggestions
+    - search.highlight             # Highlights search terms in text
 
 plugins:
   - search
 
 markdown_extensions:
+  - admonition
+  - attr_list                      # Allows custom CSS styling in markdown
+  
   - pymdownx.arithmatex:
       generic: true
+      
+  - pymdownx.details               # Allows collapsible "Spoiler" blocks / hidden rationales
+  
+  - pymdownx.superfences:          # Handles code blocks AND Mermaid graphs cleanly
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format  
+  
+  - pymdownx.tabbed:
+      alternate_style: true        # Enables content tabs for side-by-side comparisons
 
 extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-md-chtml.js
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-# Ensure these filenames match the EXACT spelling in your /docs folder
+# Organized Navigation Structure
 nav: 
   - Home: index.md
   - "Study Material": 
       - "Chapter 1: Research Analyst Profession": chapter-01.md
       - "Chapter 2: Securities Market": 
-        - "2.0 Securities Market Overview": chapter-02.md
-        - "2.1 Introduction to Securities and Securities Market": ./parts/chapter-02-part-01.md
-        - "2.2 Product Definitions / Terminology": 
-          - "2.2.0 Product Definitions Overview": ./parts/chapter-02-part-02.md
-          - "2.2.1 Equity Shares": ./parts/sections/chapter-02-part-02-section-1.md
-          - "2.2.2 Debentures/Bonds/Notes": ./parts/sections/chapter-02-part-02-section-2.md
-          - "2.2.3 Warrants": ./parts/sections/chapter-02-part-02-section-3.md
-          - "2.2.4 Indices": ./parts/sections/chapter-02-part-02-section-4.md
-          - "2.2.5 Mutual Fund Units": ./parts/sections/chapter-02-part-02-section-5.md
-          - "2.2.6 Exchange Traded Funds (ETFs)": ./parts/sections/chapter-02-part-02-section-6.md
-          - "2.2.7 Hybrids/Structured Products": ./parts/sections/chapter-02-part-02-section-7.md
-          - "2.2.8 Commodities": ./parts/sections/chapter-02-part-02-section-8.md
-        - "2.3 Structure of Securities Market": ./parts/chapter-02-part-03.md
-        - "2.4 Various Market Participants and Their Activities": ./parts/chapter-02-part-04.md
-        - "2.5 Kinds of Transactions": ./parts/chapter-02-part-05.md
-        - "2.6 Dematerialization and Rematerialization of securities": ./parts/chapter-02-part-06.md
+          - "2.0 Overview": chapter-02.md
+          - "2.1 Introduction to Security Market": chapter-02-part-01.md
+          - "2.2 Product Definitions": 
+            - "2.2.1 Equity Shares": chapter-02-part-02-section-1.md
+            - "2.2.2 Bonds & Debentures": chapter-02-part-02-section-2.md
+            - "2.2.3 Warrants": chapter-02-part-02-section-3.md
+            - "2.2.4 Indices": chapter-02-part-02-section-4.md
+            - "2.2.5 Mutual Funds": chapter-02-part-02-section-5.md
+            - "2.2.6 ETFs": chapter-02-part-02-section-6.md
+            - "2.2.7 Hybrids": chapter-02-part-02-section-7.md
+            - "2.2.8 Commodities": chapter-02-part-02-section-8.md
+          - "2.3 Market Structure": chapter-02-part-03.md
+          - "2.4 Participants": chapter-02-part-04.md
+          - "2.5 Transactions": chapter-02-part-05.md
+          - "2.6 Demat/Remat": chapter-02-part-06.md
       - "Chapter 3: Market Terminology": chapter-03.md
       - "Chapter 4: Fundamentals of Research": chapter-04.md
       - "Chapter 5: Economic Analysis": chapter-05.md
       - "Chapter 6: Industry Analysis": chapter-06.md
-      - "Chapter 7: Company Analysis – Business and Governance": chapter-07.md
-      - "Chapter 8: Company Analysis – Financial Analysis": chapter-08.md
-      - "Vocabulary and Terminology": vocab-and-terminology.md
-  - Additional Resources:
-    - "Chapterwise Quiz": quiz.md
-    - "Securtities Market - Products": ./suppliments/chapter-02-part-02-product-quick-reference.md
+      - "Chapter 7: Company Analysis - Governance": chapter-07.md
+      - "Chapter 8: Company Analysis - Financials": chapter-08.md
+  - "Exam Engine":
+      - "Chapterwise Quiz": quiz.md
+  - "Reference":
+    - "Vocabulary": ./references/vocab-and-terminology.md
+    - "Financial Market Participants": ./references/participants-of-indian-financial-market.md
+    - "Product Reference": ./references/indian-financial-market-products-quick-reference.md
