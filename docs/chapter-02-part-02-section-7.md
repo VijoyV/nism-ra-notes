@@ -1,215 +1,225 @@
-### 2.2.7 Hybrids/Structured Products
-
-#### 2.2.7.1 Preference Shares
-
-**Definition:**
-
-- Special kind of equity shares with **preference over common/ordinary equity shares** at:
-    - Time of dividend
-    - Time of repayment of capital in winding up
-
-**Dual Nature:**
-
-| Like Equity | Like Debt |
-|-------------|-----------|
-| Called shareholders (not creditors) | Pre-determined rate of dividend |
-| Payment called "dividend" | Dividend payable before common equity |
-| Paid from Profit After Tax (PAT) | Preference in winding up (after debt, before equity) |
-| Not an obligation unlike interest | |
-
-**What they DO NOT have:**
-
-- Voting rights
-- Right over residual assets in winding up
-
-**Types:**
-
-- Cumulative (unpaid dividend carried forward)
-- Non-cumulative (unpaid dividend lapses)
-- Convertible (partly or fully)
+Hybrid securities combine characteristics of two or more traditional financial instruments such as equity, debt, commodities, derivatives, or real assets. They are designed to provide a customized risk-return profile and often offer investors additional benefits such as conversion rights, capital protection, or exposure to specific asset classes. 
 
 ---
 
-#### 2.2.7.2 Convertible Debentures & Bonds
+## 2.2.7.1 Preference Shares
 
-**Definition:**
-- Debt instruments that can be converted into equity shares at a future date.
-- Have features of both debt and equity.
+### Definition
 
-**Types:**
+* Special kind of equity shares with **preference over common/ordinary equity shares** at:
 
-| Type | Meaning |
-|------|---------|
-| **Fully Convertible (FCD)** | Entire face value converted into equity |
-| **Partly Convertible (PCD)** | Portion converted to equity; non-convertible portion remains debt, earns interest, repaid on redemption |
-| **Optionally Convertible (OCD)** | Convertible at discretion of debenture holder |
+  * Time of dividend
+  * Time of repayment of capital in winding up
 
-**Conversion Details Specified at Issue:**
+Preference shares are legally equity shares but possess certain debt-like characteristics. Preference shareholders receive priority over ordinary shareholders for dividend payments and capital repayment during liquidation. However, they are not creditors and generally do not enjoy voting rights. 
 
-- Date of conversion
-- Conversion ratio (number of shares per debenture)
-- Conversion price (usually at discount to market price)
-- Proportion to be converted (for PCD)
+### Dual Nature
 
-**Advantage to Issuer:**
+| Like Equity                         | Like Debt                                            |
+| ----------------------------------- | ---------------------------------------------------- |
+| Called shareholders (not creditors) | Pre-determined rate of dividend                      |
+| Payment called "dividend"           | Dividend payable before common equity                |
+| Paid from Profit After Tax (PAT)    | Preference in winding up (after debt, before equity) |
+| Not an obligation unlike interest   |                                                      |
 
-- Lower coupon rate than pure debt (investor gets potential capital appreciation)
-- No repayment on maturity (shares issued instead)
+**PAT (Profit After Tax)** refers to profits remaining after all expenses, interest, and taxes have been paid.
 
-**Disadvantage to Issuer:**
+### What they DO NOT have
 
-- Dilution of existing equity shareholders' stake
+* Voting rights
+* Right over residual assets in winding up
 
-**Advantage to Investor:**
+### Types
 
-- Earn coupon income in initial stage (when project is nascent)
-- Benefit from share appreciation after conversion
+* **Cumulative** – Unpaid dividends accumulate and must be paid later.
+* **Non-cumulative** – Unpaid dividends lapse permanently.
+* **Convertible** – Can be converted into equity shares according to specified terms.
 
 ---
 
-#### 2.2.7.3 Indian Depository Receipts (IDRs), Global Depository Receipts (GDRs) and American Depository Receipts (ADRs)
+## 2.2.7.2 Convertible Debentures & Bonds
 
-**Definition:**
+### Definition
 
-- Financial instruments that represent shares of a foreign company.
-- Traded in a market of a country where they are issued.
-- Denominated in local currency of that country.
+* Debt instruments that can be converted into equity shares at a future date.
+* Have features of both debt and equity.
 
-**Issuance Process:**
+Convertible debentures begin as debt instruments paying interest. At a later stage, they may convert into equity shares based on predetermined terms. They are attractive because they provide fixed income initially and equity participation later. 
 
-1. Company or investor delivers equity shares to a depository (foreign bank) in the target market.
-2. Depository places shares in custodian account in company's home country.
-3. Depository issues a certificate (Depositary Receipt) against those shares to overseas investors.
+### Types
 
-**Sponsored vs Unsponsored:**
+| Type                             | Meaning                                                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Fully Convertible (FCD)**      | Entire face value converted into equity                                                                 |
+| **Partly Convertible (PCD)**     | Portion converted to equity; non-convertible portion remains debt, earns interest, repaid on redemption |
+| **Optionally Convertible (OCD)** | Convertible at discretion of debenture holder                                                           |
 
-| Type | Initiated by | Listing | Regulatory requirements |
-|------|-------------|---------|------------------------|
-| Sponsored DR | Issuing company | Can be listed on exchanges | Must comply with listing requirements |
-| Unsponsored DR | Investor | OTC markets only | Less regulation |
+### Conversion Details Specified at Issue
 
-**Two-way Fungibility:**
+* Date of conversion
+* Conversion ratio (number of shares per debenture)
+* Conversion price (usually at discount to market price)
+* Proportion to be converted (for PCD)
 
-- Subject to regulatory provisions.
-- Shares bought in home country → converted to DRs in foreign market.
-- DRs bought in foreign market → converted to underlying shares in home country.
+### Important Points
 
-**Country-specific DRs:**
+**Advantage to Issuer**
 
-| Type | Market |
-|------|--------|
-| ADR | USA |
-| IDR | India |
-| HKDR | Hong Kong |
-| GDR | Multiple countries (typically EU) |
+* Lower interest cost than normal debt
+* Reduced repayment burden after conversion
 
-**Indian Context:**
+**Advantage to Investor**
 
-- Indian companies can raise equity capital abroad via DRs.
-- Foreign companies can raise equity capital in India via IDRs (SEBI guidelines: lock-in, only resident Indian investors, etc.).
+* Earns interest initially
+* Participates in future equity appreciation
 
----
+**Disadvantage**
 
-#### 2.2.7.4 Foreign Currency Convertible Bonds (FCCBs)
-
-**Definition:**
-
-- Foreign currency (usually USD) denominated convertible debt securities issued by companies in international markets.
-
-**Key Features:**
-
-- Like convertibles, but generally optionally convertible.
-- Issued offshore in different denominations.
-- Regulated by RBI under FEMA (Issue of Foreign Currency Convertible Bonds and Ordinary Shares through Depository Receipt Mechanism, 1993).
-
-**Cash Flows:**
-
-- Interest and principal repayment (if happens) → in foreign currency.
-- After conversion to equity → dividend paid in INR (currency risk lies with investor).
+* Conversion leads to dilution of existing shareholders' ownership.
 
 ---
 
-#### 2.2.7.5 Equity Linked Debentures (ELDs)
+## 2.2.7.3 Indian Depository Receipts (IDRs), Global Depository Receipts (GDRs) and American Depository Receipts (ADRs)
 
-**Definition:**
+### Definition
 
-- Floating rate debt instruments whose interest is based on returns of underlying equity asset (Nifty, Sensex, individual shares, or custom basket).
+* Financial instruments that represent shares of a foreign company.
+* Traded in a market of a country where they are issued.
+* Denominated in local currency of that country.
 
-**Structure:**
+Depository Receipts (DRs) allow investors in one country to invest in shares of companies from another country without directly purchasing the foreign shares. A depository bank issues certificates backed by underlying shares held with a custodian. 
 
-- Part of principal → invested in fixed income securities (principal protection)
-- Balance → used to buy options (exposure to equity returns)
+### Sponsored vs Unsponsored
 
-**Important Cautions:**
+| Type           | Initiated by    | Listing                    | Regulatory requirements               |
+| -------------- | --------------- | -------------------------- | ------------------------------------- |
+| Sponsored DR   | Issuing company | Can be listed on exchanges | Must comply with listing requirements |
+| Unsponsored DR | Investor        | OTC markets only           | Less regulation                       |
 
-- "Capital protection" does NOT mean absence of credit risk (risk of default by issuer).
-- Credit rated by rating agencies.
-- If issuer uses proceeds for CAPEX, very little left after capital protection + options.
-- Better to engage an Investment Banker/Arranger to create this structured product.
+### Country-specific DRs
 
----
+| Type | Market                            |
+| ---- | --------------------------------- |
+| ADR  | USA                               |
+| IDR  | India                             |
+| HKDR | Hong Kong                         |
+| GDR  | Multiple countries (typically EU) |
 
-#### 2.2.7.6 Commodity Linked Debentures (CLDs)
+### Important Point
 
-**Definition:**
-
-- Floating rate debt instruments whose interest is based on returns of underlying commodity asset.
-- Most common: linked to precious metals (Gold, Silver).
-
-**Advantage to Investor:**
-
-- Opportunity to earn return from commodity markets.
-- Initial capital protected.
+**Two-way fungibility** means DRs can be converted into underlying shares and vice versa, subject to regulatory provisions.
 
 ---
 
-#### 2.2.7.7 Mortgage Backed Securities (MBS) and Asset Backed Securities (ABS)
+## 2.2.7.4 Foreign Currency Convertible Bonds (FCCBs)
 
-**Definition:**
+### Definition
 
-- Debt instruments issued by institutions against receivables and cash flows from financial assets.
+* Foreign currency (usually USD) denominated convertible debt securities issued by companies in international markets.
 
-**Examples:**
+FCCBs combine features of foreign currency borrowing and convertible debt. Investors receive interest in foreign currency and may later convert the bonds into equity shares of the issuing company. 
 
-| Type | Underlying Asset |
-|------|------------------|
-| MBS | Home loans |
-| ABS | Auto loans, rent receivables, credit card receivables |
+### Key Features
 
-**Mechanism:**
+* Usually issued outside India.
+* Denominated in foreign currency.
+* Governed by RBI and FEMA regulations.
+* Conversion is generally optional.
 
-- Cash flows from these assets → meet interest and principal repayment obligations on bonds issued.
-- Securitization creates liquidity from otherwise illiquid assets.
+### Risk
 
-**Features:**
-
-- Credit rated.
-- May be listed on stock exchanges.
+The issuer bears foreign exchange risk until conversion. If the foreign currency appreciates against INR, repayment becomes more expensive.
 
 ---
 
-#### 2.2.7.8 REITs/InvITs
+## 2.2.7.5 Equity Linked Debentures (ELDs)
 
-**Real Estate Investment Trusts (REITs):**
+### Definition
 
-- Pool money from investors.
-- Invest in revenue-generating real estate projects.
-- Formed as a trust.
-- **Requirement**: 80% of assets held in real estate assets.
-- **Distribution**: At least 90% of distributable surplus cash flow to unit holders.
+* Floating rate debt instruments whose interest is based on returns of underlying equity asset (Nifty, Sensex, individual shares, or custom basket).
 
-**Infrastructure Investment Trusts (InvITs):**
+ELDs combine debt investments with equity-linked returns. Part of the investment is used to provide capital protection while the remaining portion is linked to equity market performance through derivative strategies. 
 
-- Pool money from investors.
-- Invest in revenue-generating infrastructure projects.
-- Formed as a trust.
-- **Requirement**: 90% of unit capital invested in revenue-generating infrastructure projects (directly or through SPV).
-- **Distribution**: At least 90% of distributable surplus cash flow to unit holders.
+### Structure
 
-**Common Features:**
+* Part invested in fixed-income securities.
+* Balance used for equity-linked derivative exposure.
 
-- Enjoy favourable tax treatment if regulatory requirements met.
-- Issue units to investors to raise money.
+### Important Caution
+
+Capital protection does not eliminate **credit risk**. Investors remain exposed to the possibility of default by the issuer.
 
 ---
 
+## 2.2.7.6 Commodity Linked Debentures (CLDs)
+
+### Definition
+
+* Floating rate debt instruments whose interest is based on returns of underlying commodity asset.
+* Most common: linked to precious metals (Gold, Silver).
+
+CLDs allow investors to participate in commodity price movements while retaining debt-like features. They are commonly linked to gold and silver prices. 
+
+### Advantage to Investor
+
+* Exposure to commodity markets.
+* Potential capital protection.
+* Diversification benefits.
+
+---
+
+## 2.2.7.7 Mortgage Backed Securities (MBS) and Asset Backed Securities (ABS)
+
+### Definition
+
+* Debt instruments issued by institutions against receivables and cash flows from financial assets.
+
+These securities are created through a process called **securitization**, where future cash flows from loans are converted into tradable securities. 
+
+### Examples
+
+| Type | Underlying Asset                                      |
+| ---- | ----------------------------------------------------- |
+| MBS  | Home loans                                            |
+| ABS  | Auto loans, rent receivables, credit card receivables |
+
+### Important Point
+
+Investors receive interest and principal payments from the cash flows generated by the underlying loans or receivables.
+
+---
+
+## 2.2.7.8 REITs/InvITs
+
+### Real Estate Investment Trusts (REITs)
+
+* Pool money from investors.
+* Invest in revenue-generating real estate projects.
+* Formed as a trust.
+* **Requirement**: 80% of assets held in real estate assets.
+* **Distribution**: At least 90% of distributable surplus cash flow to unit holders.
+
+REITs allow investors to participate in large commercial real estate assets without directly purchasing properties. Rental income and other cash flows are distributed to investors. 
+
+---
+
+### Infrastructure Investment Trusts (InvITs)
+
+* Pool money from investors.
+* Invest in revenue-generating infrastructure projects.
+* Formed as a trust.
+* **Requirement**: 90% of unit capital invested in revenue-generating infrastructure projects (directly or through SPV).
+* **Distribution**: At least 90% of distributable surplus cash flow to unit holders.
+
+InvITs provide exposure to infrastructure assets such as roads, power transmission lines, pipelines, airports, and telecom towers. 
+
+### Common Features
+
+* Enjoy favourable tax treatment if regulatory requirements are met.
+* Issue units to investors.
+* Provide regular cash flow distributions.
+* Listed and traded on stock exchanges.
+
+---
+
+This is roughly the depth I'd recommend for the rest of Chapter 2: **20% more explanatory than the workbook, but not 300% more like a textbook.**
