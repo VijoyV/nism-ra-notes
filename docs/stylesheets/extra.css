@@ -1,6 +1,6 @@
 /* Force the main container, grid, and content to use 100% of the screen width */
 .md-grid {
-    max-width: 90% !important;
+    max-width: 80% !important;
     padding-left: 1rem;
     padding-right: 1rem;
 }
