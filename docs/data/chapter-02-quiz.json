@@ -1,0 +1,1502 @@
+[
+    {
+        "questionNo": 1,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Introduction to Securities and Securities Market",
+        "question": "A security generally represents:",
+        "options": [
+            "Ownership or debt obligation",
+            "Only ownership",
+            "Only debt",
+            "Physical assets only"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Securities represent either ownership interests or debt obligations."
+    },
+    {
+        "questionNo": 2,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Introduction to Securities and Securities Market",
+        "question": "Which of the following is the primary role of the securities market?",
+        "options": [
+            "Collect taxes",
+            "Channel savings into investments",
+            "Issue currency",
+            "Provide banking services"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "The securities market channels savings into productive investments."
+    },
+    {
+        "questionNo": 3,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Financial Market Participants",
+        "question": "Which participant raises capital by issuing securities?",
+        "options": [
+            "Investor",
+            "Borrower",
+            "Broker",
+            "Depository"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Borrowers or seekers of funds raise capital through securities issuance."
+    },
+    {
+        "questionNo": 4,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Financial Market Participants",
+        "question": "Which of the following is a regulatory body in the Indian financial market?",
+        "options": [
+            "NSE",
+            "CDSL",
+            "SEBI",
+            "NSDL"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "SEBI regulates the securities market in India."
+    },
+    {
+        "questionNo": 5,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Shares",
+        "question": "An equity shareholder is best described as:",
+        "options": [
+            "A lender to the company",
+            "A creditor",
+            "A part owner of the company",
+            "A regulator"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Equity shares represent ownership in a company."
+    },
+    {
+        "questionNo": 6,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Shares",
+        "question": "Which right is generally available to equity shareholders?",
+        "options": [
+            "Voting rights",
+            "Guaranteed interest",
+            "Fixed maturity repayment",
+            "Priority over creditors"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Equity shareholders typically enjoy voting rights."
+    },
+    {
+        "questionNo": 7,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Debentures",
+        "question": "A debenture holder is primarily a:",
+        "options": [
+            "Owner",
+            "Creditor",
+            "Promoter",
+            "Director"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Debenture holders lend money to the issuer and are creditors."
+    },
+    {
+        "questionNo": 8,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Debentures",
+        "question": "Which type of debenture cannot be converted into equity shares?",
+        "options": [
+            "FCD",
+            "PCD",
+            "NCD",
+            "OCD"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Non-Convertible Debentures remain pure debt instruments."
+    },
+    {
+        "questionNo": 9,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Money Market Instruments",
+        "question": "Treasury Bills are issued by:",
+        "options": [
+            "Companies",
+            "Mutual Funds",
+            "Government",
+            "Stock Exchanges"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Treasury Bills are short-term debt instruments issued by the Government."
+    },
+    {
+        "questionNo": 10,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Money Market Instruments",
+        "question": "Commercial Papers are typically issued by:",
+        "options": [
+            "High credit rating companies",
+            "Stock exchanges",
+            "Mutual funds",
+            "Depositories"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Commercial Papers are unsecured short-term debt issued by highly rated companies."
+    },
+    {
+        "questionNo": 11,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Foreign Bonds",
+        "question": "In a foreign bond, currency risk is primarily borne by:",
+        "options": [
+            "Issuer",
+            "Investor",
+            "Stock Exchange",
+            "Depository"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "The issuer bears the risk if the foreign currency appreciates."
+    },
+    {
+        "questionNo": 12,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Masala Bonds",
+        "question": "Masala Bonds are denominated in:",
+        "options": [
+            "USD",
+            "EUR",
+            "INR",
+            "GBP"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Masala Bonds are offshore bonds denominated in Indian Rupees."
+    },
+    {
+        "questionNo": 13,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Warrants",
+        "question": "A warrant provides the holder:",
+        "options": [
+            "An obligation to buy shares",
+            "A right but not obligation to buy shares",
+            "Voting rights immediately",
+            "Guaranteed dividends"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "A warrant gives the right, but not the obligation, to purchase shares."
+    },
+    {
+        "questionNo": 14,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Indices",
+        "question": "The Nifty 50 consists of how many stocks?",
+        "options": [
+            "30",
+            "40",
+            "50",
+            "100"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Nifty 50 tracks 50 large and liquid companies."
+    },
+    {
+        "questionNo": 15,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Indices",
+        "question": "Most leading Indian indices are weighted based on:",
+        "options": [
+            "Dividend yield",
+            "Market capitalization",
+            "Book value",
+            "Face value"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Major indices are based on free-float market capitalization."
+    },
+    {
+        "questionNo": 16,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "The value of a mutual fund unit is called:",
+        "options": [
+            "Face Value",
+            "Book Value",
+            "NAV",
+            "Coupon"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "NAV represents the value per unit of a mutual fund."
+    },
+    {
+        "questionNo": 17,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "An open-ended mutual fund allows investors to:",
+        "options": [
+            "Buy and sell only at maturity",
+            "Buy and sell anytime",
+            "Trade only on stock exchanges",
+            "Hold till lock-in expiry"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Open-ended funds permit continuous purchase and redemption."
+    },
+    {
+        "questionNo": 18,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "ETFs",
+        "question": "Which feature differentiates an ETF from a traditional index fund?",
+        "options": [
+            "Tracks an index",
+            "Diversification",
+            "Listed and traded on exchange",
+            "Portfolio of securities"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "ETF units are traded on stock exchanges throughout the day."
+    },
+    {
+        "questionNo": 19,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodities",
+        "question": "Which of the following is a hard commodity?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Gold",
+            "Coffee"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Gold is a mined natural resource and therefore a hard commodity."
+    },
+    {
+        "questionNo": 20,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodity ETFs",
+        "question": "The major advantage of a Gold ETF over physical gold is:",
+        "options": [
+            "Guaranteed returns",
+            "No storage responsibility for investor",
+            "No price fluctuation",
+            "No market risk"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "The fund handles storage and custody of the underlying gold."
+    },
+    {
+        "questionNo": 21,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Preference Shares",
+        "question": "Preference shareholders receive preference over equity shareholders in:",
+        "options": [
+            "Voting rights",
+            "Management control",
+            "Dividend payment and repayment of capital",
+            "Bonus issue only"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Preference shareholders have priority in dividend payment and repayment of capital during winding up."
+    },
+    {
+        "questionNo": 22,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Preference Shares",
+        "question": "Which characteristic makes preference shares resemble debt instruments?",
+        "options": [
+            "Voting rights",
+            "Residual ownership",
+            "Predetermined dividend rate",
+            "Unlimited upside potential"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Preference shares typically carry a predetermined dividend rate similar to fixed-interest debt."
+    },
+    {
+        "questionNo": 23,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Preference Shares",
+        "question": "In cumulative preference shares, unpaid dividends:",
+        "options": [
+            "Expire permanently",
+            "Convert into equity",
+            "Accumulate and are payable later",
+            "Become interest-bearing debt"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Unpaid dividends on cumulative preference shares accumulate and must be paid before equity dividends."
+    },
+    {
+        "questionNo": 24,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Preference Shares",
+        "question": "Preference dividends are generally paid from:",
+        "options": [
+            "Revenue before expenses",
+            "Profit After Tax",
+            "Gross Profit",
+            "Reserves only"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Preference dividends are paid out of Profit After Tax (PAT)."
+    },
+    {
+        "questionNo": 25,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Convertible Debentures",
+        "question": "A Partly Convertible Debenture (PCD) consists of:",
+        "options": [
+            "Only debt",
+            "Only equity",
+            "A convertible portion and a non-convertible portion",
+            "A warrant and an option"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Part of a PCD converts into equity while the balance remains debt."
+    },
+    {
+        "questionNo": 26,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Convertible Debentures",
+        "question": "Which of the following is specified at the time of issue of a convertible debenture?",
+        "options": [
+            "Future market price",
+            "Future dividend rate",
+            "Conversion ratio",
+            "Future EPS"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "The conversion ratio is predetermined at issuance."
+    },
+    {
+        "questionNo": 27,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Convertible Debentures",
+        "question": "A major disadvantage of convertible debentures for existing shareholders is:",
+        "options": [
+            "Higher interest burden",
+            "Liquidity risk",
+            "Equity dilution",
+            "Credit downgrade"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Conversion creates new shares and dilutes existing ownership."
+    },
+    {
+        "questionNo": 28,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository Receipts",
+        "question": "An ADR is traded in:",
+        "options": [
+            "India",
+            "United Kingdom",
+            "United States",
+            "Hong Kong"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "American Depository Receipts (ADRs) are traded in the United States."
+    },
+    {
+        "questionNo": 29,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository Receipts",
+        "question": "A Depository Receipt represents:",
+        "options": [
+            "Debt securities only",
+            "Shares of a foreign company",
+            "Government securities",
+            "Mutual fund units"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Depository Receipts represent shares of a foreign company."
+    },
+    {
+        "questionNo": 30,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository Receipts",
+        "question": "Which of the following is a sponsored Depository Receipt?",
+        "options": [
+            "Initiated by the issuing company",
+            "Initiated by retail investors",
+            "Issued only in OTC markets",
+            "Issued only by regulators"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Sponsored DRs are initiated by the issuing company."
+    },
+    {
+        "questionNo": 31,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "FCCBs",
+        "question": "FCCBs are generally denominated in:",
+        "options": [
+            "Indian Rupees",
+            "Foreign Currency",
+            "Gold",
+            "Special Drawing Rights"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Foreign Currency Convertible Bonds are denominated in foreign currencies."
+    },
+    {
+        "questionNo": 32,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "FCCBs",
+        "question": "FCCBs combine characteristics of:",
+        "options": [
+            "Equity and commodity",
+            "Debt and equity",
+            "Debt and real estate",
+            "Commodity and derivatives"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "FCCBs are convertible debt instruments."
+    },
+    {
+        "questionNo": 33,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Linked Debentures",
+        "question": "Returns on Equity Linked Debentures are linked to:",
+        "options": [
+            "Interest rates only",
+            "Commodity prices",
+            "Equity market performance",
+            "Foreign exchange rates only"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "ELDs derive returns from equity indices or stocks."
+    },
+    {
+        "questionNo": 34,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Linked Debentures",
+        "question": "Capital protection in an ELD does NOT eliminate:",
+        "options": [
+            "Market risk",
+            "Liquidity risk",
+            "Credit risk",
+            "Inflation risk"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Issuer default risk still exists despite capital protection structures."
+    },
+    {
+        "questionNo": 35,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodity Linked Debentures",
+        "question": "Commodity Linked Debentures are most commonly linked to:",
+        "options": [
+            "Real Estate",
+            "Precious Metals",
+            "Currencies",
+            "Bank Deposits"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Gold and silver are common underlying commodities."
+    },
+    {
+        "questionNo": 36,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "MBS and ABS",
+        "question": "Mortgage Backed Securities derive cash flows primarily from:",
+        "options": [
+            "Corporate profits",
+            "Home loans",
+            "Commodity prices",
+            "Equity dividends"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "MBS are backed by pools of home loans."
+    },
+    {
+        "questionNo": 37,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "MBS and ABS",
+        "question": "Which of the following may serve as an underlying asset for ABS?",
+        "options": [
+            "Treasury Bills",
+            "Credit Card Receivables",
+            "Equity Shares",
+            "Mutual Fund Units"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "ABS can be backed by auto loans, rent receivables, and credit card receivables."
+    },
+    {
+        "questionNo": 38,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "REITs",
+        "question": "A REIT primarily invests in:",
+        "options": [
+            "Government securities",
+            "Revenue-generating real estate",
+            "Commodities",
+            "Foreign currencies"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "REITs invest in income-generating real estate assets."
+    },
+    {
+        "questionNo": 39,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "InvITs",
+        "question": "InvITs are primarily designed to invest in:",
+        "options": [
+            "Residential apartments",
+            "Agricultural land",
+            "Infrastructure projects",
+            "Commodity warehouses"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "InvITs invest in revenue-generating infrastructure assets."
+    },
+    {
+        "questionNo": 40,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "REITs and InvITs",
+        "question": "Both REITs and InvITs are generally required to distribute a significant portion of their cash flows because:",
+        "options": [
+            "They function as trusts",
+            "SEBI prohibits reinvestment",
+            "They have no assets",
+            "They cannot raise additional capital"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "REITs and InvITs are trust structures designed to pass through income to investors."
+    },
+    {
+        "questionNo": 41,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Primary Market",
+        "question": "The primary market is a market where:",
+        "options": [
+            "Existing securities are traded among investors",
+            "New securities are issued for the first time",
+            "Only government securities are traded",
+            "Only debt securities are traded"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "The primary market facilitates the issuance of new securities and capital raising."
+    },
+    {
+        "questionNo": 42,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Primary Market",
+        "question": "When an investor subscribes to an IPO, the money primarily goes to:",
+        "options": [
+            "Stock Broker",
+            "Stock Exchange",
+            "Issuing Company",
+            "Depository"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "In a primary market issue such as an IPO, funds are raised directly by the issuing company."
+    },
+    {
+        "questionNo": 43,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Secondary Market",
+        "question": "Which of the following is the most important function of the secondary market?",
+        "options": [
+            "Capital formation",
+            "Tax collection",
+            "Liquidity creation",
+            "Company incorporation"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "The secondary market provides liquidity by allowing investors to buy and sell existing securities."
+    },
+    {
+        "questionNo": 44,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Secondary Market",
+        "question": "In a secondary market transaction, the issuing company:",
+        "options": [
+            "Receives the sale proceeds",
+            "Receives brokerage",
+            "Is not directly involved in the transaction",
+            "Issues fresh shares"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Secondary market transactions occur between investors without involvement of the issuer."
+    },
+    {
+        "questionNo": 45,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Money Market",
+        "question": "The money market primarily deals with instruments having maturity of:",
+        "options": [
+            "Less than 1 year",
+            "More than 1 year",
+            "More than 5 years",
+            "No maturity period"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Money market instruments are short-term instruments with maturity up to one year."
+    },
+    {
+        "questionNo": 46,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Money Market",
+        "question": "Which of the following is NOT a money market instrument?",
+        "options": [
+            "Treasury Bill",
+            "Commercial Paper",
+            "Certificate of Deposit",
+            "Equity Share"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Equity shares are capital market instruments."
+    },
+    {
+        "questionNo": 47,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Capital Market",
+        "question": "The capital market primarily deals with:",
+        "options": [
+            "Long-term securities",
+            "Only government securities",
+            "Only equity shares",
+            "Foreign exchange"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Capital markets facilitate raising and trading of long-term funds."
+    },
+    {
+        "questionNo": 48,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Market Structure",
+        "question": "Which market segment provides a platform for long-term capital formation?",
+        "options": [
+            "Money Market",
+            "Capital Market",
+            "Forex Market",
+            "Commodity Market"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Capital markets mobilize long-term savings and facilitate capital formation."
+    },
+    {
+        "questionNo": 49,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Investors",
+        "question": "Which of the following is classified as an institutional investor?",
+        "options": [
+            "Retail Investor",
+            "Mutual Fund",
+            "Individual Trader",
+            "Day Trader"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Mutual funds are institutional investors managing pooled investments."
+    },
+    {
+        "questionNo": 50,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Stock Exchanges",
+        "question": "The primary function of a stock exchange is to:",
+        "options": [
+            "Issue government securities",
+            "Provide a regulated trading platform",
+            "Provide loans to investors",
+            "Manage mutual funds"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Stock exchanges provide a transparent and regulated marketplace for trading securities."
+    },
+    {
+        "questionNo": 51,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Stock Exchanges",
+        "question": "Which of the following is a major stock exchange in India?",
+        "options": [
+            "NSDL",
+            "CDSL",
+            "NSE",
+            "SEBI"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "The National Stock Exchange (NSE) is one of India's leading stock exchanges."
+    },
+    {
+        "questionNo": 52,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Stock Brokers",
+        "question": "A stock broker primarily acts as:",
+        "options": [
+            "Issuer of securities",
+            "Regulator",
+            "Intermediary between investors and exchanges",
+            "Depository"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Brokers facilitate execution of trades on behalf of investors."
+    },
+    {
+        "questionNo": 53,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depositories",
+        "question": "Which of the following is a depository in India?",
+        "options": [
+            "SEBI",
+            "NSE",
+            "NSDL",
+            "CRISIL"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "NSDL and CDSL are the two depositories in India."
+    },
+    {
+        "questionNo": 54,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository Participants",
+        "question": "A Depository Participant (DP) acts as:",
+        "options": [
+            "Agent of a Depository",
+            "Agent of SEBI",
+            "Issuer of securities",
+            "Stock Exchange"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "DPs provide demat account services on behalf of depositories."
+    },
+    {
+        "questionNo": 55,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository System",
+        "question": "The relationship between NSDL/CDSL and a DP is similar to:",
+        "options": [
+            "RBI and Commercial Bank",
+            "SEBI and Stock Exchange",
+            "Mutual Fund and Investor",
+            "Issuer and Shareholder"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Depositories function through DPs just as RBI functions through banks."
+    },
+    {
+        "questionNo": 56,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Clearing Corporations",
+        "question": "The primary role of a clearing corporation is to:",
+        "options": [
+            "Provide stock recommendations",
+            "Guarantee settlement of trades",
+            "Issue securities",
+            "Manage mutual funds"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Clearing corporations ensure successful settlement and reduce counterparty risk."
+    },
+    {
+        "questionNo": 57,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Merchant Bankers",
+        "question": "Merchant bankers are most closely associated with:",
+        "options": [
+            "Managing IPOs",
+            "Operating depositories",
+            "Trading commodities",
+            "Running stock exchanges"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Merchant bankers manage public issues and capital-raising activities."
+    },
+    {
+        "questionNo": 58,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Credit Rating Agencies",
+        "question": "The primary role of a credit rating agency is to:",
+        "options": [
+            "Provide stock tips",
+            "Assess creditworthiness",
+            "Manage investor accounts",
+            "Approve IPOs"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Credit rating agencies evaluate the credit risk of issuers and debt instruments."
+    },
+    {
+        "questionNo": 59,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Kinds of Transactions",
+        "question": "Which type of transaction results in actual transfer of securities to the investor's demat account?",
+        "options": [
+            "Intraday Trade",
+            "Delivery Trade",
+            "Auction Trade",
+            "Margin Trade"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Delivery trading involves actual transfer of ownership of securities."
+    },
+    {
+        "questionNo": 60,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Kinds of Transactions",
+        "question": "Short selling refers to:",
+        "options": [
+            "Selling securities already held",
+            "Selling securities not owned with intention to buy later",
+            "Buying securities on margin",
+            "Selling securities in an IPO"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Short selling involves selling borrowed or unowned securities expecting prices to fall."
+    },
+    {
+        "questionNo": 61,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Dematerialization",
+        "question": "Dematerialization refers to:",
+        "options": [
+            "Conversion of electronic securities into physical certificates",
+            "Conversion of physical securities into electronic form",
+            "Transfer of securities between exchanges",
+            "Cancellation of securities"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Dematerialization converts physical certificates into electronic holdings in a demat account."
+    },
+    {
+        "questionNo": 62,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Dematerialization",
+        "question": "Which of the following is a major benefit of dematerialization?",
+        "options": [
+            "Guaranteed returns",
+            "Elimination of risks associated with physical certificates",
+            "Fixed dividend income",
+            "Tax exemption"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Demat holdings eliminate risks such as theft, loss, forgery, and mutilation."
+    },
+    {
+        "questionNo": 63,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Rematerialization",
+        "question": "Rematerialization is the process of:",
+        "options": [
+            "Converting physical securities into electronic form",
+            "Converting electronic securities into physical certificates",
+            "Transferring securities between DPs",
+            "Listing securities on an exchange"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Rematerialization is the reverse of dematerialization."
+    },
+    {
+        "questionNo": 64,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depositories",
+        "question": "Which of the following statements is TRUE regarding depositories?",
+        "options": [
+            "They issue securities",
+            "They hold securities in electronic form",
+            "They regulate stock exchanges",
+            "They provide investment advice"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Depositories provide electronic custody of securities."
+    },
+    {
+        "questionNo": 65,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository System",
+        "question": "An investor wishing to open a demat account must approach:",
+        "options": [
+            "SEBI",
+            "A Depository Participant",
+            "The Stock Exchange",
+            "The Ministry of Finance"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Investors open demat accounts through Depository Participants (DPs)."
+    },
+    {
+        "questionNo": 66,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Shares",
+        "question": "Which of the following best describes an equity shareholder's claim on a company?",
+        "options": [
+            "Fixed interest claim",
+            "Residual ownership claim",
+            "Secured creditor claim",
+            "Government-backed claim"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Equity shareholders are residual claimants on company assets and profits."
+    },
+    {
+        "questionNo": 67,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Shares",
+        "question": "Which of the following is NOT normally a feature of equity shares?",
+        "options": [
+            "Voting rights",
+            "Capital appreciation potential",
+            "Fixed maturity date",
+            "Dividend entitlement"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Equity shares do not have a maturity date."
+    },
+    {
+        "questionNo": 68,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Debentures",
+        "question": "Debenture holders are paid before which of the following during liquidation?",
+        "options": [
+            "Secured creditors",
+            "Government dues",
+            "Equity shareholders",
+            "Tax authorities"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Debenture holders have a higher claim than equity shareholders."
+    },
+    {
+        "questionNo": 69,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "Which of the following best describes NAV?",
+        "options": [
+            "Face value of units",
+            "Book value of fund manager",
+            "Per-unit value of mutual fund assets after liabilities",
+            "Issue price of units"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "NAV represents the value per unit of the mutual fund."
+    },
+    {
+        "questionNo": 70,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "Which statement about NAV is correct?",
+        "options": [
+            "Lower NAV means a cheaper fund",
+            "Higher NAV guarantees better returns",
+            "NAV reflects the per-unit value of the scheme",
+            "NAV is fixed after launch"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "NAV only indicates per-unit value and does not imply performance."
+    },
+    {
+        "questionNo": 71,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "Which type of mutual fund allows continuous purchase and redemption of units?",
+        "options": [
+            "Close-ended Fund",
+            "Open-ended Fund",
+            "Fixed Maturity Plan",
+            "Locked-in Fund"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Open-ended funds permit continuous entry and exit."
+    },
+    {
+        "questionNo": 72,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "ETFs",
+        "question": "Exchange Traded Funds are generally considered:",
+        "options": [
+            "Actively managed funds",
+            "Passively managed funds",
+            "Private placements",
+            "Unlisted securities"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Most ETFs are passive vehicles tracking an index or asset."
+    },
+    {
+        "questionNo": 73,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "ETFs",
+        "question": "ETF units are generally bought and sold through:",
+        "options": [
+            "Fund house only",
+            "Registrar and Transfer Agent",
+            "Stock Exchange",
+            "RBI"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "ETF units trade on stock exchanges like shares."
+    },
+    {
+        "questionNo": 74,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "ETFs",
+        "question": "Which of the following is a key advantage of ETFs?",
+        "options": [
+            "Guaranteed return",
+            "Lower expense ratio due to passive management",
+            "No market risk",
+            "No price fluctuation"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Passive management generally results in lower expenses."
+    },
+    {
+        "questionNo": 75,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodities",
+        "question": "A commodity is generally characterized by:",
+        "options": [
+            "Unique design",
+            "Homogeneity and interchangeability",
+            "Fixed return",
+            "Voting rights"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Commodities are standardized and interchangeable."
+    },
+    {
+        "questionNo": 76,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodities",
+        "question": "Which of the following is a soft commodity?",
+        "options": [
+            "Gold",
+            "Silver",
+            "Crude Oil",
+            "Wheat"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Agricultural products such as wheat are soft commodities."
+    },
+    {
+        "questionNo": 77,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Precious Metals",
+        "question": "Why are gold and silver considered attractive investment commodities?",
+        "options": [
+            "They generate dividends",
+            "They have very short life",
+            "They preserve value and have relatively low storage cost compared to value",
+            "They are risk-free"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Precious metals are durable stores of value."
+    },
+    {
+        "questionNo": 78,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodity ETFs",
+        "question": "A Gold ETF allows investors to:",
+        "options": [
+            "Own physical jewellery",
+            "Gain exposure to gold prices without storing gold",
+            "Earn guaranteed interest",
+            "Avoid all market risks"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Gold ETFs provide exposure to gold while eliminating storage concerns."
+    },
+    {
+        "questionNo": 79,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Managed Futures",
+        "question": "Managed futures strategies primarily invest in:",
+        "options": [
+            "Physical commodities only",
+            "Equity shares only",
+            "Futures contracts",
+            "Government bonds only"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Managed futures involve professionally managed futures positions."
+    },
+    {
+        "questionNo": 80,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Warehouse Receipts",
+        "question": "A negotiable warehouse receipt primarily serves as:",
+        "options": [
+            "Evidence of ownership of stored goods",
+            "A stock exchange membership certificate",
+            "A mutual fund unit certificate",
+            "A government guarantee"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "Warehouse receipts represent ownership of commodities stored in warehouses and can often be transferred."
+    },
+    {
+        "questionNo": 81,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Financial Market Participants",
+        "question": "Which participant in the financial market primarily provides capital by purchasing securities?",
+        "options": [
+            "Borrower",
+            "Investor",
+            "Regulator",
+            "Depository"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Investors supply capital to the financial market by purchasing securities."
+    },
+    {
+        "questionNo": 82,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Financial Market Participants",
+        "question": "Which of the following is an intermediary in the securities market?",
+        "options": [
+            "SEBI",
+            "RBI",
+            "NSDL",
+            "Ministry of Finance"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "NSDL is a depository and acts as a market intermediary."
+    },
+    {
+        "questionNo": 83,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Equity Shares",
+        "question": "If a company performs exceptionally well over time, which security holder benefits most from the growth in value?",
+        "options": [
+            "Debenture Holder",
+            "Preference Shareholder",
+            "Equity Shareholder",
+            "Certificate of Deposit Holder"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Equity shareholders participate directly in the growth and residual profits of the company."
+    },
+    {
+        "questionNo": 84,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Debentures",
+        "question": "Which statement best differentiates equity shares from debentures?",
+        "options": [
+            "Debentures represent ownership",
+            "Equity shares are debt instruments",
+            "Debentures create a creditor relationship",
+            "Both provide identical rights"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Debenture holders are creditors while equity shareholders are owners."
+    },
+    {
+        "questionNo": 85,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Money Market Instruments",
+        "question": "Which instrument is issued by banks to raise short-term funds?",
+        "options": [
+            "Commercial Paper",
+            "Certificate of Deposit",
+            "Treasury Bill",
+            "Preference Share"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Certificates of Deposit are issued by banks for short-term funding."
+    },
+    {
+        "questionNo": 86,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Foreign Bonds and Euro Bonds",
+        "question": "A bond issued in Japan and denominated in US Dollars would generally be classified as:",
+        "options": [
+            "Domestic Bond",
+            "Foreign Bond",
+            "Euro Bond",
+            "Treasury Bill"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "A Euro Bond is issued in a country but denominated in a currency other than that country's local currency."
+    },
+    {
+        "questionNo": 87,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Masala Bonds",
+        "question": "In a Masala Bond, the currency risk is primarily borne by:",
+        "options": [
+            "Issuer",
+            "Investor",
+            "Stock Exchange",
+            "SEBI"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Masala Bonds transfer INR depreciation risk to the investor."
+    },
+    {
+        "questionNo": 88,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Warrants",
+        "question": "A warrant holder will generally exercise the warrant when:",
+        "options": [
+            "Market price is below exercise price",
+            "Market price equals face value",
+            "Market price exceeds exercise price",
+            "Dividend is declared"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Exercise becomes profitable when market price exceeds the predetermined exercise price."
+    },
+    {
+        "questionNo": 89,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Indices",
+        "question": "Which of the following is a sectoral index?",
+        "options": [
+            "Nifty 50",
+            "Sensex",
+            "Nifty Bank",
+            "Nifty 500"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "Nifty Bank tracks the banking sector specifically."
+    },
+    {
+        "questionNo": 90,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Indices",
+        "question": "A mutual fund benchmarked against Nifty 50 should primarily compare its performance against:",
+        "options": [
+            "Gold Prices",
+            "Nifty 50 Returns",
+            "Bank Deposit Rates",
+            "Inflation Rate"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Benchmarks are used to evaluate relative fund performance."
+    },
+    {
+        "questionNo": 91,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Mutual Funds",
+        "question": "Which entity is responsible for managing the investment portfolio of a mutual fund scheme?",
+        "options": [
+            "Depository",
+            "Asset Management Company",
+            "Registrar of Companies",
+            "Stock Exchange"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "The AMC manages the mutual fund's investments."
+    },
+    {
+        "questionNo": 92,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "ETFs",
+        "question": "Which feature is common to both ETFs and Index Funds?",
+        "options": [
+            "Both are actively managed",
+            "Both seek to replicate an index",
+            "Both trade continuously on exchanges",
+            "Both require physical certificates"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Both aim to track the performance of a benchmark index."
+    },
+    {
+        "questionNo": 93,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Preference Shares",
+        "question": "Which type of preference share allows unpaid dividends to accumulate?",
+        "options": [
+            "Convertible",
+            "Non-cumulative",
+            "Participating",
+            "Cumulative"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Cumulative preference shares carry forward unpaid dividends."
+    },
+    {
+        "questionNo": 94,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Depository Receipts",
+        "question": "An Indian investor wishing to invest in a foreign company through an instrument traded in India may use:",
+        "options": [
+            "ADR",
+            "IDR",
+            "FCCB",
+            "NCD"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Indian Depository Receipts (IDRs) represent shares of foreign companies in India."
+    },
+    {
+        "questionNo": 95,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "FCCBs",
+        "question": "Foreign Currency Convertible Bonds combine features of:",
+        "options": [
+            "Debt and Equity",
+            "Equity and Commodity",
+            "Commodity and Currency",
+            "ETF and Mutual Fund"
+        ],
+        "correctAnswerIndex": 0,
+        "rationale": "FCCBs are debt instruments that may convert into equity shares."
+    },
+    {
+        "questionNo": 96,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "REITs",
+        "question": "The primary source of cash flows distributed by REITs is:",
+        "options": [
+            "Commodity trading profits",
+            "Rental and real estate income",
+            "Government subsidies",
+            "Foreign exchange gains"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "REITs generate income from revenue-producing real estate assets."
+    },
+    {
+        "questionNo": 97,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "InvITs",
+        "question": "Which of the following assets is most likely to be owned by an InvIT?",
+        "options": [
+            "Gold Mines",
+            "Commercial Office Buildings",
+            "Toll Roads",
+            "Agricultural Land"
+        ],
+        "correctAnswerIndex": 2,
+        "rationale": "InvITs commonly invest in revenue-generating infrastructure assets such as toll roads."
+    },
+    {
+        "questionNo": 98,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "MBS and ABS",
+        "question": "The process of converting loan receivables into tradable securities is known as:",
+        "options": [
+            "Dematerialization",
+            "Securitization",
+            "Rematerialization",
+            "Arbitrage"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "MBS and ABS are created through securitization of underlying receivables."
+    },
+    {
+        "questionNo": 99,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Commodities",
+        "question": "Which statement best explains why commodities are often considered an inflation hedge?",
+        "options": [
+            "They provide fixed returns",
+            "Their prices often rise with inflation",
+            "They are regulated by SEBI",
+            "They carry no risk"
+        ],
+        "correctAnswerIndex": 1,
+        "rationale": "Commodity prices generally increase during inflationary periods, helping preserve purchasing power."
+    },
+    {
+        "questionNo": 100,
+        "examName": "NISM-RA",
+        "chapterName": "Introduction to Securities Market",
+        "topic": "Chapter 2 Revision",
+        "question": "Which of the following securities provides ownership in a company and voting rights, but also carries the highest residual risk?",
+        "options": [
+            "Treasury Bill",
+            "Debenture",
+            "Preference Share",
+            "Equity Share"
+        ],
+        "correctAnswerIndex": 3,
+        "rationale": "Equity shareholders are owners of the company, enjoy voting rights, and bear the highest residual risk after all other claimants."
+    }
+]
