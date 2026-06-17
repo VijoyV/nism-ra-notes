@@ -7,8 +7,8 @@
         "question": "The work of a Research Analyst primarily involves:",
         "options": [
             "Research and analysis to support investment decisions",
-            "Only collecting company financial statements",
-            "Only predicting stock prices",
+            "Collecting company financial statements",
+            "Predicting stock prices",
             "Executing stock trades on behalf of investors"
         ],
         "correctAnswerIndex": 0,
@@ -22,9 +22,9 @@
         "question": "Economic information useful for Research Analysts may be collected from:",
         "options": [
             "Reserve Bank of India",
-            "Only social media platforms",
-            "Only company websites",
-            "Only stock brokers"
+            "Social media platforms",
+            "Company websites",
+            "Stock brokers"
         ],
         "correctAnswerIndex": 0,
         "rationale": "Government statistics and RBI data are important sources of economic information."
@@ -52,9 +52,9 @@
         "question": "Company-specific information can be collected from:",
         "options": [
             "Annual reports and financial statements",
-            "Only television advertisements",
-            "Only employee rumors",
-            "Only stock exchange prices"
+            "Newspaper and Journals",
+            "Employee rumors",
+            "Stock exchange prices"
         ],
         "correctAnswerIndex": 0,
         "rationale": "Annual reports and regulatory filings are major sources of company information."
@@ -96,10 +96,10 @@
         "topic": "Sell-side Analysts",
         "question": "Sell-side analysts generally publish research reports:",
         "options": [
-            "Only for regulators",
+            "For regulators",
             "For public consumption",
             "Only for internal fund managers",
-            "Only for company promoters"
+            "Mainly for company promoters"
         ],
         "correctAnswerIndex": 1,
         "rationale": "Sell-side reports are usually published publicly with buy/hold/sell recommendations."
@@ -111,12 +111,12 @@
         "topic": "Buy-side Analysts",
         "question": "Buy-side analysts typically work for:",
         "options": [
-            "Mutual funds",
             "News channels",
             "Government ministries",
+            "Mutual funds",
             "Credit card companies"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Buy-side analysts work with institutions like mutual funds, pension funds, and portfolio managers."
     },
     {
@@ -141,12 +141,12 @@
         "topic": "Independent Analysts",
         "question": "Independent Research Analysts commonly provide:",
         "options": [
-            "Subscription-based research",
-            "Only government audits",
+            "Mainly government audits",
             "Only brokerage execution",
-            "Only tax filing services"
+            "Only tax filing services",
+            "Subscription-based research"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "rationale": "Independent research firms often provide subscription-based or customized research."
     },
     {
@@ -156,12 +156,12 @@
         "topic": "Responsibilities of Research Analysts",
         "question": "A Research Analyst primarily evaluates:",
         "options": [
-            "Economies, industries and companies",
             "Only stock prices",
-            "Only commodity markets",
-            "Only investor complaints"
+            "Economies, industries and companies",
+            "Commodity markets",
+            "Investor complaints"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "rationale": "Research Analysts study economies, industries and companies."
     },
     {
@@ -171,12 +171,12 @@
         "topic": "Macroeconomic Factors",
         "question": "Which is a macroeconomic factor relevant for Research Analysts?",
         "options": [
-            "Inflation rate",
             "Company logo design",
             "CEO social media followers",
+            "Inflation rate",
             "Office furniture quality"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Inflation is a key macroeconomic variable."
     },
     {
@@ -186,12 +186,12 @@
         "topic": "Macroeconomic Variables",
         "question": "Which variable affects borrowing costs in the economy?",
         "options": [
-            "Interest rates",
             "Weather conditions",
             "Office rent",
+            "Interest rates",
             "Dividend payout ratio"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Interest rates directly affect borrowing costs."
     },
     {
@@ -202,9 +202,9 @@
         "question": "According to Keynesian thinking mentioned in the workbook, governments influence economic performance through:",
         "options": [
             "Tax rates and spending",
-            "Only weather forecasts",
-            "Only foreign exchange reserves",
-            "Only company dividends"
+            "Weather forecasts",
+            "Foreign exchange reserves",
+            "Company dividends"
         ],
         "correctAnswerIndex": 0,
         "rationale": "John Maynard Keynes emphasized government spending and taxation."
@@ -231,12 +231,12 @@
         "topic": "Interaction with Companies",
         "question": "Direct interaction with company management is valuable because it provides insight into:",
         "options": [
-            "Company vision and strategy",
-            "Employee birthdays",
+            "Employee Salary and Perks",
             "Brokerage commissions",
-            "Competitor advertising budgets"
+            "Company vision and strategy",
+            "Marketing and Advertising budgets"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Management interaction helps analysts understand business strategy and vision."
     },
     {
@@ -246,12 +246,12 @@
         "topic": "Management Interaction",
         "question": "Analysts should be cautious because management may:",
         "options": [
-            "Paint an overly positive picture",
             "Always provide negative information",
+            "Paint an overly positive picture",
             "Only discuss competitors",
             "Refuse financial discussions"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 1,
         "rationale": "Management may exaggerate positives; analysts should independently verify information."
     },
     {
@@ -261,12 +261,12 @@
         "topic": "Pre-meeting Research",
         "question": "Before meeting management, analysts should study:",
         "options": [
+            "Stock prices",
+            "Social media comments",
             "Products, industry and competitors",
-            "Only stock prices",
-            "Only social media comments",
-            "Only dividend history"
+            "Dividend history"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Preparation before management interaction is important."
     },
     {
@@ -321,12 +321,12 @@
         "topic": "Research Analyst Skills",
         "question": "Which quality is important for communicating effectively with management?",
         "options": [
-            "Good listening ability",
             "Ignoring management responses",
             "Making assumptions",
-            "Avoiding preparation"
+            "Avoiding preparation",
+            "Good listening ability"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "rationale": "Communication skills and listening ability are important."
     },
     {
@@ -337,7 +337,7 @@
         "question": "A Research Analyst may ultimately recommend:",
         "options": [
             "Buy, Hold or Sell",
-            "Only Buy",
+            "Only Buy and Sell",
             "Only Sell",
             "Only Hold"
         ],
@@ -351,12 +351,12 @@
         "topic": "Foreign Investments",
         "question": "Which investment flow is studied by Research Analysts as part of economic analysis?",
         "options": [
-            "FDI and FPI flows",
             "Office rental growth",
             "Employee leave trends",
+            "FDI and FPI flows",
             "Courier delivery volumes"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "FDI and FPI flows are important economic indicators."
     },
     {
@@ -367,9 +367,9 @@
         "question": "As per SEBI Research Analyst Regulations, a Research Analyst is a person engaged in providing research services:",
         "options": [
             "For consideration",
-            "Only free of cost",
-            "Only to regulators",
-            "Only to listed companies"
+            "Free of cost",
+            "To regulators",
+            "To listed companies"
         ],
         "correctAnswerIndex": 0,
         "rationale": "SEBI regulations define Research Analysts as persons providing research services for consideration."
@@ -502,8 +502,8 @@
         "question": "Independent research analysts may provide customized research reports for:",
         "options": [
             "Only stock exchanges",
-            "Only regulators",
-            "Only investment bankers",
+            "Regulators",
+            "Investment bankers",
             "Various stakeholders including investors and institutions"
         ],
         "correctAnswerIndex": 3,
@@ -606,12 +606,12 @@
         "topic": "Company Analysis",
         "question": "Capacity utilization is generally considered:",
         "options": [
-            "Quantitative information",
             "Qualitative information",
             "Technical indicator",
-            "Macroeconomic indicator"
+            "Macroeconomic indicator",
+            "Quantitative information"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "rationale": "Capacity utilization is measurable operational data."
     },
     {
@@ -651,12 +651,12 @@
         "topic": "Pre-meeting Preparation",
         "question": "Reviewing previous annual reports before management meetings helps analysts understand:",
         "options": [
-            "Company direction and goal achievement",
             "Employee attendance",
             "Brokerage fees",
-            "Social media marketing"
+            "Social media marketing",
+            "Company direction and goal achievement"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "rationale": "Annual reports reveal company objectives and progress."
     },
     {
@@ -681,12 +681,12 @@
         "topic": "Networking",
         "question": "Which professional group can analysts approach to gain additional insights?",
         "options": [
+            "Competitors",
+            "Shareholders",
             "Domain experts",
-            "Only competitors",
-            "Only shareholders",
-            "Only auditors"
+            "Auditors"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "Professional experts and industry participants provide useful insights."
     },
     {
@@ -726,12 +726,12 @@
         "topic": "Research Analyst Qualities",
         "question": "Which quality improves an analyst's ability to identify useful information?",
         "options": [
-            "Curiosity and enquiry mindset",
             "Overconfidence",
             "Blind optimism",
+            "Curiosity and enquiry mindset",
             "Ignoring details"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 2,
         "rationale": "A questioning mindset helps analysts identify meaningful insights."
     },
     {
@@ -741,12 +741,12 @@
         "topic": "Research Analyst Profession",
         "question": "The final output of Research Analyst activities generally results in:",
         "options": [
-            "Investment recommendations",
             "Tax audits",
             "Government regulations",
-            "Trade settlement reports"
+            "Trade settlement reports",
+            "Investment recommendations"
         ],
-        "correctAnswerIndex": 0,
+        "correctAnswerIndex": 3,
         "rationale": "Research activities ultimately lead to investment recommendations like Buy, Hold or Sell."
     }
 ]
