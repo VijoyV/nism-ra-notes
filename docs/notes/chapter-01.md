@@ -1,4 +1,3 @@
-# Chapter 1: Introduction to Research Analyst Profession
 
 ```
 LEARNING OBJECTIVE:

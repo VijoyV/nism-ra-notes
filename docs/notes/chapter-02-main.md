@@ -1,4 +1,3 @@
-### LEARNING OBJECTIVE:
 
 ```
 After studying this chapter, you should know about:

@@ -1,5 +1,3 @@
-# Chapter 3: Terminology in Equity and Debt Markets
-
 This chapter introduces the essential "vocabulary" of finance. While it carries a weightage of **2 marks**, these terms are prerequisites for understanding later chapters on financial analysis and valuation.
 
 ---

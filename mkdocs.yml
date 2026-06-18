@@ -64,9 +64,9 @@ extra_css:
   - stylesheets/extra.css
   
 nav: 
-  - Home: ./notes/index.md
+  - Home: ./index.md
   - "Study Material": 
-      - "Chapter 1: Research Analyst Profession": ./notes/chapter-01.md
+      - "Chapter 1: Introduction to Research Analyst Profession": ./notes/chapter-01.md
       - "Chapter 2: Securities Market Overview": ./notes/chapter-02-main.md
       - "2.1 Introduction to Security Market": ./notes/chapter-02-part-01.md
       - "2.2 Product Definitions": ./notes/chapter-02-part-02-main.md
@@ -82,17 +82,17 @@ nav:
       - "2.4 Participants": ./notes/chapter-02-part-04.md
       - "2.5 Transactions": ./notes/chapter-02-part-05.md
       - "2.6 Demat/Remat": ./notes/chapter-02-part-06.md
-      - "Chapter 3: Market Terminology": ./notes/chapter-03.md
+      - "Chapter 3: Terminology in Equity and Debt Markets": ./notes/chapter-03.md
       - "Chapter 4: Fundamentals of Research": ./notes/chapter-04.md
       - "Chapter 5: Economic Analysis": ./notes/chapter-05.md
       - "Chapter 6: Industry Analysis": ./notes/chapter-06.md
       - "Chapter 7: Company Analysis - Governance": ./notes/chapter-07.md
       - "Chapter 8: Company Analysis - Financials": ./notes/chapter-08.md
   - "Test Your Knowledge":
-      - "Chapterwise Quiz": quiz.md
+      - "Chapterwise Quiz": ./quizzes/quiz.md
   - "Reference":
     - "Vocabulary": ./references/vocab-and-terminology.md
     - "Financial Market Participants": ./references/participants-of-indian-financial-market.md
     - "Product Reference": ./references/indian-financial-market-products-quick-reference.md
-  - "Suggested Study Plan": ./study-plan/suggested-study-plan.md
+  - "Study Plan": ./study-plan/suggested-study-plan.md
   # "Test Page": test_page.md
