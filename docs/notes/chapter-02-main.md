@@ -1,5 +1,7 @@
 
 ```
+LEARNING OBJECTIVE:
+
 After studying this chapter, you should know about:
 
 • Meaning of securities and the functions of securities market

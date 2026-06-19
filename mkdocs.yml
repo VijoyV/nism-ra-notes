@@ -12,29 +12,30 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
-      accent: blue indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: blue indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
-    - navigation.top
     - navigation.footer
     - navigation.tracking
     - toc.follow
     - content.code.copy
     - search.suggest
     - search.highlight
+    - navigation.indexes
+    - content.tabs.link
+    - announce.dismiss
 
 plugins:
   - search
@@ -55,44 +56,50 @@ markdown_extensions:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.smartsymbols
 
+# MathJax must be loaded via extra_javascript
 extra_javascript:
   - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   - stylesheets/extra.css
-  
-nav: 
-  - Home: ./index.md
-  - "Study Material": 
-      - "Chapter 1: Introduction to Research Analyst Profession": ./notes/chapter-01.md
-      - "Chapter 2: Securities Market Overview": ./notes/chapter-02-main.md
-      - "2.1 Introduction to Security Market": ./notes/chapter-02-part-01.md
-      - "2.2 Product Definitions": ./notes/chapter-02-part-02-main.md
-      - "2.2.1 Equity Shares": ./notes/chapter-02-part-02-section-1.md
-      - "2.2.2 Debentures, Bonds and Notes": ./notes/chapter-02-part-02-section-2.md
-      - "2.2.3 Warrants": ./notes/chapter-02-part-02-section-3.md
-      - "2.2.4 Indices": ./notes/chapter-02-part-02-section-4.md
-      - "2.2.5 Mutual Fund Units": ./notes/chapter-02-part-02-section-5.md
-      - "2.2.6 Exchange Traded Funds - ETFs": ./notes/chapter-02-part-02-section-6.md
-      - "2.2.7 Hybrids / Structured Products": ./notes/chapter-02-part-02-section-7.md
-      - "2.2.8 Commodities": ./notes/chapter-02-part-02-section-8.md
-      - "2.3 Market Structure": ./notes/chapter-02-part-03.md
-      - "2.4 Participants": ./notes/chapter-02-part-04.md
-      - "2.5 Transactions": ./notes/chapter-02-part-05.md
-      - "2.6 Demat/Remat": ./notes/chapter-02-part-06.md
-      - "Chapter 3: Terminology in Equity and Debt Markets": ./notes/chapter-03.md
-      - "Chapter 4: Fundamentals of Research": ./notes/chapter-04.md
-      - "Chapter 5: Economic Analysis": ./notes/chapter-05.md
-      - "Chapter 6: Industry Analysis": ./notes/chapter-06.md
-      - "Chapter 7: Company Analysis - Governance": ./notes/chapter-07.md
-      - "Chapter 8: Company Analysis - Financials": ./notes/chapter-08.md
-  - "Test Your Knowledge":
-      - "Chapterwise Quiz": ./quizzes/quiz.md
-  - "Reference":
-    - "Vocabulary": ./references/vocab-and-terminology.md
-    - "Financial Market Participants": ./references/participants-of-indian-financial-market.md
-    - "Product Reference": ./references/indian-financial-market-products-quick-reference.md
-  - "Study Plan": ./study-plan/suggested-study-plan.md
-  # "Test Page": test_page.md
+
+nav:
+  - Home: index.md
+  - Study Material:
+    - Overview: notes/chapter-01.md
+    - "Chapter 2: Securities Market Overview": notes/chapter-02-main.md
+    - "2.1 Introduction to Security Market": notes/chapter-02-part-01.md
+    - "2.2 Product Definitions": notes/chapter-02-part-02-main.md
+    - "2.2.1 Equity Shares": notes/chapter-02-part-02-section-1.md
+    - "2.2.2 Debentures, Bonds and Notes": notes/chapter-02-part-02-section-2.md
+    - "2.2.3 Warrants": notes/chapter-02-part-02-section-3.md
+    - "2.2.4 Indices": notes/chapter-02-part-02-section-4.md
+    - "2.2.5 Mutual Fund Units": notes/chapter-02-part-02-section-5.md
+    - "2.2.6 Exchange Traded Funds - ETFs": notes/chapter-02-part-02-section-6.md
+    - "2.2.7 Hybrids / Structured Products": notes/chapter-02-part-02-section-7.md
+    - "2.2.8 Commodities": notes/chapter-02-part-02-section-8.md
+    - "2.3 Market Structure": notes/chapter-02-part-03.md
+    - "2.4 Participants": notes/chapter-02-part-04.md
+    - "2.5 Transactions": notes/chapter-02-part-05.md
+    - "2.6 Demat/Remat": notes/chapter-02-part-06.md
+    - "Chapter 3: Terminology in Equity and Debt Markets": notes/chapter-03.md
+    - "Chapter 4: Fundamentals of Research": notes/chapter-04.md
+    - "Chapter 5: Economic Analysis": notes/chapter-05.md
+    - "Chapter 6: Industry Analysis": notes/chapter-06.md
+    - "Chapter 7: Company Analysis - Governance": notes/chapter-07.md
+    - "Chapter 8: Company Analysis - Financials": notes/chapter-08.md
+  - Test Your Knowledge:
+    - "Chapterwise Quiz": quizzes/quiz.md
+  - Reference:
+    - "Financial Formulae - Quick Glance": references/financial-formulae-quick-glance.md
+    - "Vocabulary": references/vocab-and-terminology.md
+    - "Financial Market Participants": references/participants-of-indian-financial-market.md
+    - "Product Reference": references/indian-financial-market-products-quick-reference.md
+  - Study Plan: study-plan/suggested-study-plan.md

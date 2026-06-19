@@ -57,78 +57,117 @@
    HEADING HIERARCHY: 1 > 2 > 3 > 4 > 5
  ========================================================== */
 
-/* H1: MASTER PAGE TITLE - Dual Vertical Lines */
-h1 {
-    background-color: #ffffff;
-    color: #1a237e;
-    font-size: 2.2rem !important;
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5 {
+    letter-spacing: 0;
+    line-height: 1.25;
+}
+
+/* H1: page title */
+.md-typeset h1 {
+    background: linear-gradient(135deg, #eef4ff 0%, #ffffff 58%, #fff4e2 100%);
+    color: #12316d;
+    font-size: 2.35rem !important;
     font-weight: 900 !important;
     text-align: center;
-    padding: 30px 20px;
+    padding: 1.55rem 1.25rem;
+    margin-top: 0.5rem !important;
     margin-bottom: 2rem !important;
-    border-left: 10px double #1a237e;
-    border-right: 10px double #1a237e;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    border: 1px solid #c9d8ff;
+    border-top: 6px solid #3157b7;
+    border-bottom: 6px solid #f2a541;
     border-radius: 8px;
-    margin-top: 10px !important;
+    box-shadow: 0 10px 24px rgba(18, 49, 109, 0.12);
 }
 
-/* H2: CHAPTER SECTION - Light Blue Card with Double Vertical LHS */
-h2 {
-    background-color: #e3f2fd;
-    color: #1a237e;
-    padding: 15px 20px;
-    border-radius: 4px;
+/* H2: major section */
+.md-typeset h2 {
+    background: #e9f7f4;
+    color: #075f5a;
+    font-size: 1.75rem;
+    font-weight: 850;
+    padding: 0.85rem 1rem;
+    margin-top: 2.6rem !important;
+    margin-bottom: 1.3rem;
+    border-left: 8px solid #00a884;
+    border-radius: 6px;
+    box-shadow: inset 0 -1px 0 rgba(7, 95, 90, 0.12);
+}
+
+/* H3: concept heading, preserves the typed casing */
+.md-typeset h3 {
+    background: #fff2ea;
+    color: #8a3b12;
+    font-size: 1.42rem;
     font-weight: 800;
-    font-size: 1.5rem;
-    margin-top: 2.5rem !important;
-    margin-bottom: 1.5rem;
-    border-left: 8px double #1a237e; 
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    text-transform: none;
+    padding: 0.65rem 0.9rem;
+    margin-top: 2.15rem !important;
+    margin-bottom: 1rem;
+    border-left: 6px solid #e26d2c;
+    border-radius: 5px;
 }
 
-/* H3: MAIN CONCEPT - Capitalized Striped Header */
-h3 {
-    background-color: #f1f8ff;
-    color: var(--md-primary-fg-color);
-    padding: 10px 15px;
-    font-size: 1.25rem;
+/* H4: detail heading */
+.md-typeset h4 {
+    background: #f2efff;
+    color: #4a348f;
+    font-size: 1.18rem;
+    font-weight: 750;
+    padding: 0.5rem 0.8rem;
+    margin-top: 1.7rem !important;
+    margin-bottom: 0.8rem;
+    border-left: 4px solid #7c5cff;
+    border-radius: 4px;
+}
+
+/* H5: supporting note */
+.md-typeset h5 {
+    background: #f7f8d7;
+    color: #5f5b00;
+    font-size: 1.02rem;
+    font-style: normal;
     font-weight: 700;
-    text-transform: uppercase;
-    border-left: 5px solid var(--md-primary-fg-color);
-    margin-top: 2rem !important;
-}
-
-/* H4: TECHNICAL DETAIL - Title Case Thin Bar */
-h4 {
-    font-size: 1.1rem;
-    color: var(--md-primary-fg-color);
-    margin-top: 1.5rem !important;
-    font-weight: 600;
-    border-left: 3px solid var(--md-primary-fg-color); 
-    padding: 4px 12px;
-    background: rgba(63, 81, 181, 0.03);
-}
-
-/* H5: MINOR NOTE - Italics */
-h5 {
-    font-size: 0.95rem;
-    font-style: italic;
-    color: #555;
-    margin-top: 1.2rem !important;
-    border-left: 2px solid #ccc;
-    padding-left: 10px;
+    padding: 0.38rem 0.7rem;
+    margin-top: 1.35rem !important;
+    margin-bottom: 0.65rem;
+    border-left: 3px solid #c7b900;
+    border-radius: 4px;
 }
 
 /* DARK MODE COMPATIBILITY */
-[data-md-color-scheme="slate"] h1, 
-[data-md-color-scheme="slate"] h2 {
-    background-color: #1e293b;
-    color: #90caf9;
-    border-color: #90caf9;
+[data-md-color-scheme="slate"] .md-typeset h1 {
+    background: linear-gradient(135deg, #152642 0%, #101722 58%, #2b2115 100%);
+    color: #d9e6ff;
+    border-color: #2f4b7e;
+    border-top-color: #6ea8ff;
+    border-bottom-color: #f1a94e;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.28);
 }
-[data-md-color-scheme="slate"] h3 {
-    background-color: #242b38;
-    color: #90caf9;
-    border-left-color: #90caf9;
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+    background: #12302d;
+    color: #9df2df;
+    border-left-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h3 {
+    background: #332319;
+    color: #ffc59e;
+    border-left-color: #fb923c;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h4 {
+    background: #241f3c;
+    color: #d3c9ff;
+    border-left-color: #a78bfa;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h5 {
+    background: #2e2e17;
+    color: #ece68a;
+    border-left-color: #d8cc25;
 }

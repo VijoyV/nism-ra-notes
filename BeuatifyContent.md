@@ -218,7 +218,46 @@ If you find standard tables too restrictive, use an **Admonition with a List** i
 ```
 
 By sticking to these, you avoid all the HTML/CSS alignment bugs and keep your site 100% stable. Are there any other specific NISM data types (like complex formulas) you need to organize?
+
 ### Summary of "The Look"
 
 By using **Admonitions** for blocks, **Tabs** for comparisons, and **Mermaid** for diagrams, your site will look like a modern documentation portal without a single line of messy HTML.
 
+## Styling Improvement
+
+Yes, a few good next improvements would fit this repo nicely:
+
+1. **Better table styling**
+   Your notes likely use many comparison tables. We can make tables more readable with sticky-looking headers, alternate row shading, softer borders, and better mobile scrolling.
+
+2. **Active navigation highlight**
+   The left nav can be made clearer by styling the current page/section more strongly, so you always know where you are in the syllabus.
+
+3. **Callout/admonition polish**
+   MkDocs Material supports notes, tips, warnings, examples, etc. We can make these more exam-oriented, like:
+   - `Exam Tip`
+   - `Remember`
+   - `Formula`
+   - `Common Trap`
+
+4. **Chapter progress feel**
+   Add visual styling for chapter landing pages, maybe a clean “chapter overview” box with topics, key formulas, and revision priority.
+
+5. **Cards for quick revision**
+   You already have `.custom-card`; we can improve it and create reusable cards for:
+   - definitions
+   - formulas
+   - SEBI rules
+   - important dates/processes
+   - quiz links
+
+6. **Better code/math/formula blocks**
+   Formula-heavy sections can get a distinct background, border, and spacing so they stand out from regular paragraphs.
+
+7. **Previous/next navigation**
+   MkDocs Material has navigation footer enabled, but we can make it more visible and pleasant, especially for chapter-by-chapter study.
+
+8. **Print/PDF-friendly styles**
+   Since this is study material, adding print CSS would make the notes cleaner when exported or printed.
+
+My strongest recommendation: do **table styling + exam callouts + active nav polish** next. That would make the study guide feel much more usable, not just prettier.
