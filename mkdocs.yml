@@ -65,6 +65,7 @@ markdown_extensions:
 # MathJax must be loaded via extra_javascript
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/quiz.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
@@ -96,7 +97,9 @@ nav:
     - "Chapter 7: Company Analysis - Governance": notes/chapter-07.md
     - "Chapter 8: Company Analysis - Financials": notes/chapter-08.md
   - Test Your Knowledge:
-    - "Chapterwise Quiz": quizzes/quiz.md
+    - "Chapterwise Quizzes": quizzes/quiz.md
+    - "Chapter 1 Quiz": quizzes/chapter-01.md
+    - "Chapter 2 Quiz": quizzes/chapter-02.md
   - Reference:
     - "Financial Formulae - Quick Glance": references/financial-formulae-quick-glance.md
     - "Vocabulary": references/vocab-and-terminology.md
