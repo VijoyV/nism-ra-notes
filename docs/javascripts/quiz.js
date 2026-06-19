@@ -30,6 +30,7 @@
                         <div class="quiz-field">
                             <label for="${app.id}-time">Estimated Time</label>
                             <select id="${app.id}-time">
+                                <option value="15">15 Mins</option>
                                 <option value="30">30 Mins</option>
                                 <option value="60" selected>60 Mins</option>
                                 <option value="90">90 Mins</option>
@@ -77,6 +78,10 @@
                 return `${hrs}:${mins}:${secs}`;
             }
 
+            function getDifficulty(item) {
+                return item.difficultyLevel || item.difficulty || item.difficulty_level || "";
+            }
+
             function startTimer() {
                 state.secondsElapsed = 0;
                 clearInterval(state.timerInterval);
@@ -88,7 +93,7 @@
 
             function updateTimer() {
                 const timer = app.querySelector(".timer-line");
-                if (timer) timer.innerText = "Timer: " + formatTime(state.secondsElapsed);
+                if (timer) timer.innerText = `${formatTime(state.secondsElapsed)} / ${formatTime(state.estimatedSeconds)}`;
             }
 
             function shuffleQuestions(data) {
@@ -125,13 +130,16 @@
 
             function showQuestion(index) {
                 const item = state.questions[index];
+                const difficulty = getDifficulty(item);
                 const options = item.options.map((option, optIdx) => {
                     const isChecked = state.selectedAnswers[index] === optIdx ? "checked" : "";
+                    const isDisabled = state.submitted ? "disabled" : "";
+                    const resultClass = getOptionResultClass(item, index, optIdx);
                     const optionLabel = String.fromCharCode(65 + optIdx);
 
                     return `
-                        <label class="quiz-option">
-                            <input type="radio" name="${app.id}-q-${index}" value="${optIdx}" ${isChecked}>
+                        <label class="quiz-option ${resultClass}">
+                            <input type="radio" name="${app.id}-q-${index}" value="${optIdx}" ${isChecked} ${isDisabled}>
                             <span class="quiz-option-label">${optionLabel}</span>
                             <span>${option}</span>
                         </label>
@@ -143,16 +151,22 @@
                         <div class="quiz-meta-row">
                             <span>Question ${index + 1} of ${state.questions.length}</span>
                             <span>${item.chapterName || "Chapter"}</span>
-                            <span>${item.topic || "General"}${item.difficultyLevel ? " / " + item.difficultyLevel : ""}</span>
+                            <span>${item.topic || "General"}${difficulty ? " / " + difficulty : ""}</span>
                         </div>
                         <div class="quiz-question-row">${item.question}</div>
                         <div class="options-container">${options}</div>
                         <div class="quiz-control-row">
                             <button class="btn-prev" type="button" ${index === 0 ? "disabled" : ""}>Prev</button>
                             <button class="btn-next" type="button" ${index === state.questions.length - 1 ? "disabled" : ""}>Next</button>
-                            <button class="quiz-submit-button" type="button">Submit</button>
-                            <span class="timer-line">Timer: ${formatTime(state.secondsElapsed)}</span>
+                            ${state.submitted ? "" : `<span class="timer-line">${formatTime(state.secondsElapsed)} / ${formatTime(state.estimatedSeconds)}</span>`}
+                            ${state.submitted ? "" : `<button class="quiz-submit-button" type="button">Submit</button>`}
                         </div>
+                        ${state.submitted ? `
+                            <div class="quiz-rationale">
+                                <strong>Rationale:</strong>
+                                <div>${item.rationale || "No rationale available."}</div>
+                            </div>
+                        ` : ""}
                     </div>
                 `;
 
@@ -164,7 +178,15 @@
 
                 els.wrapper.querySelector(".btn-prev").addEventListener("click", () => changeQuestion(-1));
                 els.wrapper.querySelector(".btn-next").addEventListener("click", () => changeQuestion(1));
-                els.wrapper.querySelector(".quiz-submit-button").addEventListener("click", submitQuiz);
+                const submitButton = els.wrapper.querySelector(".quiz-submit-button");
+                if (submitButton) submitButton.addEventListener("click", submitQuiz);
+            }
+
+            function getOptionResultClass(item, qIdx, optIdx) {
+                if (!state.submitted) return "";
+                if (optIdx === item.correctAnswerIndex) return "is-correct";
+                if (state.selectedAnswers[qIdx] === optIdx) return "is-wrong";
+                return "";
             }
 
             function changeQuestion(step) {
@@ -197,8 +219,9 @@
                 els.skipped.innerText = unattempted;
                 els.score.innerText = `${finalScore.toFixed(2)} / ${maxMarks.toFixed(2)}`;
                 els.timeTaken.innerText = `Time Performance: ${formatTime(state.secondsElapsed)} / ${formatTime(state.estimatedSeconds)} (Taken / Estimated)`;
-                els.stage.hidden = true;
                 els.results.hidden = false;
+                state.currentIdx = 0;
+                showQuestion(0);
                 window.scrollTo({ top: 0, behavior: "smooth" });
             }
 
