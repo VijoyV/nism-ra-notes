@@ -1,5 +1,3 @@
-# 2.2.5 Mutual Fund Units
-
 A Mutual Fund is a professionally managed investment vehicle that pools money from a large number of investors and invests it in a diversified portfolio of securities such as equity shares, bonds, money market instruments, gold, or a combination of these assets.
 
 Instead of purchasing individual securities directly, investors purchase **units** of a mutual fund. The value of these units depends on the value of the underlying portfolio managed by the fund.
@@ -12,8 +10,6 @@ Mutual funds are especially useful for investors who may not have:
 
 Thus, mutual funds provide small investors access to professional fund management and diversification.
 
----
-
 ## Basic Characteristics
 
 | Aspect    | Details                         |
@@ -22,10 +18,6 @@ Thus, mutual funds provide small investors access to professional fund managemen
 | Investors | Institutional and Individual    |
 | Medium    | Direct issuance by mutual funds |
 | Regulator | SEBI                            |
-
----
-
-## Understanding the Table
 
 ### Issuer – Mutual Funds
 
@@ -42,8 +34,6 @@ Examples of AMCs in India:
 * Kotak Mutual Fund
 
 Each AMC may operate multiple schemes targeting different investment objectives.
-
----
 
 ### Investors
 
@@ -68,9 +58,7 @@ Examples:
 * Corporates
 * Trusts
 
-Because mutual funds offer diversification and professional management, they attract both retail and institutional participation.
-
----
+!!! tag "Because mutual funds offer diversification and professional management, they attract both retail and institutional participation."
 
 ### Medium – Direct Issuance by Mutual Funds
 
@@ -89,8 +77,6 @@ Similarly, when units are redeemed:
 
 Thus, in most cases, transactions occur directly with the mutual fund rather than another investor.
 
----
-
 ### Regulator – SEBI
 
 The mutual fund industry in India is regulated by **SEBI (Securities and Exchange Board of India)**.
@@ -106,15 +92,12 @@ SEBI regulates:
 
 SEBI's objective is to ensure that investors receive fair treatment and adequate information before investing.
 
----
 
-## Definition
+## Definition of Mutual Fund
 
 * Investment vehicle that pools money from many investors.
 * Invests the pool in a portfolio of assets reflecting a common theme/objective.
 * Each investor's share = **unit**.
-
----
 
 ## How a Mutual Fund Works
 
@@ -155,29 +138,23 @@ Returns Generated
 Benefit Passed to Investors
 ```
 
----
-
 ## Why Mutual Funds Exist
 
 Mutual funds solve several practical problems faced by individual investors.
 
-### Diversification
+### 1. Diversification
 
 A small investor with ₹5,000 may not be able to buy 50 different stocks.
 
 Through a mutual fund, that same investor can indirectly own a diversified portfolio.
 
----
-
-### Professional Management
+### 2 Professional Management
 
 Investment decisions are taken by experienced fund managers supported by research teams.
 
 This reduces the need for individual investors to constantly monitor markets.
 
----
-
-### Accessibility
+### 3. Accessibility
 
 Investors can start with relatively small amounts.
 
@@ -186,13 +163,9 @@ For example:
 * SIPs starting from ₹500
 * Lump sum investments of small amounts
 
----
-
-### Liquidity
+### 4. Liquidity
 
 Most open-ended funds allow investors to redeem units whenever needed.
-
----
 
 ## Net Asset Value (NAV)
 
@@ -201,22 +174,15 @@ Most open-ended funds allow investors to redeem units whenever needed.
 * Value of each unit.
 * Changes continuously reflecting changes in portfolio value.
 
----
-
 ### Understanding NAV
 
 NAV represents the per-unit value of a mutual fund scheme.
 
 It is calculated as:
 
-[
-\text{NAV} =
-\frac{\text{Market Value of Assets} - \text{Liabilities}}{\text{Number of Units Outstanding}}
-]
+> $\text{NAV} = \frac{\text{Market Value of Assets} - \text{Liabilities}}{\text{Number of Units Outstanding}}$
 
----
-
-### Example
+#### Example
 
 Suppose:
 
@@ -233,8 +199,6 @@ Then:
 NAV = ₹10
 
 Each unit is worth ₹10.
-
----
 
 ### Why NAV Changes
 
@@ -254,7 +218,6 @@ If markets decline:
 
 Thus, NAV reflects the current value of the fund's investments.
 
----
 
 ## Important Clarification: High NAV vs Low NAV
 
@@ -278,16 +241,14 @@ Performance depends on portfolio returns, not NAV level.
 
 This is a frequently tested concept.
 
----
 
-## Types
+## Types of Mutual Funds
 
 | Type            | Meaning                                                             |
 | --------------- | ------------------------------------------------------------------- |
 | **Open-ended**  | Buy from fund anytime; sell back to fund anytime; no fixed maturity |
 | **Close-ended** | Fixed maturity period; limited liquidity                            |
 
----
 
 ## Open-Ended Mutual Funds
 
@@ -302,8 +263,6 @@ These are the most common mutual fund schemes.
 
 Investors can enter or exit at any time based on the prevailing NAV.
 
----
-
 ### Examples
 
 Most equity mutual funds in India are open-ended.
@@ -315,7 +274,6 @@ Examples:
 * Index Funds
 * Hybrid Funds
 
----
 
 ### Advantages
 
@@ -324,7 +282,6 @@ Examples:
 * Suitable for SIP investing
 * Convenient for long-term wealth creation
 
----
 
 ## Close-Ended Mutual Funds
 
@@ -343,7 +300,6 @@ After that:
 * Fresh subscriptions may not be allowed.
 * Redemption may be restricted until maturity.
 
----
 
 ### Liquidity
 
@@ -355,7 +311,6 @@ However, actual trading volumes may be low.
 
 This is why close-ended funds are considered less liquid than open-ended funds.
 
----
 
 ## Additional Classification of Mutual Funds
 
@@ -376,8 +331,6 @@ Risk: High
 
 Return Potential: High
 
----
-
 ### Debt Funds
 
 Invest primarily in fixed-income instruments.
@@ -392,8 +345,6 @@ Risk: Lower than equity funds
 
 Return Potential: Moderate
 
----
-
 ### Hybrid Funds
 
 Invest in both equity and debt.
@@ -401,8 +352,6 @@ Invest in both equity and debt.
 Objective:
 
 * Balance growth and stability
-
----
 
 ### Index Funds
 
@@ -413,7 +362,6 @@ Passively track a market index such as:
 
 No active stock selection is performed.
 
----
 
 ## Key Entities in a Mutual Fund Structure
 
@@ -435,7 +383,6 @@ Safeguards the securities owned by the fund.
 
 These entities together ensure proper governance and investor protection.
 
----
 
 ## Mutual Funds vs Direct Equity Investing
 
@@ -447,7 +394,6 @@ These entities together ensure proper governance and investor protection.
 | Risk                 | Moderate (depending on fund type) | Higher              |
 | Time Commitment      | Low                               | High                |
 
----
 
 ## Research Analyst's Perspective
 
@@ -460,8 +406,9 @@ Research Analysts closely track mutual funds because:
 
 Understanding mutual funds is therefore essential for understanding capital flows in the securities market.
 
----
+## Key Takeaway
 
-### Key Takeaway
-
-A mutual fund is a pooled investment vehicle that allows investors to participate in a professionally managed and diversified portfolio through ownership of units. The value of each unit is represented by the NAV, which changes with the value of the underlying investments. Open-ended funds offer high liquidity, while close-ended funds have fixed maturity periods and limited liquidity. Mutual funds play a crucial role in democratizing access to financial markets and are one of the most popular investment vehicles in India.
+* A mutual fund is a pooled investment vehicle that allows investors to participate in a professionally managed and diversified portfolio through ownership of units. 
+* The value of each unit is represented by the NAV, which changes with the value of the underlying investments. 
+* Open-ended funds offer high liquidity, while close-ended funds have fixed maturity periods and limited liquidity. 
+* Mutual funds play a crucial role in democratizing access to financial markets and are one of the most popular investment vehicles in India.

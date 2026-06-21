@@ -11,7 +11,7 @@ After studying this chapter, you should know about:
 • Various securities market transactions
 • Dematerialization and Rematerialisation of securities
 ```
-## Overview
+---
 
 Chapter 2, **Introduction to Securities Market**, provides a foundation for understanding how capital moves from savers to productive business entities.
 

@@ -11,17 +11,15 @@ Warrants are similar to call options because they allow investors to benefit fro
 | Medium    | Direct issuance through Stock Exchanges |
 | Regulator | SEBI                                    |
 
-## Definition
+### Definition
 
 * Provides the **right, but not the obligation**, to buy equity shares of the issuer company.
 * After a specified period of time.
 * At a pre-determined price.
 
-## Understanding the Concept
+### Understanding the Concept
 
 A warrant allows an investor to lock in a future purchase price for the company's shares.
-
-### Example
 
 Suppose:
 
@@ -60,13 +58,13 @@ This illustrates the meaning of:
 
 Companies may issue warrants for several reasons:
 
-### Raising Future Capital
+### 1. Raising Future Capital
 
 If investors exercise the warrants, the company receives fresh capital.
 
 Unlike trading in existing shares, warrant exercise results in new shares being issued by the company.
 
-### Attracting Investors
+### 2. Attracting Investors
 
 Warrants are often attached to:
 
@@ -88,7 +86,7 @@ Investors receive both:
 * Fixed income from the debenture
 * Potential upside from future share appreciation
 
-### Strategic Investments
+### 3. Strategic Investments
 
 Promoters and strategic investors are sometimes allotted warrants as part of capital-raising exercises.
 
@@ -97,7 +95,7 @@ This allows them to increase ownership later by paying the exercise price.
 
 ## Important Features of Warrants
 
-### Long Validity Period
+### 1. Long Validity Period
 
 Unlike exchange-traded options, which may expire within days or months, warrants often remain valid for several years.
 
@@ -107,13 +105,13 @@ Typical tenure:
 * 3 years
 * 5 years
 
-### Exercise Price Fixed in Advance
+### 2. Exercise Price Fixed in Advance
 
 The price at which shares can be purchased is determined when the warrant is issued.
 
 This price remains fixed irrespective of future market price movements.
 
-### Leads to Creation of New Shares
+### 3. Leads to Creation of New Shares
 
 When warrants are exercised:
 
@@ -123,24 +121,21 @@ When warrants are exercised:
 This differs from secondary-market trading where existing shares merely change hands.
 
 
-### Potential Dilution
+### 4. Potential Dilution
 
 Since new shares are created upon exercise, existing shareholders may experience dilution.
 
 #### Example
 
-Before exercise:
+##### Before exercise:
 
 * Total shares = 1 crore
 
-After warrant conversion:
+##### After warrant conversion:
 
 * Total shares = 1.2 crore
 
-Existing shareholders now own a smaller percentage of the company.
-
-This is known as **equity dilution**.
-
+> Existing shareholders now own a smaller percentage of the company. This is known as **equity dilution**.
 
 
 ## Warrant Life Cycle
@@ -159,8 +154,6 @@ If Exercised → New Shares Issued
 Company Receives Capital
 ```
 
-
-
 ## Warrants vs Equity Shares
 
 | Aspect               | Equity Shares           | Warrants                         |
@@ -171,7 +164,6 @@ Company Receives Capital
 | Capital Contribution | Paid upfront            | Paid only on exercise            |
 | Risk                 | Direct share price risk | Limited to warrant cost          |
 | Dilution Impact      | None                    | Creates new shares upon exercise |
-
 
 
 ## Warrants vs Call Options
@@ -185,30 +177,28 @@ Company Receives Capital
 | Counterparty       | Company                              | Another market participant    |
 
 
-
 ## Benefits to Investors
 
-### Leverage
+### 1. Leverage
 
 A small investment in warrants can provide exposure to a large increase in share price.
 
-### Limited Downside
+### 2. Limited Downside
 
 Maximum loss is generally limited to the amount paid for the warrant.
 
-### Participation in Future Growth
+### 3. Participation in Future Growth
 
 Investors can benefit if the company performs well and the share price rises substantially.
 
 
-
 ## Risks of Warrants
 
-### Expiry Risk
+### 1. Expiry Risk
 
 If the share price remains below the exercise price until expiry, the warrant may become worthless.
 
-### No Income
+### 2. No Income
 
 Warrant holders do not receive:
 
@@ -216,10 +206,9 @@ Warrant holders do not receive:
 * Voting rights
 * Bonus shares (until conversion)
 
-### Time Value Erosion
+### 3. Time Value Erosion
 
 As expiry approaches, the probability of profitable exercise may decline.
-
 
 
 ## Research Analyst's Perspective
@@ -236,9 +225,8 @@ When analyzing warrants, an analyst should evaluate:
 Large warrant issuances can significantly affect future ownership patterns and valuation metrics.
 
 
+## Key Takeaway
 
-### Key Takeaway
+* A warrant is a long-term security that gives the holder the right, but not the obligation, to purchase shares of the issuing company at a predetermined price within a specified period. 
 
-A warrant is a long-term security that gives the holder the right, but not the obligation, to purchase shares of the issuing company at a predetermined price within a specified period. Warrants provide leveraged exposure to future share price appreciation while limiting downside risk to the warrant cost. However, exercise of warrants results in the creation of new shares and may dilute existing shareholders' ownership.
-
-
+* Warrants provide leveraged exposure to future share price appreciation while limiting downside risk to the warrant cost. However, exercise of warrants results in the creation of new shares and may dilute existing shareholders' ownership.

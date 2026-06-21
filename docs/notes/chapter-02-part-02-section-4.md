@@ -2,14 +2,10 @@ Stock market indices are among the most important tools used by investors, fund 
 
 Since it is impossible to track thousands of listed companies individually, a carefully selected group of representative stocks is used to measure the performance of the broader market or a specific sector. This group of stocks forms a **market index**.
 
----
-
-### Definition
+## Definition
 
 * Tracks market movement using prices of a specific number of shares chosen as representative sample.
 * Most leading indices are weighted by **market capitalisation**.
-
----
 
 ## Understanding Market Capitalisation Weighted Indices
 
@@ -19,8 +15,7 @@ Most modern indices use the **Free Float Market Capitalisation Methodology**.
 
 Market Capitalisation (Market Cap) is calculated as:
 
-$\text{Market Cap} = \text{Share Price} \times \text{Number of Outstanding Shares}$
-
+> $\text{Market Cap} = \text{Share Price} \times \text{Number of Outstanding Shares}$
 
 For example:
 
@@ -31,7 +26,6 @@ For example:
 
 Although Company A and Company B have the same number of shares, Company A has a much larger influence on the index because of its higher market capitalization.
 
----
 
 ### Free Float Market Capitalisation
 
@@ -43,7 +37,6 @@ Only publicly tradable shares are considered.
 
 This method provides a more realistic representation of actual market participation.
 
----
 
 ## Most Widely Tracked Indices in India
 
@@ -53,7 +46,6 @@ This method provides a more realistic representation of actual market participat
 | S&P BSE Sensex | BSE      | 30               |
 | SX40           | MSEI     | 40               |
 
----
 
 ### Nifty 50
 
@@ -77,8 +69,6 @@ Examples of constituent sectors:
 
 Because of its broad representation, the Nifty 50 is often considered the primary indicator of the Indian equity market.
 
----
-
 ### S&P BSE Sensex
 
 The Sensex is the benchmark index of the Bombay Stock Exchange (BSE).
@@ -98,8 +88,6 @@ When news channels report:
 
 they are referring to the movement of this index.
 
----
-
 ### SX40
 
 The SX40 is the benchmark index of the Metropolitan Stock Exchange of India (MSEI).
@@ -110,15 +98,12 @@ Characteristics:
 * Represents companies listed on MSEI.
 * Less widely followed than Nifty 50 or Sensex.
 
----
 
 ## Other Common Indices
 
 * Nifty Next 50, Nifty 100, Nifty 500
 * S&P BSE 100, BSE 500, BSE MidCap, BSE SmallCap
 * Sector indices (Banking, IT, Pharma, FMCG, etc.)
-
----
 
 ### Broad Market Indices
 
@@ -130,7 +115,6 @@ Contains the next 50 largest companies after Nifty 50.
 
 Often viewed as a pool of future Nifty 50 candidates.
 
----
 
 #### Nifty 100
 
@@ -141,15 +125,12 @@ Combines:
 
 Provides broader market representation.
 
----
-
 #### Nifty 500
 
 Tracks 500 companies across large-cap, mid-cap, and small-cap segments.
 
 Represents a substantial portion of the Indian equity market.
 
----
 
 #### BSE 500
 
@@ -157,7 +138,6 @@ Broad-based index covering 500 companies listed on BSE.
 
 Provides a comprehensive view of the Indian equity market.
 
----
 
 ### Market Capitalization-Based Indices
 
@@ -177,7 +157,6 @@ Characteristics:
 * Higher growth opportunities
 * Higher volatility
 
----
 
 #### Small-Cap Indices
 
@@ -193,7 +172,6 @@ Characteristics:
 * Highest growth potential
 * Highest risk and volatility
 
----
 
 ### Sectoral Indices
 
@@ -212,8 +190,6 @@ Examples:
 
 These indices help investors assess the performance of particular sectors rather than the entire market.
 
----
-
 ## Major Uses of Indices
 
 1. Reference point to compare returns of other asset classes (gold, debt)
@@ -221,8 +197,6 @@ These indices help investors assess the performance of particular sectors rather
 3. Barometer of the economy or a sector
 4. Real-time indicator of market sentiments
 5. Underlying for Index Funds, Index Futures and Options
-
----
 
 ## Understanding the Uses of Indices
 
@@ -239,8 +213,6 @@ Example:
 | Nifty 50  | 12%           |
 
 Investors can assess whether alternative investments are outperforming or underperforming equities.
-
----
 
 ### 2. Benchmark for Portfolio Performance
 
@@ -260,8 +232,6 @@ the fund has underperformed its benchmark.
 
 This is one of the most important applications of indices in investment management.
 
----
-
 ### 3. Barometer of the Economy
 
 Indices often reflect investor expectations regarding economic growth.
@@ -274,8 +244,6 @@ Generally:
 However, an index is not the economy itself—it reflects market expectations about future economic conditions.
 
 This distinction is important for examinations.
-
----
 
 ### 4. Real-Time Indicator of Market Sentiment
 
@@ -293,8 +261,6 @@ For example:
 
 A surprise RBI rate cut may immediately push indices higher due to improved growth expectations.
 
----
-
 ### 5. Underlying for Investment Products
 
 Indices serve as the foundation for several financial products.
@@ -307,8 +273,6 @@ Example:
 
 A Nifty 50 Index Fund attempts to mirror the Nifty 50 portfolio.
 
----
-
 #### Exchange Traded Funds (ETFs)
 
 ETFs track indices and trade like shares on stock exchanges.
@@ -317,8 +281,6 @@ Examples:
 
 * Nifty ETF
 * Sensex ETF
-
----
 
 #### Index Derivatives
 
@@ -337,8 +299,6 @@ These instruments are widely used for:
 * Speculation
 * Arbitrage
 
----
-
 ## Why Indices Matter to a Research Analyst
 
 For a Research Analyst, indices provide:
@@ -351,6 +311,8 @@ For a Research Analyst, indices provide:
 
 A stock may rise 10%, but if the market rises 15%, the stock has actually underperformed. Therefore, analysis of any security must always be viewed relative to an appropriate benchmark index.
 
-### Key Takeaway
+## Key Takeaway
 
-A stock market index is a statistical measure designed to represent the performance of a selected group of securities. Indices act as benchmarks, sentiment indicators, economic barometers, and the foundation for passive investment products. The Nifty 50 and Sensex are the two most important indices in India and are widely used to evaluate market performance and investment returns.
+* A stock market index is a statistical measure designed to represent the performance of a selected group of securities. 
+* Indices act as benchmarks, sentiment indicators, economic barometers, and the foundation for passive investment products. 
+* The Nifty 50 and Sensex are the two most important indices in India and are widely used to evaluate market performance and investment returns.
