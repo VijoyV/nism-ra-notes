@@ -19,8 +19,6 @@ Therefore, debt securities are often called **fixed-income securities**.
 | Regulators | RBI, SEBI, MCA, NCLT                               |
 
 
-## Explanation of the Table
-
 ### Issuers
 
 Debt securities can be issued by:
@@ -118,33 +116,19 @@ Handles debt-related disputes and insolvency proceedings.
 
 The amount that will be repaid at maturity.
 
-Example:
-
-Bond Face Value = ₹1,000
-
-At maturity investor receives ₹1,000.
+Example: Bond Face Value = ₹1,000. At maturity investor receives ₹1,000.
 
 ### Coupon Rate
 
 Interest rate promised by issuer.
 
-Example:
-
-Face Value = ₹1,000
-
-Coupon = 8%
-
-Annual interest = ₹80
+Example: Face Value = ₹1,000, Coupon = 8%. Annual interest = ₹80
 
 ### Maturity Date
 
 Date on which principal is repaid.
 
-Example:
-
-5-year bond issued in 2025
-
-Maturity = 2030
+Example: 5-year bond issued in 2025, Maturity = 2030
 
 ### Yield
 
@@ -163,7 +147,7 @@ This is an important NISM concept.
 | **Non-Convertible (NCD)**    | Pure debt; no conversion; repayable on maturity                |
 
 
-### Why Convertible Debentures Exist
+### Why Convertible Debentures Exist?
 
 Convertible debentures combine features of:
 
@@ -181,7 +165,7 @@ Investors receive:
 
 Entire debenture converts into equity shares.
 
-Example:
+Example: 
 
 ₹10,000 FCD
 
@@ -231,13 +215,9 @@ Examples:
 
 ### Treasury Bills (T-Bills)
 
-Issued by:
+Issued by: Government of India
 
-* Government of India
-
-Purpose:
-
-* Meet short-term funding requirements
+Purpose: Meet short-term funding requirements
 
 Maturities:
 
@@ -251,23 +231,13 @@ T-Bills do not pay periodic interest.
 
 Instead they are issued at a discount and redeemed at face value.
 
-Example:
-
-Buy at ₹980
-
-Receive ₹1,000 on maturity
-
-Profit = ₹20
+Example: Buy at ₹980, Receive ₹1,000 on maturity. Profit = ₹20
 
 ### Commercial Papers (CP)
 
-Issued by:
+Issued by: Highly rated companies
 
-* Highly rated companies
-
-Purpose:
-
-* Working capital requirements
+Purpose: Working capital requirements
 
 Characteristics:
 
@@ -354,29 +324,15 @@ This is a foreign bond.
 
 #### Risk for Issuer
 
-This is the most important exam point.
+This is the most important exam point. The issuer bears currency risk.
 
-The issuer bears currency risk.
+Example: 
 
-Example:
+Borrowing: USD 100 million with Exchange rate: ₹80/USD
 
-Borrowing:
+Repayment obligation: ₹8,000 million.
 
-USD 100 million
-
-Exchange rate:
-
-₹80/USD
-
-Repayment obligation:
-
-₹8,000 million
-
-If USD rises to ₹90:
-
-Repayment becomes:
-
-₹9,000 million
+If USD rises to ₹90, Repayment becomes: ₹9,000 million
 
 Even though debt amount remains unchanged in USD, the repayment burden increases substantially.
 
@@ -425,9 +381,7 @@ Hence it becomes a Euro Bond.
 
 #### Why Masala Bonds Are Important
 
-They shift currency risk from issuer to investor.
-
-This makes them attractive for Indian issuers.
+They shift currency risk from issuer to investor. This makes them attractive for Indian issuers.
 
 #### Key Difference from Foreign Bonds
 
@@ -452,7 +406,6 @@ This makes them attractive for Indian issuers.
 ## Exam Memory Shortcut
 
 ### Debt Instruments Hierarchy
-
 
 **Long-Term Debt**
 

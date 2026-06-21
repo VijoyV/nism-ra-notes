@@ -13,8 +13,6 @@ Unlike debt instruments such as bonds or debentures, equity shares do not guaran
 | **Nature**      | Fractional ownership in a business venture                              |
 | **Risk/Reward** | Shareholders collectively own the company; bear risks and enjoy rewards |
 
-## Understanding the Table
-
 ### Issuer – Companies or Legal Entities
 
 Equity shares can be issued by:
@@ -73,9 +71,7 @@ Companies raise equity capital through:
 
 When a company offers shares to the public for the first time.
 
-Example:
-
-A startup transforms into a listed company through an IPO.
+Example: A startup transforms into a listed company through an IPO.
 
 #### Follow-on Public Offer (FPO)
 
@@ -129,16 +125,7 @@ Together, these institutions create a robust legal framework for equity investin
 
 The most important feature of an equity share is ownership.
 
-Suppose a company has:
-
-* Total shares issued = 1,00,000
-* You own = 1,000 shares
-
-Your ownership percentage is:
-
-**1,000 / 1,00,000 = 1%**
-
-You therefore own 1% of the company.
+Suppose a company has Total shares issued = 1,00,000, and You own = 1,000 shares. Your ownership percentage is: **1,000 / 1,00,000 = 1%**. You therefore own 1% of the company.
 
 This ownership gives you:
 
@@ -166,17 +153,13 @@ Priority of claims during liquidation:
 5. Preference shareholders
 6. Equity shareholders
 
-Thus, equity shareholders stand last in the queue.
-
-If the company fails, shareholders may lose their entire investment.
+Thus, equity shareholders stand last in the queue. If the company fails, shareholders may lose their entire investment.
 
 #### Why Equity Can Be Highly Rewarding
 
 Since shareholders own the business, they enjoy all residual profits.
 
-Example:
-
-Suppose a company earns ₹500 crore profit.
+Example: Suppose a company earns ₹500 crore profit.
 
 After paying:
 
@@ -248,4 +231,6 @@ Therefore, equity research is essentially **business analysis translated into in
 
 ## Key Takeaway
 
-An equity share is a fractional ownership stake in a company. It offers investors the opportunity to participate in the growth and profits of a business while also exposing them to business risks. Equity shareholders are the true owners of a company and therefore enjoy the highest potential rewards, but they also bear the highest level of risk.
+* An equity share is a fractional ownership stake in a company. 
+* It offers investors the opportunity to participate in the growth and profits of a business while also exposing them to business risks. 
+* Equity shareholders are the true owners of a company and therefore enjoy the highest potential rewards, but they also bear the highest level of risk.
