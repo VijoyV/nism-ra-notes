@@ -1,6 +1,4 @@
-## 2.3 Structure of Securities Market
-
-**Securities Market =** Primary Market + Secondary Market (interdependent and inseparable).
+> **Securities Market =** Primary Market + Secondary Market (interdependent and inseparable).
 
 | Market | Function |
 |--------|----------|

@@ -1,5 +1,3 @@
-## 2.4 Various Market Participants and Their Activities
-
 ### 2.4.1 Market Intermediaries
 
 | Intermediary | Role |

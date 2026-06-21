@@ -1,5 +1,3 @@
-## Exchange Traded Funds (ETFs)
-
 Exchange Traded Funds (ETFs) combine some of the best features of both **mutual funds** and **equity shares**. Like a mutual fund, an ETF holds a diversified portfolio of assets. Like a share, it is traded on a stock exchange throughout the trading day.
 
 ETFs were introduced to provide investors with a low-cost, transparent, and convenient way to gain exposure to an entire market index, commodity, sector, or asset class through a single security.
@@ -150,15 +148,13 @@ ETF prices, however:
 
 Therefore ETF investors can immediately react to market movements.
 
-## Creation Process
+## Creation Process and Participants
 
 1. Sponsor (MF or global asset manager)
 2. Authorised Participants (large broking houses, international banks) create bundle of assets
 3. Authorised Participants deliver bundle to sponsor
 4. Sponsor issues ETF units
 5. ETF units sold to retail investors and traded like regular shares
-
-## Understanding the Creation Process
 
 The ETF creation mechanism is one of the most unique aspects of ETFs.
 
@@ -212,6 +208,8 @@ The AP returns ETF units to the sponsor and receives the underlying basket of se
 
 This mechanism helps keep ETF prices close to the value of underlying assets.
 
+---
+
 ## Why ETF Prices Usually Stay Close to NAV
 
 One important concept for exams is **arbitrage**.
@@ -239,7 +237,7 @@ Thus ETF prices usually remain close to intrinsic value.
 
 Although the official note does not classify ETFs, investors commonly encounter the following categories.
 
-### Equity ETFs
+### 1. Equity ETFs
 
 Track stock market indices.
 
@@ -249,7 +247,7 @@ Examples:
 * Sensex ETF
 * Nifty Next 50 ETF
 
-### Gold ETFs
+### 2. Gold ETFs
 
 Invest primarily in physical gold.
 
@@ -261,7 +259,7 @@ Advantages:
 
 Gold ETFs have become a popular alternative to buying physical gold.
 
-### Debt ETFs
+### 3. Debt ETFs
 
 Track bond portfolios or debt indices.
 
@@ -271,7 +269,7 @@ Examples:
 
 These are suitable for investors seeking relatively stable returns.
 
-### Sector ETFs
+### 4. Sector ETFs
 
 Track specific sectors.
 
@@ -283,7 +281,7 @@ Examples:
 
 Investors use these when they have a positive outlook on a particular sector.
 
-### International ETFs
+### 5. International ETFs
 
 Provide exposure to foreign markets.
 
@@ -300,9 +298,7 @@ They allow geographical diversification.
 * Can buy/sell even one unit at real-time prices
 * Passively managed → lower expense ratios than mutual funds
 
-## Understanding the Advantages
-
-### Diversification
+### 1. Diversification
 
 A single ETF unit can provide exposure to dozens or hundreds of securities.
 
@@ -310,7 +306,7 @@ Example:
 
 Buying one Nifty ETF indirectly gives exposure to 50 major companies.
 
-### Liquidity
+### 2. Liquidity
 
 Investors can:
 
@@ -319,7 +315,7 @@ Investors can:
 
 No need to wait for end-of-day NAV.
 
-### Lower Costs
+### 3. Lower Costs
 
 Since ETFs are usually passively managed:
 
@@ -328,13 +324,13 @@ Since ETFs are usually passively managed:
 
 Therefore expense ratios are typically lower than actively managed mutual funds.
 
-### Transparency
+### 4. Transparency
 
 ETF portfolios are generally disclosed regularly.
 
 Investors know exactly what they own.
 
-### Simplicity
+### 5. Simplicity
 
 Instead of selecting individual stocks, investors can buy a single ETF to obtain diversified market exposure.
 
@@ -377,6 +373,8 @@ Today, passive investing through ETFs has become a major force influencing capit
 
 ---
 
-### Key Takeaway
+## Key Takeaway
 
-An Exchange Traded Fund (ETF) is a pooled investment vehicle that tracks an index, commodity, sector, or basket of assets while trading on a stock exchange like an ordinary share. ETFs combine the diversification benefits of mutual funds with the liquidity and real-time pricing of stocks. Their passive management structure typically results in lower costs, making them one of the most efficient investment vehicles available to modern investors.
+* An Exchange Traded Fund (ETF) is a pooled investment vehicle that tracks an index, commodity, sector, or basket of assets while trading on a stock exchange like an ordinary share. 
+* ETFs combine the diversification benefits of mutual funds with the liquidity and real-time pricing of stocks. 
+* Their passive management structure typically results in lower costs, making them one of the most efficient investment vehicles available to modern investors.

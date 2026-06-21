@@ -222,4 +222,3 @@ InvITs provide exposure to infrastructure assets such as roads, power transmissi
 
 ---
 
-This is roughly the depth I'd recommend for the rest of Chapter 2: **20% more explanatory than the workbook, but not 300% more like a textbook.**

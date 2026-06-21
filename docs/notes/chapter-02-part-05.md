@@ -1,5 +1,3 @@
-## 2.5 Kinds of Transactions
-
 ### 2.5.1 Cash, Tom and Spot Trades/Transactions
 
 | Type | Settlement | Meaning |
