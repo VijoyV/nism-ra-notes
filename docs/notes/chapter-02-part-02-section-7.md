@@ -4,7 +4,7 @@ Hybrid securities combine characteristics of two or more traditional financial i
 
 ## 2.2.7.1 Preference Shares
 
-### Definition
+**Definition:**
 
 * Special kind of equity shares with **preference over common/ordinary equity shares** at:
 
@@ -24,7 +24,7 @@ Preference shares are legally equity shares but possess certain debt-like charac
 
 **PAT (Profit After Tax)** refers to profits remaining after all expenses, interest, and taxes have been paid.
 
-### What they DO NOT have
+**What they DO NOT have?**
 
 * Voting rights
 * Right over residual assets in winding up
@@ -39,7 +39,7 @@ Preference shares are legally equity shares but possess certain debt-like charac
 
 ## 2.2.7.2 Convertible Debentures & Bonds
 
-### Definition
+**Definition:**
 
 * Debt instruments that can be converted into equity shares at a future date.
 * Have features of both debt and equity.
@@ -54,7 +54,7 @@ Convertible debentures begin as debt instruments paying interest. At a later sta
 | **Partly Convertible (PCD)**     | Portion converted to equity; non-convertible portion remains debt, earns interest, repaid on redemption |
 | **Optionally Convertible (OCD)** | Convertible at discretion of debenture holder                                                           |
 
-### Conversion Details Specified at Issue
+**Conversion Details Specified at Issue:**
 
 * Date of conversion
 * Conversion ratio (number of shares per debenture)
@@ -81,7 +81,7 @@ Convertible debentures begin as debt instruments paying interest. At a later sta
 
 ## 2.2.7.3 Indian Depository Receipts (IDRs), Global Depository Receipts (GDRs) and American Depository Receipts (ADRs)
 
-### Definition
+**Definition:**
 
 * Financial instruments that represent shares of a foreign company.
 * Traded in a market of a country where they are issued.
@@ -113,7 +113,7 @@ Depository Receipts (DRs) allow investors in one country to invest in shares of 
 
 ## 2.2.7.4 Foreign Currency Convertible Bonds (FCCBs)
 
-### Definition
+**Definition:**
 
 * Foreign currency (usually USD) denominated convertible debt securities issued by companies in international markets.
 
@@ -134,7 +134,7 @@ The issuer bears foreign exchange risk until conversion. If the foreign currency
 
 ## 2.2.7.5 Equity Linked Debentures (ELDs)
 
-### Definition
+**Definition:**
 
 * Floating rate debt instruments whose interest is based on returns of underlying equity asset (Nifty, Sensex, individual shares, or custom basket).
 
@@ -153,7 +153,7 @@ Capital protection does not eliminate **credit risk**. Investors remain exposed 
 
 ## 2.2.7.6 Commodity Linked Debentures (CLDs)
 
-### Definition
+**Definition:**
 
 * Floating rate debt instruments whose interest is based on returns of underlying commodity asset.
 * Most common: linked to precious metals (Gold, Silver).
@@ -170,7 +170,7 @@ CLDs allow investors to participate in commodity price movements while retaining
 
 ## 2.2.7.7 Mortgage Backed Securities (MBS) and Asset Backed Securities (ABS)
 
-### Definition
+**Definition:**
 
 * Debt instruments issued by institutions against receivables and cash flows from financial assets.
 
@@ -191,7 +191,7 @@ Investors receive interest and principal payments from the cash flows generated 
 
 ## 2.2.7.8 REITs/InvITs
 
-### Real Estate Investment Trusts (REITs)
+### 1. Real Estate Investment Trusts (REITs)
 
 * Pool money from investors.
 * Invest in revenue-generating real estate projects.
@@ -203,7 +203,7 @@ REITs allow investors to participate in large commercial real estate assets with
 
 ---
 
-### Infrastructure Investment Trusts (InvITs)
+### 2. Infrastructure Investment Trusts (InvITs)
 
 * Pool money from investors.
 * Invest in revenue-generating infrastructure projects.

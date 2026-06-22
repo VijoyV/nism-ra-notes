@@ -5,7 +5,6 @@
 | **Cash Trades** | T+0 | Same trading day |
 | **Tom Trades** | T+1 | Next trading day |
 
----
 
 ### 2.5.2 Forward transactions
 
@@ -17,7 +16,6 @@
 
 **Example:** Farmer agrees to sell wheat to miller 6 months later at a price agreed today.
 
----
 
 ### 2.5.3 Futures
 
@@ -33,7 +31,6 @@
 - Delivery: physical only
 - Delivery centre: Exchange approved warehouses
 
----
 
 ### 2.5.4 Options
 
@@ -41,12 +38,14 @@
 - Contract that gives the **right, but not the obligation**, to buy or sell underlying asset on or before a stated date at a stated price.
 
 **Parties:**
+
 | Party | Action |
 |-------|--------|
 | Buyer/Holder | Pays premium, buys the right |
 | Writer/Seller | Receives premium, has obligation to sell/buy if buyer exercises |
 
 **Types:**
+
 | Type | Right |
 |------|-------|
 | **Call Option** | Right to BUY underlying at strike price on or before given date |
@@ -55,10 +54,10 @@
 **Can be transacted:** OTC Market OR Exchange Traded Markets.
 
 **Example:** Arvind buys Nifty 50 call option at 11000, 3 months, pays ₹100 premium.
+
 - If Nifty at 11200 on settlement: In the money → exercise → gain = (200 - 100) = ₹100 net.
 - If Nifty at 10800: Out of money → expires worthless → Arvind loses ₹100 premium.
 
----
 
 ### 2.5.5 Swaps
 
@@ -72,7 +71,6 @@
 - Enters swap: Pay fixed to swap dealer, receive T-bill + spread from swap dealer.
 - Net obligation = fixed rate to swap dealer.
 
----
 
 ### 2.5.6 Trading, Speculating, Hedging, Arbitrage, Pledging of Shares
 

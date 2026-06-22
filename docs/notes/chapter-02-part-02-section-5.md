@@ -92,14 +92,11 @@ SEBI regulates:
 
 SEBI's objective is to ensure that investors receive fair treatment and adequate information before investing.
 
-
-## Definition of Mutual Fund
+## How a Mutual Fund Works?
 
 * Investment vehicle that pools money from many investors.
 * Invests the pool in a portfolio of assets reflecting a common theme/objective.
 * Each investor's share = **unit**.
-
-## How a Mutual Fund Works
 
 Consider the following example:
 
@@ -138,23 +135,23 @@ Returns Generated
 Benefit Passed to Investors
 ```
 
-## Why Mutual Funds Exist
+## Why Mutual Funds Exist?
 
 Mutual funds solve several practical problems faced by individual investors.
 
-### 1. Diversification
+**1. Diversification**
 
 A small investor with ₹5,000 may not be able to buy 50 different stocks.
 
 Through a mutual fund, that same investor can indirectly own a diversified portfolio.
 
-### 2 Professional Management
+**2 Professional Management**
 
 Investment decisions are taken by experienced fund managers supported by research teams.
 
 This reduces the need for individual investors to constantly monitor markets.
 
-### 3. Accessibility
+**3. Accessibility**
 
 Investors can start with relatively small amounts.
 
@@ -163,13 +160,13 @@ For example:
 * SIPs starting from ₹500
 * Lump sum investments of small amounts
 
-### 4. Liquidity
+**4. Liquidity**
 
 Most open-ended funds allow investors to redeem units whenever needed.
 
 ## Net Asset Value (NAV)
 
-### Definition
+**Definition**
 
 * Value of each unit.
 * Changes continuously reflecting changes in portfolio value.
@@ -182,7 +179,7 @@ It is calculated as:
 
 > $\text{NAV} = \frac{\text{Market Value of Assets} - \text{Liabilities}}{\text{Number of Units Outstanding}}$
 
-#### Example
+**Example**
 
 Suppose:
 
@@ -219,7 +216,7 @@ If markets decline:
 Thus, NAV reflects the current value of the fund's investments.
 
 
-## Important Clarification: High NAV vs Low NAV
+### Important Clarification: High NAV vs Low NAV
 
 A common misconception is:
 
@@ -250,11 +247,11 @@ This is a frequently tested concept.
 | **Close-ended** | Fixed maturity period; limited liquidity                            |
 
 
-## Open-Ended Mutual Funds
+### Open-Ended Mutual Funds
 
 These are the most common mutual fund schemes.
 
-### Features
+**Features:**
 
 * Continuous purchase allowed
 * Continuous redemption allowed
@@ -263,7 +260,7 @@ These are the most common mutual fund schemes.
 
 Investors can enter or exit at any time based on the prevailing NAV.
 
-### Examples
+**Examples**
 
 Most equity mutual funds in India are open-ended.
 
@@ -275,7 +272,7 @@ Examples:
 * Hybrid Funds
 
 
-### Advantages
+**Advantages:**
 
 * High liquidity
 * Flexibility
@@ -283,7 +280,7 @@ Examples:
 * Convenient for long-term wealth creation
 
 
-## Close-Ended Mutual Funds
+### Close-Ended Mutual Funds
 
 These funds have a fixed tenure.
 
@@ -301,7 +298,7 @@ After that:
 * Redemption may be restricted until maturity.
 
 
-### Liquidity
+**Liquidity:**
 
 Since investors cannot usually redeem directly with the fund before maturity, liquidity may be limited.
 
@@ -365,21 +362,13 @@ No active stock selection is performed.
 
 ## Key Entities in a Mutual Fund Structure
 
-### Sponsor
+**Sponsor:** Promotes and establishes the mutual fund.
 
-Promotes and establishes the mutual fund.
+**Trustee:** Protects the interests of unit holders.
 
-### Trustee
+**Asset Management Company (AMC):** Manages the investments and operations of the fund.
 
-Protects the interests of unit holders.
-
-### Asset Management Company (AMC)
-
-Manages the investments and operations of the fund.
-
-### Custodian
-
-Safeguards the securities owned by the fund.
+**Custodian:** Safeguards the securities owned by the fund.
 
 These entities together ensure proper governance and investor protection.
 

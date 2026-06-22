@@ -1,5 +1,7 @@
 Exchange Traded Funds (ETFs) combine some of the best features of both **mutual funds** and **equity shares**. Like a mutual fund, an ETF holds a diversified portfolio of assets. Like a share, it is traded on a stock exchange throughout the trading day.
 
+**Definition:** Investment vehicle that invests pooled money to track an index, commodity (e.g., Gold), or basket of assets.
+
 ETFs were introduced to provide investors with a low-cost, transparent, and convenient way to gain exposure to an entire market index, commodity, sector, or asset class through a single security.
 
 Today, ETFs are among the fastest-growing investment products globally and have become increasingly popular in India.
@@ -33,14 +35,14 @@ Each ETF is structured as a mutual fund scheme but trades differently from ordin
 
 ETFs are suitable for both:
 
-#### Individual Investors
+**Individual Investors:**
 
 * Retail investors
 * Salaried employees
 * HNIs
 * Long-term investors
 
-#### Institutional Investors
+**Institutional Investors:**
 
 * Mutual Funds
 * Insurance Companies
@@ -75,10 +77,6 @@ SEBI regulates:
 * Tracking standards
 * Valuation practices
 
-## Definition
-
-* Investment vehicle that invests pooled money to track an index, commodity (e.g., Gold), or basket of assets.
-
 ---
 
 ## How ETFs Work
@@ -97,15 +95,11 @@ Examples:
 
 The objective is not to outperform the benchmark but to closely replicate its performance.
 
-
-## Key Features
+**Key Features:**
 
 * Like an index fund (portfolio reflects index it tracks)
 * **Unlike index fund**: Units are listed and traded on stock exchange
 * Price changes continuously (like regular shares)
-
-
-## Understanding These Features
 
 ### Like an Index Fund
 
@@ -192,9 +186,7 @@ Suppose an ETF tracks Nifty 50.
 
 The AP purchases:
 
-* The underlying basket of Nifty stocks
-
-and transfers that basket to the ETF sponsor.
+* The underlying basket of Nifty stocks and transfers that basket to the ETF sponsor.
 
 In return, the sponsor issues ETF units.
 
@@ -214,11 +206,9 @@ This mechanism helps keep ETF prices close to the value of underlying assets.
 
 One important concept for exams is **arbitrage**.
 
-### Example
+**Example:**
 
-Suppose:
-
-ETF NAV = ₹100
+Suppose: ETF NAV = ₹100
 
 Market Price = ₹105
 
@@ -292,13 +282,13 @@ Examples:
 
 They allow geographical diversification.
 
-## Advantages
+## Advantages of ETFs
 
 * Diversification benefits of index fund
 * Can buy/sell even one unit at real-time prices
 * Passively managed → lower expense ratios than mutual funds
 
-### 1. Diversification
+**1. Diversification**
 
 A single ETF unit can provide exposure to dozens or hundreds of securities.
 
@@ -306,7 +296,7 @@ Example:
 
 Buying one Nifty ETF indirectly gives exposure to 50 major companies.
 
-### 2. Liquidity
+**2. Liquidity**
 
 Investors can:
 
@@ -315,7 +305,7 @@ Investors can:
 
 No need to wait for end-of-day NAV.
 
-### 3. Lower Costs
+**3. Lower Costs**
 
 Since ETFs are usually passively managed:
 
@@ -324,15 +314,17 @@ Since ETFs are usually passively managed:
 
 Therefore expense ratios are typically lower than actively managed mutual funds.
 
-### 4. Transparency
+**4. Transparency**
 
 ETF portfolios are generally disclosed regularly.
 
 Investors know exactly what they own.
 
-### 5. Simplicity
+**5. Simplicity**
 
 Instead of selecting individual stocks, investors can buy a single ETF to obtain diversified market exposure.
+
+---
 
 ## ETFs vs Index Funds
 
@@ -347,6 +339,7 @@ This distinction is frequently tested.
 | Liquidity     | Through exchange trading     | Through fund house      |
 | Expense Ratio | Usually lower                | Usually slightly higher |
 
+---
 
 ## ETFs vs Mutual Funds
 

@@ -2,16 +2,12 @@ Commodities are one of the oldest asset classes in human history. Long before st
 
 Unlike shares or bonds, commodities are **real physical assets** that have intrinsic utility and economic value.
 
-## Definition of Commodity
+**Definition of Commodity:**
 
 * Basic materials or goods that are largely **homogenous** in nature.
 * Interchangeable with other goods of the same type.
 
-### Understanding Homogeneity
-
-The most important characteristic of a commodity is **standardization** or **homogeneity**.
-
-A buyer generally does not care who produced the commodity as long as it meets the specified quality standards.
+**Understanding Homogeneity:** The most important characteristic of a commodity is **standardization** or **homogeneity**. A buyer generally does not care who produced the commodity as long as it meets the specified quality standards.
 
 For example:
 
@@ -20,12 +16,12 @@ For example:
 
 This makes commodities suitable for large-scale trading and futures contracts.
 
-### Example to Distinguish
+**Example to Distinguish:**
 
 * Bar of gold = commodity (investor indifferent between bars of same quantity/quality)
 * Gold jewellery = NOT a commodity (buyer may prefer one design over another)
 
-### Why Gold Jewellery is Not Considered a Commodity?
+## Why Gold Jewellery is Not Considered a Commodity?
 
 Although jewellery contains gold, its value depends on:
 
@@ -136,7 +132,7 @@ For example: A poor monsoon season can reduce crop production and increase food 
 * Most commodities involve huge storage cost → not suitable investments.
 * Certain avenues available to invest.
 
-### Commodities as an Inflation Hedge
+**Commodities as an Inflation Hedge:** 
 
 One of the major reasons investors allocate money to commodities is inflation protection.
 
@@ -169,7 +165,7 @@ This makes commodities useful as a portfolio diversification tool.
 
 Direct commodity ownership presents practical challenges.
 
-#### 1. Storage Costs
+**1. Storage Costs**
 
 Examples:
 
@@ -177,11 +173,11 @@ Examples:
 * Wheat requires warehouses.
 * Metals require secure storage.
 
-#### 2. Transportation Costs
+**2. Transportation Costs**
 
 Physical delivery can be expensive.
 
-#### 3. Quality Deterioration
+**3. Quality Deterioration**
 
 Many agricultural commodities:
 
@@ -201,13 +197,13 @@ Because of these challenges, investors usually gain commodity exposure through f
 
 Unlike most commodities, precious metals possess several investment-friendly characteristics.
 
-#### 1. Store of Value
+**1. Store of Value**
 
 Gold and silver have been used as stores of wealth for thousands of years.
 
 Even today, central banks hold substantial gold reserves.
 
-#### 2. Long Economic Life
+**2. Long Economic Life**
 
 Unlike agricultural products:
 
@@ -216,13 +212,13 @@ Unlike agricultural products:
 
 Their value can remain intact for decades.
 
-#### 3. Low Storage Cost Relative to Value
+**3. Low Storage Cost Relative to Value**
 
 A small quantity of gold can represent a very large monetary value.
 
 Example: ₹10 lakh worth of gold occupies very little physical space compared to ₹10 lakh worth of wheat.
 
-### Safe Haven Asset
+**4. Safe Haven Asset**
 
 During periods of:
 
@@ -258,7 +254,6 @@ The investor owns ETF units rather than the physical commodity itself.
 * Buy units of the fund.
 * Unit value moves with NAV of fund → moves with commodity prices.
 
-
 **Example:**
 
 Suppose a Gold ETF owns physical gold.
@@ -269,11 +264,9 @@ If gold prices rise by 10%:
 
 Thus investors benefit from gold price appreciation without storing gold.
 
-
 ### Advantage
 
 * Storage handled by the fund → investor has no storage obligation.
-
 
 ### Why Gold ETFs Became Popular
 
@@ -324,7 +317,7 @@ The manager continuously adjusts positions based on:
 
 ---
 
-#### Example
+**Example:**
 
 Suppose a fund manager believes crude oil prices will increase.
 
@@ -341,11 +334,11 @@ This allows commodity exposure without physical ownership.
 
 ### Advantages
 
-#### 1. No Physical Storage
+**1. No Physical Storage**
 
 Investors avoid logistics associated with storing commodities.
 
-#### 2. Diversification
+**2. Diversification**
 
 Managers may invest across:
 
@@ -353,7 +346,7 @@ Managers may invest across:
 * Energy products
 * Agricultural commodities
 
-#### 3. Professional Management
+**3. Professional Management**
 
 Investment decisions are handled by specialists.
 
@@ -385,7 +378,7 @@ This receipt becomes evidence of ownership.
 
 * Most are **negotiable** → title to underlying goods can be transferred by simply transferring the receipt.
 
-#### Meaning of Negotiable
+**Meaning of Negotiable:**
 
 A negotiable warehouse receipt can be transferred from one party to another.
 
@@ -393,7 +386,7 @@ Ownership of the commodity changes without physically moving the goods.
 
 This significantly improves trading efficiency.
 
-#### Example
+**Example:**
 
 A trader stores 1,000 tonnes of wheat in a warehouse.
 

@@ -2,8 +2,6 @@ Stock market indices are among the most important tools used by investors, fund 
 
 Since it is impossible to track thousands of listed companies individually, a carefully selected group of representative stocks is used to measure the performance of the broader market or a specific sector. This group of stocks forms a **market index**.
 
-## Definition
-
 * Tracks market movement using prices of a specific number of shares chosen as representative sample.
 * Most leading indices are weighted by **market capitalisation**.
 
@@ -11,7 +9,7 @@ Since it is impossible to track thousands of listed companies individually, a ca
 
 Most modern indices use the **Free Float Market Capitalisation Methodology**.
 
-### Market Capitalisation
+### A. Market Capitalisation
 
 Market Capitalisation (Market Cap) is calculated as:
 
@@ -26,17 +24,11 @@ For example:
 
 Although Company A and Company B have the same number of shares, Company A has a much larger influence on the index because of its higher market capitalization.
 
+### B. Free Float Market Capitalisation
 
-### Free Float Market Capitalisation
+Not all shares are freely available for trading. Promoter holdings, government holdings, and strategic investments are generally excluded. Only publicly tradable shares are considered. This method provides a more realistic representation of actual market participation.
 
-Not all shares are freely available for trading.
-
-Promoter holdings, government holdings, and strategic investments are generally excluded.
-
-Only publicly tradable shares are considered.
-
-This method provides a more realistic representation of actual market participation.
-
+---
 
 ## Most Widely Tracked Indices in India
 
@@ -115,7 +107,6 @@ Contains the next 50 largest companies after Nifty 50.
 
 Often viewed as a pool of future Nifty 50 candidates.
 
-
 #### Nifty 100
 
 Combines:
@@ -130,7 +121,6 @@ Provides broader market representation.
 Tracks 500 companies across large-cap, mid-cap, and small-cap segments.
 
 Represents a substantial portion of the Indian equity market.
-
 
 #### BSE 500
 
