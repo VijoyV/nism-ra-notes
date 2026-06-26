@@ -102,3 +102,29 @@
 | 5 | **Jensen's Alpha** – Quantifies the active return added by a portfolio manager above the expected market return based on CAPM. |
 | | $\alpha = R_p - [R_f + \beta_p \times (R_m - R_f)]$ |
 
+## Should we learn all these formulae?
+
+Based on the official NISM syllabus, you will need to **understand and apply these formulas**, not just memorize them in isolation. The exam tests your ability to use them in practical scenarios.
+
+### Exam Structure and Application
+The NISM Research Analyst exam has a specific structure designed to test applied knowledge .
+
+*   **Exam Format**: 80 multiple-choice questions (1 mark each) and 5 case-based questions (each with 4 sub-questions of 1 mark). The case-based questions are particularly important as they will test your ability to apply formulas to real-world problems .
+*   **Important Weightage**: The topics where many of these formulas are concentrated carry significant weight.
+    *   **Chapter 8 (Company Analysis – Financial Analysis):** 16% weightage .
+    *   **Chapter 10 (Valuation Principles):** 16% weightage .
+
+Given this high weightage, you can expect direct and application-based questions from these chapters.
+
+### "Memorization" vs. "Understanding and Application"
+It's crucial to know *when* and *how* to use each formula. The official syllabus for Chapter 8 states that candidates must "Know the computation of Dupont Analysis" and "Know the commonly used ratios used in financial analysis," which clearly requires more than just rote learning .
+
+Here is how you should approach each formula in your tables:
+
+*   **Chapter 3 (Terminology)**: These are foundational. You'll need to know the formulas for **Market Cap, EPS, PE Ratio,** and **Current Yield** to interpret market data and answer basic questions.
+*   **Chapter 8 (Financial Analysis)**: This is where application is key. You should be prepared to **calculate ratios** (like ROE, ROCE, D/E, Current Ratio) from a set of financial data and **interpret what they mean** about a company's health.
+*   **Chapter 10 (Valuation)**: You must understand how to use the **Gordon Growth Model**, **CAPM**, and **WACC**. These are core to valuing companies and are frequently tested in application-based scenarios.
+*   **Chapter 12 (Risk and Return)**: Expect questions that ask you to **calculate the Sharpe Ratio** or **CAGR** for a portfolio, not just define it.
+
+In short, your current work in organizing these formulas is an excellent first step. The next step is to practice applying them to examples and case studies, as that is exactly how you will be tested.
+

@@ -81,6 +81,8 @@ A listed company issues additional shares to raise more capital.
 
 Existing shareholders receive an opportunity to purchase additional shares, usually at a discounted price.
 
+### Secondary Market
+
 After issuance, these shares are traded on stock exchanges such as:
 
 * NSE
@@ -181,7 +183,7 @@ This is why equity has historically generated higher long-term returns than most
 
 Equity shareholders generally enjoy:
 
-### Voting Rights
+### 1. Voting Rights
 
 They can vote on important matters such as:
 
@@ -189,25 +191,25 @@ They can vote on important matters such as:
 * Mergers and acquisitions
 * Changes in capital structure
 
-### Dividend Rights
+### 2. Dividend Rights
 
 They are entitled to dividends when declared by the company.
 
-### Bonus Shares
+### 3. Bonus Shares
 
 They may receive additional shares free of cost.
 
-### Rights Issues
+### 4. Rights Issues
 
 They receive preferential access to new share issues.
 
-### Residual Claim
+### 5. Residual Claim
 
 They are entitled to residual assets after all liabilities are settled.
 
-## Why Companies Prefer Equity Capital
+## Why Companies Prefer Equity Capital?
 
-Unlike debt:
+**Unlike debt:**
 
 * No mandatory interest payment
 * No repayment obligation

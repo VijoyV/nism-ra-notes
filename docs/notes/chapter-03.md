@@ -322,7 +322,7 @@ Issued:
 
 Types include:
 - Foreign Bonds
--  Euro Bonds
+- Euro Bonds
 - Masala Bonds
 
 ## 3.4 Understand the terminology used in the Commodity Market Markets
@@ -356,26 +356,6 @@ Amount deposited to take a futures position.
 ### Open Interest
 
 Total outstanding derivative contracts.
-
-## Chapter 3 Exam Revision Sheet
-
-### Equity Formulas
-
-$Book\ Value\ Per\ Share = \frac{Net\ Worth}{Outstanding\ Shares}$
-
-$EPS = \frac{PAT}{Outstanding\ Shares}$
-
-$P/E = \frac{Market\ Price}{EPS}$
-
-$Dividend\ Yield = \frac{Dividend\ Per\ Share}{Market\ Price} \times100$
-
-$Market\ Capitalization = Market\ Price \times Outstanding\ Shares$
-
-### Debt Formulas
-
-$ Coupon\ Payment = Face\ Value \times Coupon\ Rate$
-
-$Current\ Yield = \frac{Annual\ Coupon}{Bond\ Price}\times100$
 
 ## Must Remember for Exam
 
