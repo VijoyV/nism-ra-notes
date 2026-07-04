@@ -1,15 +1,3 @@
-# Usefl Links
-
-1. https://zfunds.in/m/nism-series-xv-research-analyst-mock-test
-2. https://finsafar.com/exams/nism-series-xv-research-analyst-certification-mock-test
-3. https://pass4sure.in/workbook/nism-series-xv-research-analyst-certification-exam-workbook
-4. https://www.bfsicourses.com/courses/nism-xv-research-analyst-free-mock-test-66ded9861a4fa75740699e72
-5. https://cubelearn.com/courses/nism-series-xv-research-analyst-question-bank/
-6. https://modelexam.in/nism-exams/NISM_Research_Analyst.html?srsltid=AfmBOoqEgExVtCs6i6YvktgbBcOuAMd7Y_8Ui6Ll8BYo3nCxnwe7Hn3m
-7. https://www.studocu.com/in/document/national-institute-of-securities-markets/nism-series-8/nism-xv-research-analyst-short-notes/32661976
-8. https://nismmocktest.in/nism-series-xv-research-analyst/#google_vignette
-
-
 # Prompt to Extract Highlevel Picture (DeepSeek AI)
 
 Absolutely. Here is the **actual prompt template** you can save and reuse for any subsequent chapter. Just copy, paste, fill in the chapter number and title, and send it to me.
