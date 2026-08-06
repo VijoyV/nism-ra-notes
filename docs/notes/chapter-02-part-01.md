@@ -190,4 +190,6 @@ The choice among these categories depends primarily on an investor's **risk appe
 
 ## Key Takeaway
 
-The securities market is a vital mechanism that channels savings into productive investments. It allows issuers to raise funds efficiently while providing investors with opportunities to earn returns, maintain liquidity, and participate in economic growth. Securities can broadly be classified into **equity, debt, and derivatives**, each catering to different investment needs and risk profiles. 
+- The securities market is a vital mechanism that channels savings into productive investments. 
+- It allows issuers to raise funds efficiently while providing investors with opportunities to earn returns, maintain liquidity, and participate in economic growth. 
+- Securities can broadly be classified into **equity, debt, and derivatives**, each catering to different investment needs and risk profiles. 
