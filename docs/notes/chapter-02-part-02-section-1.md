@@ -36,7 +36,7 @@ For example, if a company needs ₹1,000 crore to build a new manufacturing plan
 
 Equity shares attract a wide variety of investors.
 
-#### Institutional Investors
+**1. Institutional Investors**
 
 These investors manage large pools of money.
 
@@ -51,7 +51,7 @@ Examples:
 
 Because of their large investments, institutional investors often influence market trends and corporate governance.
 
-#### Individual Investors
+**2. Individual Investors**
 
 These are individual persons investing their own money.
 
@@ -63,25 +63,27 @@ Examples:
 
 The increasing participation of retail investors has significantly expanded the Indian equity market.
 
-### Medium – Direct Issuance through Stock Exchanges
+### Issuing Medium 
+
+**A. Direct Issuance through Stock Exchanges**
 
 Companies raise equity capital through:
 
-#### Initial Public Offering (IPO)
+**A.1 Initial Public Offering (IPO)**
 
 When a company offers shares to the public for the first time.
 
 Example: A startup transforms into a listed company through an IPO.
 
-#### Follow-on Public Offer (FPO)
+**A.2 Follow-on Public Offer (FPO)**
 
 A listed company issues additional shares to raise more capital.
 
-#### Rights Issue
+**A.3 Rights Issue**
 
 Existing shareholders receive an opportunity to purchase additional shares, usually at a discounted price.
 
-### Secondary Market
+**B. Secondary Market**
 
 After issuance, these shares are traded on stock exchanges such as:
 
@@ -92,7 +94,7 @@ After issuance, these shares are traded on stock exchanges such as:
 
 Several regulatory bodies oversee equity markets.
 
-#### SEBI (Securities and Exchange Board of India)
+**1. SEBI (Securities and Exchange Board of India)**
 
 SEBI regulates:
 
@@ -104,7 +106,7 @@ SEBI regulates:
 
 SEBI ensures fair and transparent markets.
 
-#### MCA (Ministry of Corporate Affairs)
+**2. MCA (Ministry of Corporate Affairs)**
 
 MCA administers the Companies Act and governs:
 
@@ -112,7 +114,7 @@ MCA administers the Companies Act and governs:
 * Share capital structure
 * Corporate governance
 
-#### NCLT (National Company Law Tribunal)
+**3. NCLT (National Company Law Tribunal)**
 
 NCLT handles:
 
@@ -142,7 +144,7 @@ In essence, buying equity shares means becoming a business partner, not merely a
 
 Equity shareholders are the ultimate risk bearers.
 
-#### Why Equity is Risky
+**1. Why Equity is Risky?**
 
 Shareholders receive returns only after all other obligations are met.
 
@@ -157,7 +159,7 @@ Priority of claims during liquidation:
 
 Thus, equity shareholders stand last in the queue. If the company fails, shareholders may lose their entire investment.
 
-#### Why Equity Can Be Highly Rewarding
+**2. Why Equity Can Be Highly Rewarding?**
 
 Since shareholders own the business, they enjoy all residual profits.
 
@@ -183,7 +185,7 @@ This is why equity has historically generated higher long-term returns than most
 
 Equity shareholders generally enjoy:
 
-### 1. Voting Rights
+**1. Voting Rights**
 
 They can vote on important matters such as:
 
@@ -191,19 +193,19 @@ They can vote on important matters such as:
 * Mergers and acquisitions
 * Changes in capital structure
 
-### 2. Dividend Rights
+**2. Dividend Rights**
 
 They are entitled to dividends when declared by the company.
 
-### 3. Bonus Shares
+**3. Bonus Shares**
 
 They may receive additional shares free of cost.
 
-### 4. Rights Issues
+**4. Rights Issues**
 
 They receive preferential access to new share issues.
 
-### 5. Residual Claim
+**5. Residual Claim**
 
 They are entitled to residual assets after all liabilities are settled.
 

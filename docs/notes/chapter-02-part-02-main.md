@@ -14,7 +14,7 @@ Based on the workbook, here is the hierarchical list of major products and their
 
 *   **6. Exchange Traded Funds (ETFs)**: Investment vehicles tracking indices or commodities, listed and traded on exchanges in demat form like regular shares.
 
-*   **7. Hybrids/Structured Products**:
+*   **7. Hybrids/Structured Products**: Hybrid securities combine characteristics of two or more traditional financial instruments such as equity, debt, commodities, derivatives, or real assets. They are designed to provide a customized risk-return profile and often offer investors additional benefits such as conversion rights, capital protection, or exposure to specific asset classes.
     *   **Preference Shares**: Hybrid instruments with priority over common equity for dividends and capital repayment during a company's winding up.
     *   **Convertible Debentures**: Debt instruments that pay periodic interest and can be converted into equity shares at a future date.
     *   **Depository Receipts (IDRs, GDRs, ADRs)**: Instruments representing shares of a foreign company, traded in local currency on a domestic or international exchange.

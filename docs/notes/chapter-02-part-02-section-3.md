@@ -58,13 +58,13 @@ This illustrates the meaning of:
 
 Companies may issue warrants for several reasons:
 
-### 1. Raising Future Capital
+**1. Raising Future Capital?**
 
 If investors exercise the warrants, the company receives fresh capital.
 
 Unlike trading in existing shares, warrant exercise results in new shares being issued by the company.
 
-### 2. Attracting Investors
+**2. Attracting Investors**
 
 Warrants are often attached to:
 
@@ -86,7 +86,7 @@ Investors receive both:
 * Fixed income from the debenture
 * Potential upside from future share appreciation
 
-### 3. Strategic Investments
+**3. Strategic Investments**
 
 Promoters and strategic investors are sometimes allotted warrants as part of capital-raising exercises.
 
@@ -125,13 +125,13 @@ This differs from secondary-market trading where existing shares merely change h
 
 Since new shares are created upon exercise, existing shareholders may experience dilution.
 
-#### Example
+**Example**
 
-##### Before exercise:
+Before exercise:
 
 * Total shares = 1 crore
 
-##### After warrant conversion:
+After warrant conversion:
 
 * Total shares = 1.2 crore
 
@@ -179,26 +179,25 @@ Company Receives Capital
 
 ## Benefits to Investors
 
-### 1. Leverage
+**1. Leverage**
 
 A small investment in warrants can provide exposure to a large increase in share price.
 
-### 2. Limited Downside
+**2. Limited Downside**
 
 Maximum loss is generally limited to the amount paid for the warrant.
 
-### 3. Participation in Future Growth
+**3. Participation in Future Growth**
 
 Investors can benefit if the company performs well and the share price rises substantially.
 
-
 ## Risks of Warrants
 
-### 1. Expiry Risk
+**1. Expiry Risk**
 
 If the share price remains below the exercise price until expiry, the warrant may become worthless.
 
-### 2. No Income
+**2. No Income**
 
 Warrant holders do not receive:
 
@@ -206,7 +205,7 @@ Warrant holders do not receive:
 * Voting rights
 * Bonus shares (until conversion)
 
-### 3. Time Value Erosion
+**3. Time Value Erosion**
 
 As expiry approaches, the probability of profitable exercise may decline.
 

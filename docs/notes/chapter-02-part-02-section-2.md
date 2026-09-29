@@ -9,6 +9,15 @@ The issuer promises:
 
 Therefore, debt securities are often called **fixed-income securities**.
 
+**NOTE:**
+
+- Though the words Debentures/Bonds/Notes are used interchangeably, their structure, collateral provisions, country of usage, and maturity dimensions may be different.
+- Therefore, it is advised that the analysts should always be aware of the terminology relevant for a country, by examining and reading thoroughly the features of the specific instruments. 
+- Bonds is an umbrella term in US, and Debentures in UK. Notes refer more to shorter and medium instruments, however one cannot watertight these definitions. 
+- Bonds are more related to government as an issuer with longer maturities beyond 10 years, also known GILTs in UK. 
+- Debentures more related to corporates.
+
+
 ## Basic Characteristics
 
 | Aspect     | Details                                            |
@@ -23,7 +32,7 @@ Therefore, debt securities are often called **fixed-income securities**.
 
 Debt securities can be issued by:
 
-#### Companies
+**Companies**
 
 Examples:
 
@@ -33,7 +42,7 @@ Examples:
 
 These are commonly called **Corporate Bonds** or **Debentures**.
 
-#### Government
+**Government**
 
 Examples:
 
@@ -42,7 +51,7 @@ Examples:
 
 These are considered among the safest debt instruments because they carry sovereign backing.
 
-#### SPVs (Special Purpose Vehicles)
+**SPVs (Special Purpose Vehicles)**
 
 A Special Purpose Vehicle (SPV) is a legally separate entity created for a specific project.
 
@@ -58,7 +67,7 @@ SPVs often issue bonds to finance large capital-intensive projects.
 
 Debt instruments are popular among:
 
-#### Institutional Investors
+**Institutional Investors**
 
 * Mutual Funds
 * Insurance Companies
@@ -66,7 +75,7 @@ Debt instruments are popular among:
 * Banks
 * FPIs
 
-#### Individual Investors
+**Individual Investors**
 
 * Retail Investors
 * HNIs
@@ -85,7 +94,7 @@ Listing improves transparency and liquidity.
 
 ### Regulators
 
-#### RBI
+**RBI**
 
 Regulates:
 
@@ -93,7 +102,7 @@ Regulates:
 * Treasury Bills
 * Money Market Instruments
 
-#### SEBI
+**SEBI**
 
 Regulates:
 
@@ -101,36 +110,36 @@ Regulates:
 * Listed debentures
 * Debt market intermediaries
 
-#### MCA
+**MCA**
 
 Administers legal provisions relating to issuance of corporate debt.
 
-#### NCLT
+**NCLT**
 
 Handles debt-related disputes and insolvency proceedings.
 
 
 ## Important Debt Market Terminology
 
-### Face Value (Par Value)
+**1. Face Value (Par Value)**
 
 The amount that will be repaid at maturity.
 
 Example: Bond Face Value = ₹1,000. At maturity investor receives ₹1,000.
 
-### Coupon Rate
+**2. Coupon Rate**
 
 Interest rate promised by issuer.
 
 Example: Face Value = ₹1,000, Coupon = 8%. Annual interest = ₹80
 
-### Maturity Date
+**3. Maturity Date**
 
 Date on which principal is repaid.
 
 Example: 5-year bond issued in 2025, Maturity = 2030
 
-### Yield
+**4. Yield**
 
 Actual return earned based on current market price.
 
@@ -139,27 +148,6 @@ Yield and coupon are not always the same.
 This is an important NISM concept.
 
 ## Types of Debentures
-
-| Type                         | Meaning                                                        |
-| - | -- |
-| **Fully Convertible (FCD)**  | Fully converted into ordinary shares; terms specified at issue |
-| **Partly Convertible (PCD)** | Partly converted; non-convertible part redeemed normally       |
-| **Non-Convertible (NCD)**    | Pure debt; no conversion; repayable on maturity                |
-
-
-### Why Convertible Debentures Exist?
-
-Convertible debentures combine features of:
-
-* Debt
-* Equity
-
-Hence they are called **Hybrid Instruments**.
-
-Investors receive:
-
-* Fixed interest initially
-* Potential ownership later
 
 ### Fully Convertible Debentures (FCD)
 
@@ -206,6 +194,29 @@ Examples:
 * Tata Capital NCDs
 * Bajaj Finance NCDs
 * Muthoot Finance NCDs
+
+### Why Convertible Debentures Exist?
+
+Convertible debentures combine features of:
+
+* Debt
+* Equity
+
+Hence they are called **Hybrid Instruments**.
+
+Investors receive:
+
+* Fixed interest initially
+* Potential ownership later
+
+### Summary - Convertible Bonds
+
+| Type                         | Meaning                                                        |
+| - | -- |
+| **Fully Convertible (FCD)**  | Fully converted into ordinary shares; terms specified at issue |
+| **Partly Convertible (PCD)** | Partly converted; non-convertible part redeemed normally       |
+| **Non-Convertible (NCD)**    | Pure debt; no conversion; repayable on maturity                |
+
 
 ## Short-Term Debt Instruments (≤ 1 year)
 
@@ -295,12 +306,13 @@ Often used to:
 * Diversify funding sources
 
 
-## External Bonds Subclassification
+## External Bonds Sub-classification
 
 * **Foreign Bond**: issued in foreign country, denominated in that country's local currency
 * **Euro Bond**: issued in foreign country, denominated in a currency NOT local to that country
+* **Masala Bonds**: Euro bonds denominated in Indian Rupees (INR), issued outside India 
 
-### 2.2.2.1 Foreign Bonds (Detailed)
+### Foreign Bonds
 
 | Aspect    | Details                                   |
 |  | -- |
@@ -310,7 +322,7 @@ Often used to:
 | Regulator | Regulators in respective country of issue |
 
 
-#### Key Features
+**Key Features**
 
 * Issued outside issuer's home country.
 * Denominated in the currency of the country where issued.
@@ -322,7 +334,7 @@ An Indian company issues USD bonds in the United States.
 
 This is a foreign bond.
 
-#### Risk for Issuer
+**Risk for Issuer**
 
 This is the most important exam point. The issuer bears currency risk.
 
@@ -336,14 +348,14 @@ If USD rises to ₹90, Repayment becomes: ₹9,000 million
 
 Even though debt amount remains unchanged in USD, the repayment burden increases substantially.
 
-#### Why Companies Issue Foreign Bonds
+**Why Companies Issue Foreign Bonds?**
 
 * Lower interest rates
 * Larger investor base
 * Better liquidity
 * Diversified funding sources
 
-### 2.2.2.2 Euro Bonds / External Bonds
+### Euro Bonds
 
 | Aspect    | Details                                   |
 |  | -- |
@@ -353,7 +365,7 @@ Even though debt amount remains unchanged in USD, the repayment burden increases
 | Regulator | Regulators in respective country of issue |
 
 
-#### Key Features
+**Key Features**
 
 A Euro Bond is:
 
@@ -372,24 +384,30 @@ Hence it becomes a Euro Bond.
 
 > Note: "Euro Bond" does **not** necessarily mean Europe or Euro currency. It simply refers to offshore issuance in a non-local currency.
 
-### 2.2.2.3 Masala Bonds (Special Category)
+### Masala Bonds (Special Case)
 
 * Euro bonds denominated in Indian Rupees (INR)
 * Issued outside India
 * First issued by International Finance Corporation (IFC) in 2014
 * Popular overseas listing venue: London Stock Exchange
 
-#### Why Masala Bonds Are Important
+**Why Masala Bonds Are Important?**
 
 They shift currency risk from issuer to investor. This makes them attractive for Indian issuers.
 
-#### Key Difference from Foreign Bonds
+### Key Differences: Foreign Bonds vs. Euro Bonds vs. Masala Bonds
 
-|                      | Foreign Bonds                   | Masala Bonds (Euro Bonds)                            |
-| -- | - | - |
-| Currency risk bearer | Issuer                          | Investor                                             |
-| Reason               | If foreign currency appreciates | If INR depreciates against investor's local currency |
-
+| Aspect | Foreign Bonds | Euro Bonds | Masala Bonds |
+|---|---|---|---|
+| **Definition** | Issued in a foreign country and denominated in that country's local currency | Issued in a foreign country and denominated in a currency NOT local to that country | Euro bonds denominated in Indian Rupees (INR), issued outside India |
+| **Country of Issue** | Foreign country (different from issuer's home country) | Foreign country (different from issuer's home country) | Outside India |
+| **Denomination Currency** | Local currency of the country where issued | Currency different from the local currency of the country where issued | Indian Rupees (INR) |
+| **Example** | Indian company issues USD bonds in the United States | US Dollar bond issued in Kuwait | INR-denominated bond issued outside India (e.g., in London) |
+| **Currency Risk Bearer** | Issuer | Issuer | Investor |
+| **Reason for Currency Risk** | If foreign currency appreciates, repayment burden increases for issuer | If foreign currency appreciates, repayment burden increases for issuer | If INR depreciates against investor's local currency, investor bears the loss |
+| **Regulator** | Regulators in respective country of issue | Regulators in respective country of issue | Regulators in respective country of issue (outside India) |
+| **Popular Listing Venue** | Popular listing venues include the New York Stock Exchange (NYSE) for foreign dollar bonds (Yankee bonds) | The primary listing venues are the London Stock Exchange and the Luxembourg Stock Exchange | London Stock Exchange |
+| **First Issuer** | — | — | International Finance Corporation (IFC) in 2014 |
 
 ## Equity vs Debt
 
@@ -405,27 +423,6 @@ They shift currency risk from issuer to investor. This makes them attractive for
 
 ## Exam Memory Shortcut
 
-### Debt Instruments Hierarchy
-
-**Long-Term Debt**
-
-* Bonds
-* Debentures
-* Notes
-* NCDs
-* FCDs
-* PCDs
-
-**Short-Term Debt**
-
-* Treasury Bills
-* Commercial Papers
-* Certificates of Deposit
-
-**International Debt**
-
-* Foreign Bonds
-* Euro Bonds
-* Masala Bonds
+[Insert a Bond Classification Diagram]()
 
 This classification is exactly how debt instruments are commonly grouped in the NISM syllabus and helps in solving conceptual MCQs quickly.

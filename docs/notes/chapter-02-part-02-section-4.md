@@ -5,41 +5,71 @@ Since it is impossible to track thousands of listed companies individually, a ca
 * Tracks market movement using prices of a specific number of shares chosen as representative sample.
 * Most leading indices are weighted by **market capitalisation**.
 
-## Understanding Market Capitalisation Weighted Indices
+## Understanding Market Capitalisation
 
 Most modern indices use the **Free Float Market Capitalisation Methodology**.
 
-### A. Market Capitalisation
+### Market Capitalisation
 
-Market Capitalisation (Market Cap) is calculated as:
+**Market Capitalisation (Market Cap)** represents the total market value of a company's outstanding shares. It is calculated as:
 
-> $\text{Market Cap} = \text{Share Price} \times \text{Number of Outstanding Shares}$
+> **Market Cap = Share Price × Number of Outstanding Shares**
 
-For example:
+**Example:**
 
-| Company   | Share Price | Outstanding Shares | Market Cap      |
-| --------- | ----------- | ------------------ | --------------- |
-| Company A | ₹1,000      | 100 crore          | ₹1,00,000 crore |
-| Company B | ₹100        | 100 crore          | ₹10,000 crore   |
+| Company | Share Price | Outstanding Shares | Market Cap |
+|---|---|---|---|
+| Company A | ₹1,000 | 100 crore | ₹1,00,000 crore |
+| Company B | ₹100 | 100 crore | ₹10,000 crore |
 
-Although Company A and Company B have the same number of shares, Company A has a much larger influence on the index because of its higher market capitalization.
+Although Company A and Company B have the **same number of shares**, Company A has a much larger influence on the index because of its **higher market capitalization**.
 
-### B. Free Float Market Capitalisation
+### Free Float Market Capitalisation
 
-Not all shares are freely available for trading. Promoter holdings, government holdings, and strategic investments are generally excluded. Only publicly tradable shares are considered. This method provides a more realistic representation of actual market participation.
+**Free Float Market Capitalisation** is a refined version of Market Cap that considers **only those shares that are actually available for trading** in the open market.
 
----
+**Why is Free Float Used?**
+
+Not all shares are **freely available for trading**. The following categories of shares are **generally excluded** from free float:
+
+| Excluded Category | Reason for Exclusion |
+|---|---|
+| **Promoter Holdings** | Held by founders/promoters; not actively traded |
+| **Government Holdings** | Held by government entities; strategic in nature |
+| **Strategic Investments** | Held by long-term strategic investors; not for public trading |
+| **Locked-in Shares** | Subject to lock-in periods; cannot be traded |
+
+**Formula:**
+
+> **Free Float Market Cap = Share Price × Number of Free Float Shares**
+
+Where: **Free Float Shares** = Total Outstanding Shares − Excluded Shares
+
+**Example:**
+
+| Company | Share Price | Total Shares | Excluded Shares (Promoter, Govt, etc.) | Free Float Shares | Free Float Market Cap |
+|---|---|---|---|---|---|
+| Company A | ₹1,000 | 100 crore | 60 crore | 40 crore | ₹40,000 crore |
+| Company B | ₹100 | 100 crore | 20 crore | 80 crore | ₹8,000 crore |
+
+**Key Insight:**
+
+Even though Company A has a **larger total Market Cap**, its **Free Float Market Cap** may be lower than Company B's if a significant portion of its shares is held by promoters or the government.
+
+### Why Free Float Methodology is Preferred?
+
+| Reason | Explanation |
+|---|---|
+| **Realistic Representation** | Reflects only shares that are actually available for trading |
+| **Better Index Tracking** | Reduces the impact of strategic holders who rarely trade |
+| **Improved Liquidity Focus** | Gives more weight to companies with higher tradable shares |
+| **Accurate Market Participation** | Provides a truer picture of actual market activity and investor participation |
+
+This method provides a **more realistic representation of actual market participation** and is therefore widely adopted by modern indices such as Nifty 50, Sensex, and MSCI indices.
 
 ## Most Widely Tracked Indices in India
 
-| Index          | Exchange | Number of Stocks |
-| -------------- | -------- | ---------------- |
-| Nifty 50       | NSE      | 50               |
-| S&P BSE Sensex | BSE      | 30               |
-| SX40           | MSEI     | 40               |
-
-
-### Nifty 50
+### 1. Nifty 50
 
 The Nifty 50 is the flagship index of the National Stock Exchange (NSE).
 
@@ -61,7 +91,7 @@ Examples of constituent sectors:
 
 Because of its broad representation, the Nifty 50 is often considered the primary indicator of the Indian equity market.
 
-### S&P BSE Sensex
+### 2. S&P BSE Sensex
 
 The Sensex is the benchmark index of the Bombay Stock Exchange (BSE).
 
@@ -80,7 +110,7 @@ When news channels report:
 
 they are referring to the movement of this index.
 
-### SX40
+### 3. SX40
 
 The SX40 is the benchmark index of the Metropolitan Stock Exchange of India (MSEI).
 
@@ -90,24 +120,15 @@ Characteristics:
 * Represents companies listed on MSEI.
 * Less widely followed than Nifty 50 or Sensex.
 
+### Other Common Indices
 
-## Other Common Indices
-
-* Nifty Next 50, Nifty 100, Nifty 500
-* S&P BSE 100, BSE 500, BSE MidCap, BSE SmallCap
-* Sector indices (Banking, IT, Pharma, FMCG, etc.)
-
-### Broad Market Indices
-
-These indices represent a wider universe of stocks.
-
-#### Nifty Next 50
+**1 Nifty Next 50**
 
 Contains the next 50 largest companies after Nifty 50.
 
 Often viewed as a pool of future Nifty 50 candidates.
 
-#### Nifty 100
+**2.Nifty 100**
 
 Combines:
 
@@ -116,24 +137,23 @@ Combines:
 
 Provides broader market representation.
 
-#### Nifty 500
+**3. Nifty 500**
 
 Tracks 500 companies across large-cap, mid-cap, and small-cap segments.
 
 Represents a substantial portion of the Indian equity market.
 
-#### BSE 500
+**4. BSE 500**
 
 Broad-based index covering 500 companies listed on BSE.
 
 Provides a comprehensive view of the Indian equity market.
 
-
-### Market Capitalization-Based Indices
+## Market Capitalization-Based Indices
 
 These indices categorize companies based on size.
 
-#### Mid-Cap Indices
+### Mid-Cap Indices
 
 Examples:
 
@@ -148,7 +168,7 @@ Characteristics:
 * Higher volatility
 
 
-#### Small-Cap Indices
+### Small-Cap Indices
 
 Examples:
 
@@ -163,7 +183,7 @@ Characteristics:
 * Highest risk and volatility
 
 
-### Sectoral Indices
+## Sectoral Indices
 
 Sectoral indices track specific industries.
 
@@ -251,11 +271,11 @@ For example:
 
 A surprise RBI rate cut may immediately push indices higher due to improved growth expectations.
 
-### 5. Underlying for Investment Products
+## Index based Investment Products
 
 Indices serve as the foundation for several financial products.
 
-#### Index Funds
+### Index Funds
 
 Mutual funds that replicate an index.
 
@@ -263,7 +283,7 @@ Example:
 
 A Nifty 50 Index Fund attempts to mirror the Nifty 50 portfolio.
 
-#### Exchange Traded Funds (ETFs)
+### Exchange Traded Funds (ETFs)
 
 ETFs track indices and trade like shares on stock exchanges.
 
@@ -272,7 +292,7 @@ Examples:
 * Nifty ETF
 * Sensex ETF
 
-#### Index Derivatives
+### Index Derivatives
 
 Derivative contracts based on indices.
 
@@ -306,3 +326,4 @@ A stock may rise 10%, but if the market rises 15%, the stock has actually underp
 * A stock market index is a statistical measure designed to represent the performance of a selected group of securities. 
 * Indices act as benchmarks, sentiment indicators, economic barometers, and the foundation for passive investment products. 
 * The Nifty 50 and Sensex are the two most important indices in India and are widely used to evaluate market performance and investment returns.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
