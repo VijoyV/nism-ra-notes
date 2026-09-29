@@ -34,7 +34,7 @@ Passive investing involves investing in a broad set of securities that fairly re
 
 The objective of a passive investor is to earn the rate of return that the select asset class provides. A passive investor does not decide upon individual securities to buy or sell but rather their analysis is limited to the broader asset class.
 
-### 4.1.3 Core Financial Objectives of Investing
+### 4.1.2 Core Financial Objectives of Investing
 
 1. **Capital Appreciation:** The absolute nominal growth in the underlying market value of the asset.
 2. **Income Generation:** Periodic, contractual, or discretionary cash inflows that accrue to the holder without requiring the asset's liquidation (e.g., corporate equity dividends, debt coupon interest payments).
@@ -42,7 +42,7 @@ The objective of a passive investor is to earn the rate of return that the selec
 
 $$1 + R_n = (1 + R_r)(1 + I)$$
 
-### 4.1.4 The Three Pillars of Wealth Deployment 
+### 4.1.3 The Three Pillars of Wealth Deployment 
 
 **Investing, Trading, and Speculation**
 
