@@ -123,7 +123,7 @@ In simple terms, securities markets act as a bridge between **savers** and **bor
 
 Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)** defines securities broadly to include:
 
-### Traditional Securities
+**Traditional Securities Such as:**
 
 * Shares
 * Stocks
@@ -131,14 +131,14 @@ Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)** defin
 * Debentures
 * Debenture stock
 
-### Investment and Market-linked Instruments
+**Investment and Market-linked Instruments like:**
 
 * Derivatives
 * Mutual Fund Units
 * Collective Investment Scheme Units
 * Pooled Investment Vehicle Units
 
-### Specialized Instruments
+**Specialized Instruments including:**
 
 * Security Receipts
 * Securitized Debt Instruments
@@ -146,7 +146,7 @@ Section 2(h) of the **Securities Contracts (Regulation) Act, 1956 (SCRA)** defin
 * Rights and Interests in Securities
 * Electronic Gold Receipts (declared securities in 2021)
 
-### Exclusion
+**Exclusion:**
 
 * Unit Linked Insurance Policies (ULIPs) are specifically excluded from the definition of securities. 
 

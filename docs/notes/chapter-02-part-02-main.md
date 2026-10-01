@@ -3,9 +3,20 @@ Based on the workbook, here is the hierarchical list of major products and their
 *   **1. Equity Shares**: Represent fractional ownership in a business venture where shareholders collectively own the company, bearing its risks and rewards.
 
 *   **2. Debentures/Bonds/Notes**: Instruments for raising debt that can be secured or unsecured, with various features like convertibility into ordinary shares.
-    *   **Foreign Bonds**: Bonds issued by a company in a foreign country’s market and denominated in that specific local foreign currency.
-    *   **Euro Bonds**: Debt instruments issued in a currency different from the home currency of the country where issued.
-
+    *   **Category based on Location and Currency**
+        *   **Domestic Bond:** Issued iside home country, in local currency.
+        *   **External Bond:**
+            *   **Foreign Bond**: Bonds issued by a company in a foreign country’s market and denominated in that specific local foreign currency.
+            *   **Euro Bond**: Debt instruments issued in a currency different from the home currency of the country where issued.
+            *   **Masala Bond:** Euro bonds denominated in Indian Rupees (INR), issued outside India. First issued by International Finance Corporation (IFC) in 2014, listing venue is London Stock Exchange
+    *   **Types of Debentures - Convertibility**
+        *   **Fully Convertible Debentures (FCD)**
+        *   **Partly Convertible Debentures (PCD)**
+        *   **Non-Convertible Debentures (NCD)**
+    *   **Short-Term Debt Instruments (≤ 1 year):**
+        *   **Treasury Bills (T-Bills)**
+        *   **Commercial Papers (CP)**
+        *   **Certificate of Deposit (CD)**
 *   **3. Warrants**: Provide the right to buy equity shares at a pre-determined price after a specified period of time.
 
 *   **4. Indices**: Statistical measures tracking market movements using a representative sample of liquid shares, often weighted by market capitalization.

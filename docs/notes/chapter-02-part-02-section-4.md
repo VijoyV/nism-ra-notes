@@ -208,8 +208,6 @@ These indices help investors assess the performance of particular sectors rather
 4. Real-time indicator of market sentiments
 5. Underlying for Index Funds, Index Futures and Options
 
-## Understanding the Uses of Indices
-
 ### 1. Reference Point for Comparing Returns
 
 Indices provide a benchmark against which other investments can be evaluated.
@@ -271,11 +269,11 @@ For example:
 
 A surprise RBI rate cut may immediately push indices higher due to improved growth expectations.
 
-## Index based Investment Products
+### 5. Underlying for Index Funds, Index Futures and Options
 
 Indices serve as the foundation for several financial products.
 
-### Index Funds
+#### Index Funds
 
 Mutual funds that replicate an index.
 
@@ -283,7 +281,7 @@ Example:
 
 A Nifty 50 Index Fund attempts to mirror the Nifty 50 portfolio.
 
-### Exchange Traded Funds (ETFs)
+#### Exchange Traded Funds (ETFs)
 
 ETFs track indices and trade like shares on stock exchanges.
 
@@ -292,7 +290,7 @@ Examples:
 * Nifty ETF
 * Sensex ETF
 
-### Index Derivatives
+#### Index Derivatives
 
 Derivative contracts based on indices.
 

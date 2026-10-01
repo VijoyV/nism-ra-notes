@@ -10,13 +10,13 @@ By the end of this chapter, you should understand:
 - Essential qualities of a successful Research Analyst 
 ```
 
-## 1.1 Primary Role of a Research Analyst
+## Primary Role of a Research Analyst
 
 The role of a Research Analyst (RA) is primarily that of a **selector**. Much like a consumer researching a new phone by comparing brands and technical specifications, an RA collects information from various sources and processes that data to help clients make informed investment decisions.
 
 The core function of an RA involves two distinct stages: **Research** (the collection of pertinent information) and **Analysis** (the processing of that data to arrive at a decision).
 
-### 1.1.1 Data Collection and Sources
+### Data Collection and Sources
 
 Analysts require information at three levels to evaluate an investment:
 
@@ -26,7 +26,7 @@ Analysts require information at three levels to evaluate an investment:
 
 - **Company-specific Information:** Sourced from financial statements, annual reports, regulatory filings, management Authorizations, plant visits, and stakeholder interviews.
 
-### 1.1.2 Types of Research Analysts
+### Types of Research Analysts
 
 Analysts are defined by the nature of their analysis, their coverage, and who uses their recommendations.
 
@@ -38,11 +38,11 @@ Analysts are defined by the nature of their analysis, their coverage, and who us
 
 ---
 
-## 1.2 Primary Responsibilities of a Research Analyst
+## Primary Responsibilities of a Research Analyst
 
 The primary responsibility is to evaluate the growth of economies, industries, and specific companies.
 
-### 1.2.1 Understanding the Economy
+### 1 Understanding the Economy
 
 Following Keynesian principles, analysts monitor how government spending and tax rates affect industries. Focus areas include:
 
@@ -54,11 +54,11 @@ Following Keynesian principles, analysts monitor how government spending and tax
 
 - **Global Factors:** Export/import transactions and their impact on GDP.
 
-### 1.2.2 Understanding the Industry
+### 2 Understanding the Industry
 
 Analysts must understand the unique growth drivers and challenges of different sectors, including their **regulatory environment**, business models, competition intensity, and consumer behavior.
 
-### 1.2.3 Understanding Companies
+### 3 Understanding Companies
 
 Companies are evaluated through two primary lenses: Qualitative and Quantitative.
 
@@ -69,7 +69,7 @@ Companies are evaluated through two primary lenses: Qualitative and Quantitative
 
 ---
 
-## 1.3 Basic Principles of Interaction
+## Basic Principles of Interaction
 
 Direct interaction with company management provides insights into a firm's vision and strategy. However, analysts must **cross-verify** management claims to avoid being misled by "rosy pictures" designed to influence market prices.
 
@@ -81,7 +81,7 @@ Direct interaction with company management provides insights into a firm's visio
 
 - **Broad Network:** Meaningful inputs should be gathered not just from management, but also from suppliers, distributors, retailers, and customers.
 
-### 1.3.1 Guidelines for Client Communication
+## Guidelines for Client Communication
 
 - **Realistic View:** Suggestions must be based on facts, avoiding overly optimistic or pessimistic bias.
 
@@ -91,7 +91,7 @@ Direct interaction with company management provides insights into a firm's visio
 
 ---
 
-## 1.4 Important Qualities of a Research Analyst
+## Important Qualities of a Research Analyst
 
 Success in this profession requires a blend of technical skills and specific personality traits.
 

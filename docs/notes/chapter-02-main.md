@@ -23,4 +23,5 @@ Key highlights include:
     *   **Primary Market:** Where issuers raise fresh capital from investors through mechanisms like IPOs, FPOs, and Rights Issues.
     *   **Secondary Market:** Where already-issued securities are traded between investors, providing essential marketability and price discovery.
 *   **Market Participants:** A wide array of entities ensures smooth functioning, including **Stock Exchanges** (trading platforms), **Depositories** (holding electronic securities), **Brokers** (facilitating trades), and **Clearing Corporations** (guaranteeing settlement).
-*   **Transactions and Processes:** The chapter details different trade cycles (Cash, Tom, Spot) and specialized activities like **hedging** to manage risk and **arbitrage** to profit from price discrepancies. It also highlights the shift to **Dematerialization**, converting physical certificates into electronic book entries.
+*   **Transactions and Processes:** The chapter details different trade cycles (Cash, Tom, Spot) and specialized activities like **hedging** to manage risk and **arbitrage** to profit from price discrepancies. 
+*   It also highlights the shift to **Dematerialization**, converting physical certificates into electronic book entries.
