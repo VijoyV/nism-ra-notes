@@ -104,7 +104,7 @@ To bridge information gaps, analysts must actively look beyond corporate filings
 
 ### 4.2.3 Structural Breakdown of the Data Tiers
 
-![The Research Analyst's Path](../images/chapter-04-ra-path-to-decision.png)
+![The Research Analyst's Path](images/chapter-04-ra-path-to-decision.png)
 
 **Macroeconomic Variables:** 
 
