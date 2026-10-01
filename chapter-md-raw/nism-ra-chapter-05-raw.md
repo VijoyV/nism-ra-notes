@@ -1,15 +1,14 @@
-# CHAPTER 5: ECONOMIC ANALYSIS
-
-## LEARNING OBJECTIVES:
+```
+LEARNING OBJECTIVES:
 
 After studying this chapter, you should know about:
-• Principles of Microeconomics and Macroeconomics
-• Key economic variables for carrying out fundamental analysis
-• Sources of Information/data of economic variable for carrying out economic analysis
-• Role of economic analysis in equity research
-• Understanding the nature of cyclical and secular economic trends
 
----
+- Principles of Microeconomics and Macroeconomics
+- Key economic variables for carrying out fundamental analysis
+- Sources of Information/data of economic variable for carrying out economic analysis
+- Role of economic analysis in equity research
+- Understanding the nature of cyclical and secular economic trends
+```
 
 Economics is the study of how people make choices under conditions of scarcity and the impact of those choices for people at an individual level and society at macro level. 
 Economic analysis of human behaviour begins with the assumption that people are rational - they have well-defined goals and try to achieve them as best they can. 

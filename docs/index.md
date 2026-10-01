@@ -2,6 +2,27 @@
 
 The provided *Study Guide** serve as a comprehensive educational guide for individuals preparing for the **NISM-Series-XV: Research Analyst Certification Examination**. They outline the fundamental **responsibilities and ethical standards** required of a professional analyst, emphasizing the importance of independence and objective data collection. The materials cover an extensive range of technical topics, including **securities market structures**, various financial instruments, and the methodologies of **economic, industry, and company analysis**. Readers are introduced to sophisticated evaluation tools such as **financial ratio analysis, valuation models, and technical analysis** patterns. Additionally, the text explains the **legal and regulatory framework** governing Indian financial markets to ensure compliance with SEBI standards. Ultimately, these sources provide a structured roadmap for mastering the **qualitative and quantitative skills** necessary to produce high-quality investment research reports.
 
+## Chapter Weightage (100 Marks)
+
+| Chapter Name |Marks |
+|---|---:|
+| 01. Introduction to Research Analyst Profession | 01 |
+| 02. Introduction to Securities Market | 02 | 
+| 03. Terminology in Equity and Debt Markets | 02 |
+| 04. Fundamentals of Research | 05 |
+| 05. Economic Analysis | 05 |
+| 06. Industry Analysis | 08 |
+| 07. Company Analysis – Business and Governance | 06 |
+| 08. Company Analysis – Financial Analysis | 12 |
+| 09. Corporate Actions | 05 |
+| 10. Valuation Principles | 12 |
+| 11. Fundamental Analysis of Commodities | 05 |
+| 12. Fundamentals of Risk and Return | 07 |
+| 13. Qualities of a Good Research Report | 05 |
+| 14. Legal and Regulatory Environment | 10 |
+| 15. Technical Analysis | 15 |
+| Totla Marks | 100|
+
 ## Chapterwise Overview
 
 ### Chapter 1: Introduction to Research Analyst Profession
