@@ -742,7 +742,7 @@ $\text{Modified Duration}=\frac{\text{Macaulay Duration}}{1+y}$
 Bonds can be classified based on their **coupon payment, maturity, issuer, currency, and special features**. Each bond type is designed to meet different financing and investment objectives. 
 There are **8 bond types** covered in the workbook. 
 
-![Type of Bonds](images/chapter-3-type-of-bonds.png)
+![Type of Bonds](images/chapter-03-type-of-bonds.png)
 
 ### 3.3.1 Zero-Coupon Bond (ZCB)
 
