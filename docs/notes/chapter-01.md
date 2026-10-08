@@ -8,6 +8,8 @@ By the end of this chapter, you should understand:
 - Responsibilities of a Research Analyst
 - Principles for interacting with companies and clients
 - Essential qualities of a successful Research Analyst 
+
+MARKS = 01
 ```
 
 ## Primary Role of a Research Analyst

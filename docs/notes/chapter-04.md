@@ -3,12 +3,13 @@ LEARNING OBJECTIVES:
 
 After studying this chapter, you should know about:
 
-• Investing activity and various approaches to investing
-• Overview of Technical Analysis for investing in stocks
-• Overview of the Fundamental Analysis for investing in stocks
-• Overview of Quantitative Analysis (Econometrics approach)
-• Overview of Behavioral Finance approach to equity investing 
+- Investing activity and various approaches to investing
+- Overview of Technical Analysis for investing in stocks
+- Overview of the Fundamental Analysis for investing in stocks
+- Overview of Quantitative Analysis (Econometrics approach)
+- Overview of Behavioral Finance approach to equity investing 
 
+MARKS = 05
 ```
 ## 4.1 What is Investing?
 

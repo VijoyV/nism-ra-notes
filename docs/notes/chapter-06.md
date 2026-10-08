@@ -15,8 +15,7 @@ After studying this chapter, you should know about:
 - Key Industry Specific Drives and Industry KPIs
 - Regulatory Framework Including Taxation
 
-MARKS = 05
-
+MARKS = 08
 ```
 
 ## 6.1 Role of Industry Analysis in Fundamental Analysis

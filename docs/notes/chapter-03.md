@@ -3,10 +3,11 @@ LEARNING OBJECTIVE:
 
 After studying this chapter, you should know about: 
 
-* Terminology used in equity markets
-* Terminology used in debt markets
-* Different types of bonds and their features
+- Terminology used in Equity Markets
+- Terminology used in Debt Markets
+- Different types of Bonds and Their Features
 
+MARKS = 02
 ```
 
 ## Introduction

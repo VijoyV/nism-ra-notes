@@ -3,12 +3,13 @@ LEARNING OBJECTIVES:
 
 After studying this chapter, you should know about:
 
-* Principles of Microeconomics and Macroeconomics
-* Key economic variables for carrying out fundamental analysis
-* Sources of Information/data of economic variable for carrying out economic analysis
-* Role of economic analysis in equity research
-* Understanding the nature of cyclical and secular economic trends
+- Principles of Microeconomics and Macroeconomics
+- Key economic variables for carrying out fundamental analysis
+- Sources of Information/data of economic variable for carrying out economic analysis
+- Role of economic analysis in equity research
+- Understanding the nature of cyclical and secular economic trends
 
+MARKS = 05
 ```
 
 ## 5.0 Study of Economics
