@@ -1,105 +1,84 @@
-# Chapter 8: Company Analysis – Financial Analysis
+```
+LEARNING OBJECTIVES:
 
-Financial analysis translates qualitative business assessments into numerical expectations. It involves studying a company’s historical performance to forecast its future ability to generate profits and cash flows.
+After studying this chapter, you should know about:
 
----
+- Role of financial analysis in fundamental analysis
+- Consolidated and stand -alone results of a company
+- How to read a balance sheet
+- How to read a profit and loss account statement
+- How to read a cash flow statement
+- Importance of reading audit report  and notes to accounts
+- Financial statement analysis using ratios and commonly used ratios
+- Computation of Dupont analysis
+- Importance of peer comparison
+- Need to track the equity expansion, dividend and earnings history of the  company
+- Importance of studying the ownership structure and insider transactions
 
-## 8.1 Introduction to Financial Statements
-Financial statements are prepared under **accrual accounting**, where income is recognized when earned and expenses when incurred, regardless of when cash changes hands. Under IndAS 1, a complete set includes:
-- **Balance Sheet:** Financial position at a specific point in time.
-- **Profit and Loss (P/L) Statement:** Financial performance over a period.
-- **Statement of Changes in Equity:** Movements in shareholder funds.
-- **Cash Flow Statement:** Sources and uses of cash.
-- **Notes to Accounts:** Detailed explanations of accounting policies and breakdowns of line items.
+MARKS = 12
+```
 
----
+## 8.0 Importance of Understanding Financial Statement
 
-## 8.2 Consolidated vs. Stand-alone Results
-- **Stand-alone Financials:** Represent the financial position of the parent entity alone.
-- **Consolidated Financials:** Treat a parent company and all its controlled subsidiaries as a single economic unit.
-- **Key Insight:** Analysts generally prefer **consolidated statements** as they provide a holistic view of the entire business group's performance.
+We have so far learnt how to analyse a company based on its internal factors as well as based on external factors such as economic and industry conditions.  
 
----
+The next steps involve trying to assess the impact of these factors on the company’s future profit, cash flows and, in turn, the fair val ue of the shares. This is where financial analysis comes. In fact, financial statement analysis serves us in many ways.  
 
-## 8.3 The Balance Sheet
-The balance sheet follows the equation: $\text{Assets} = \text{Equity} + \text{Liabilities}$.
+- In section 6.4, we talked about bottom-up approach to market sizing. That would involve obtaining revenue numbers from financial statement.
+- In section 6.7, we also talked about various industry specific KPIs. Much of the information to calculate such KPIs will have to come from the financial statements.
+- In section 7.5, we discussed about certain financial metrics such as profit margins and financial position that contribute to the strengths or weakness of a company. Information for that also must come from the financial statement.
+- Finally, when we try to understand the expected profits of a business, we must understand the interaction between various financial items. This will also involve studying the past financial statements to understand the behaviour of financial data points or line items .
 
-### I. Common Asset Classifications
-| Category | Definition | Key Line Items |
-| :--- | :--- | :--- |
-| **Non-Current Assets** | Benefits expected beyond one year. | Property, Plant & Equipment (PPE), Goodwill, Intangible Assets, Long-term Investments. |
-| **Current Assets** | Benefits expected within one operating cycle (typically one year). | Inventory, Trade Receivables, Cash & Cash Equivalents, Short-term Investments. |
+Thus, financial statement analysis plays a very important role in fundamental analysis. To be able to do good financial analysis, an analyst need not be a great accountant. But the analyst should be able to read and interpret the financial statements. However, prior knowledge of accounting will certainly be an added advantage.
 
-### II. Equity and Liabilities
-- **Equity:** Represents residual interest belonging to owners (Share Capital + Reserves).
-- **Non-Current Liabilities:** Long-term obligations like term loans and bonds due beyond one year.
-- **Current Liabilities:** Obligations due within one year, such as Trade Payables, short-term debt, and the current portion of long-term debt.
+## 8.1 Introduction to Financial Statement
 
-### III. Balance Sheet Metrics
-- **Total Debt:** Sum of long-term debt, short-term debt, lease obligations, and current maturities.
-- **Working Capital:** $\text{Current Assets} - \text{Current Liabilities}$.
-- **Core Working Capital:** $\text{Inventory} + \text{Trade Receivables} - \text{Trade Payables}$. This measures the capital required to sustain core operations.
+In India, the list of financial statements and its format that listed companies need to maintain and publish are governed by Schedule III of the Companies Act 2013 and IndAS1.
 
----
+As per IndAS1, a complete set of financial statements that listed companies need to publish include the following:
 
-## 8.4 The Profit and Loss (P/L) Account
-The P/L account reveals a company's ability to generate value from its operations.
+### 1. Statement of Financial Position or Balance sheet: 
 
-### I. Key Profit Metrics
-- **EBITDA:** Earning Before Interest, Tax, Depreciation, and Amortization. It measures operating efficiency without the impact of capital structure or non-cash charges.
-- **EBIT (Operating Profit):** EBITDA minus Depreciation and Amortization. Used to measure the ability to service interest.
-- **PAT (Net Profit):** Final profit available to shareholders after all expenses and taxes.
+It provides information on the financial position i.e., assets, liabilities, and equity at the end of the financial reporting period.
 
-### II. Adjusted Profit after Tax
-Analysts calculate **Adjusted PAT** by removing the impact of **Exceptional Items** (one-time, non-recurring events) to understand the company's true sustainable earning power.
+### 2. Statement of Profit and Loss Account: 
 
----
+It provides information about the company’s financial performance i.e., income, expense and profits for a given period . It is also referred to as profit and loss account. IndAS 1 requires the statement to also include other comprehensive income (OCI)
 
-## 8.5 Basics of Cash Flows
-Cash flows are segregated into three distinct streams:
-1.  **Operating Cash Flows:** Cash generated from core business activities (e.g., selling goods). **Warning:** Continuous negative operating cash flow is an alarming signal of risk.
-2.  **Investing Cash Flows:** Cash used for or generated from assets (e.g., buying machinery or selling land).
-3.  **Financing Cash Flows:** Cash related to capital structure (e.g., borrowing loans or paying dividends).
+OCI includes certain gains or losse s on account of changes in fair value of assets and liabilities  that are required/permitted to be not recognized as part of income and expense
 
----
+### 3. Statement of Changes in Shareholder's Equity:
 
-## 8.6 Quality of Accounting: Audit Reports
-An auditor reviews the financial statements and provides one of three opinions:
-- **Clean Report:** No issues found; reflects a "true and fair" view.
-- **Qualified Report:** The auditor has specific reservations about certain accounting treatments.
-- **Disclaimer:** The auditor is unable to verify parts of the financials due to a lack of information.
+Shareholder’s equity refers to the funds that belong to the shareholders. It can undergo change on account of various factors including profits earned, dividends paid, additional shares issued, buy back and certain income and other comprehensive income. IndAS 1 recognizes this statement as part of balance sheet.
 
----
+### 4. Cash Flow Statement:
 
-## 8.7 Commonly Used Ratios
+Cash flow statement provides a summary of the various sources  and uses of cash.
 
-### I. Profitability and Return Ratios
-| Ratio | Formula | Significance |
-| :--- | :--- | :--- |
-| **EBITDA Margin** | $\text{EBITDA} / \text{Net Sales}$ | Measures operating efficiency. |
-| **Return on Equity (ROE)** | $\text{Net Profit} / \text{Average Net-worth}$ | Single most important metric for equity investors. |
-| **Return on Capital Employed (ROCE)** | $\text{EBIT} / \text{Average Total Capital}$ | Measures overall capital productivity (Equity + Debt). |
+### 5. Detailed Notes 
 
-### II. Leverage and Liquidity Ratios
-| Ratio | Formula | Significance |
-| :--- | :--- | :--- |
-| **Debt/Equity** | $\text{Total Debt} / \text{Net-worth}$ | Measures financial risk; ideally $\le 1$. |
-| **Interest Coverage** | $\text{EBIT} / \text{Interest Expense}$ | Ability to pay interest from earnings. |
-| **Current Ratio** | $\text{Current Assets} / \text{Current Liabilities}$ | Ability to meet short-term obligations. |
-| **Quick Ratio** | $(\text{Current Assets} - \text{Inventory}) / \text{Current Liabilities}$ | Measures immediate liquidity. |
+explain the accounting policy and break down of information presented in the Financial Statements.
 
----
+While presenting the financial information, companies will have to provide comparable information for at least one prior period. Thus, every financial statement needs to contain information for the current period and the prior period. Companies can disclose or provide comparative financials for a longer period, if they prefer.
 
-## 8.8 Dupont Analysis
-Dupont Analysis decomposes ROE into three drivers to identify **how** a company is generating returns:
-$$\text{ROE} = \text{Net Profit Margin} \times \text{Asset Turnover} \times \text{Financial Leverage}$$
-- **Insight:** If ROE increases due to higher leverage rather than margin or efficiency, it signals higher risk.
+## 8.2 Stand-alone Financial Statement and Consolidated Financial Statement
 
----
+In the eyes of law every company is a separate registered entity.  However, often we also come across a situation where a company is owned and controlled by another company. 
 
-### **Quick Facts for Revision**
-- **Accrual Basis:** Profits in the P/L do not equal cash in the bank.
-- **Goodwill:** Arises when an acquisition price exceeds the fair value of net assets.
-- **Contingent Liabilities:** Potential obligations recorded in notes (e.g., lawsuits) but not on the balance sheet.
-- **Inventory Turnover:** Higher is better; it indicates how fast stock is converted into sales.
-- **Insider Activity:** If insiders are buying, it is often a strong signal of future profit potential.
+For example, Jio Platforms is a separate company, but it is majority owned and controlled by Reliance Industries Limited. Similarly, Toyota Kirloskar Motor Limited is majority owned by Toyota Motor Corporation, Japan.
+
+Since each company is a separate registered entity, each company prepares its own individual financial statement (referred as stand-alone financial statement). However, in case of large groups, these stand-alone financial statements can prove quite misleading. For instance, Toyota Motor Corporation is a Japanese company, but it operates across the world through several of its subsidiary companies. If we look at the stand-alone financial statement of Toyota Motor corporation, it will only show sales of that ndependent entity  i.e., sales in Japan. Thus, sales of Toyota  group in rest of the world including China, India or North America or any other part of the world done through the subsidiary will not reflect in their sales.
+
+Therefore, companies which have invested in subsidiaries are required to present both consolidated financial statements and standalone financial statements. In consolidated financial statement, all companies that are controlled by a company are treated as part of a single group. Thus, it combines the financial performance of all the group companies together and presents it as part of a single financial statement.
+
+It is important to note that one company can control another company by owning more than 50% of the voting rights or by having the right to appoint majority of the board of directors.  
+
+Company that controls another company is generally referred as the holding company or the parent company. The company that is being controlled is referred a subsidiary.  Therefore, it is not necessary that a holding company should have greater than 50% of the ownership control over the subsidiary. If it has the power to control the strategy and operations of the subsidiary, in a way to change the returns and its timings, and the flows which can also benefit itself, then it is de-facto controlling the subsidiary, and hence such a holding company needs to present the consolidated financial statements as per IndAS110.
+
+In general, while analysing a company from the perspective of an equity analysis, consolidated statements are generally preferred over stand-alone financials. That is because the later provides a more holistic picture of the group performance.
+
+However, sometimes there may be situation that prevents a subsidiary company from distributing dividends to the parent company. This can arise when the subsidiary company is in geography that has strict capital controls or where the subsidiary company has agreed under a debt covenant to not pay any dividend to it s shareholders. In such scenario, it is also important to analyze the stand-alone financial position of the parent company to understand whether it can fend for itself in times of crisis.
+
+SEBI regulations require listed companies to publish consolidated financial statements on an annual basis. Further, it also mandates listed companies to publish stand-alone financial results on a quarterly basis. Even though it is not mandatory, some companies voluntarily publish their consolidated financial statement on quarterly basis.
+
+Equity analysts find it challenging to analyze groups which do not publish consolidated quarterly numbers. Since time gap between two annual reports are almost a year, analysts will have to often contend with dated information if consolidated quarterly numbers are not filed.
